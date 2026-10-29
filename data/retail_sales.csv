@@ -1,0 +1,1801 @@
+Order_ID,Order_Date,Region,Category,Product,Segment,Sales_Channel,Quantity,Unit_Price,Discount,Sales,Profit
+ORD-01488,2024-01-01,East,Technology,Laptop Stand,Consumer,Online,7,75.75,0.0,530.25,220.99
+ORD-01482,2024-01-02,East,Technology,Laptop Stand,Corporate,In-Store,7,61.05,0.15,363.25,110.14
+ORD-01409,2024-01-02,West,Furniture,Office Chair,Consumer,Online,7,785.45,0.1,4948.34,1949.38
+ORD-01622,2024-01-03,East,Furniture,Filing Cabinet,Small Business,Online,1,542.84,0.0,542.84,189.64
+ORD-01739,2024-01-03,Central,Home & Lifestyle,Travel Mug,Corporate,Online,5,117.65,0.0,588.25,176.59
+ORD-00381,2024-01-04,North,Office Supplies,Notebook Set,Small Business,Online,5,43.41,0.15,184.49,57.49
+ORD-01294,2024-01-04,South,Technology,Keyboard,Corporate,Partner,7,307.25,0.0,2150.75,573.91
+ORD-01550,2024-01-04,South,Furniture,Bookshelf,Small Business,In-Store,7,651.05,0.0,4557.35,1030.06
+ORD-00901,2024-01-04,North,Furniture,Standing Desk,Consumer,Online,5,289.94,0.1,1304.73,629.18
+ORD-00846,2024-01-04,East,Furniture,Standing Desk,Consumer,Online,1,674.88,0.1,607.39,245.07
+ORD-01237,2024-01-04,North,Office Supplies,Notebook Set,Consumer,Online,7,74.41,0.0,520.87,154.24
+ORD-00773,2024-01-04,East,Furniture,Filing Cabinet,Consumer,In-Store,2,872.92,0.0,1745.84,445.66
+ORD-00465,2024-01-05,North,Office Supplies,Sticky Notes,Corporate,Online,6,87.88,0.0,527.28,141.21
+ORD-00845,2024-01-05,North,Furniture,Filing Cabinet,Consumer,Partner,7,271.83,0.05,1807.67,754.58
+ORD-01279,2024-01-06,South,Technology,Monitor,Consumer,Online,8,56.54,0.0,452.32,110.63
+ORD-00104,2024-01-06,West,Technology,Keyboard,Corporate,Online,4,614.25,0.1,2211.3,1002.09
+ORD-00575,2024-01-06,West,Office Supplies,Sticky Notes,Small Business,In-Store,5,7.54,0.1,33.93,12.95
+ORD-00707,2024-01-06,East,Home & Lifestyle,Water Bottle,Small Business,In-Store,6,122.78,0.05,699.85,204.87
+ORD-01190,2024-01-06,West,Office Supplies,Ballpoint Pens,Consumer,In-Store,7,22.08,0.05,146.83,37.93
+ORD-01175,2024-01-07,North,Office Supplies,Notebook Set,Consumer,In-Store,6,22.14,0.0,132.84,31.12
+ORD-01532,2024-01-07,North,Furniture,Desk Lamp,Corporate,In-Store,4,101.81,0.05,386.88,146.18
+ORD-00303,2024-01-08,West,Home & Lifestyle,Travel Mug,Consumer,Online,8,45.22,0.0,361.76,175.68
+ORD-01763,2024-01-08,North,Office Supplies,Printer Paper,Corporate,In-Store,8,21.67,0.05,164.69,61.6
+ORD-01070,2024-01-08,South,Office Supplies,Notebook Set,Small Business,Online,1,12.19,0.0,12.19,2.74
+ORD-00790,2024-01-09,East,Office Supplies,Ballpoint Pens,Corporate,In-Store,6,81.56,0.0,489.36,199.8
+ORD-00801,2024-01-09,West,Home & Lifestyle,Lunch Bag,Consumer,In-Store,8,15.38,0.1,110.74,25.78
+ORD-01682,2024-01-10,South,Home & Lifestyle,Lunch Bag,Corporate,Partner,6,134.32,0.05,765.62,213.84
+ORD-01038,2024-01-11,West,Furniture,Standing Desk,Consumer,In-Store,6,756.19,0.2,3629.71,815.26
+ORD-00410,2024-01-11,West,Home & Lifestyle,Travel Mug,Corporate,Partner,6,106.19,0.0,637.14,261.54
+ORD-01121,2024-01-11,East,Furniture,Office Chair,Small Business,Online,7,111.85,0.0,782.95,263.65
+ORD-00839,2024-01-11,South,Office Supplies,Sticky Notes,Corporate,Online,7,77.0,0.15,458.15,191.24
+ORD-00889,2024-01-12,South,Home & Lifestyle,Travel Mug,Consumer,Online,8,13.96,0.05,106.1,44.54
+ORD-01624,2024-01-13,North,Furniture,Desk Lamp,Consumer,In-Store,5,704.28,0.2,2817.12,789.68
+ORD-01366,2024-01-13,North,Technology,Monitor,Corporate,Online,1,200.17,0.0,200.17,96.45
+ORD-01652,2024-01-14,North,Office Supplies,Ballpoint Pens,Consumer,Online,3,41.67,0.15,106.26,23.99
+ORD-01594,2024-01-14,West,Home & Lifestyle,Desk Plant,Consumer,In-Store,4,73.11,0.0,292.44,82.29
+ORD-00478,2024-01-14,East,Home & Lifestyle,Travel Mug,Consumer,Partner,5,122.72,0.15,521.56,123.55
+ORD-00415,2024-01-14,East,Technology,USB-C Hub,Consumer,Online,5,733.69,0.1,3301.61,726.64
+ORD-00233,2024-01-15,East,Technology,USB-C Hub,Consumer,In-Store,7,514.84,0.0,3603.88,1404.45
+ORD-01529,2024-01-16,Central,Furniture,Desk Lamp,Consumer,Online,4,153.61,0.0,614.44,197.72
+ORD-00300,2024-01-16,South,Furniture,Standing Desk,Consumer,Online,2,136.42,0.05,259.2,87.67
+ORD-00540,2024-01-16,West,Home & Lifestyle,Water Bottle,Corporate,Online,4,21.47,0.1,77.29,32.98
+ORD-01744,2024-01-17,East,Home & Lifestyle,Water Bottle,Consumer,In-Store,6,132.42,0.15,675.34,156.92
+ORD-00170,2024-01-17,West,Office Supplies,Desk Organizer,Small Business,Partner,8,29.37,0.0,234.96,72.05
+ORD-00369,2024-01-17,East,Office Supplies,Ballpoint Pens,Consumer,Partner,3,69.56,0.0,208.68,100.04
+ORD-00272,2024-01-17,South,Furniture,Desk Lamp,Small Business,In-Store,1,914.3,0.0,914.3,367.02
+ORD-01167,2024-01-17,West,Office Supplies,Notebook Set,Corporate,Online,3,81.84,0.0,245.52,123.61
+ORD-01783,2024-01-18,West,Technology,Wireless Mouse,Corporate,In-Store,1,233.79,0.0,233.79,55.14
+ORD-00821,2024-01-18,South,Technology,Laptop Stand,Consumer,Online,3,700.04,0.0,2100.12,727.71
+ORD-00429,2024-01-19,East,Office Supplies,Notebook Set,Consumer,Online,6,62.91,0.0,377.46,116.4
+ORD-01399,2024-01-19,South,Technology,USB-C Hub,Consumer,Online,4,767.01,0.1,2761.24,1402.48
+ORD-01180,2024-01-19,West,Technology,USB-C Hub,Small Business,Online,3,567.9,0.0,1703.7,560.62
+ORD-00454,2024-01-19,East,Office Supplies,Printer Paper,Consumer,Online,1,61.06,0.05,58.01,15.66
+ORD-01493,2024-01-22,South,Office Supplies,Notebook Set,Consumer,Online,7,85.66,0.0,599.62,279.15
+ORD-01300,2024-01-22,West,Furniture,Standing Desk,Consumer,Online,5,1185.16,0.05,5629.51,1911.06
+ORD-01590,2024-01-22,East,Furniture,Office Chair,Consumer,In-Store,4,698.89,0.2,2236.45,808.69
+ORD-00830,2024-01-22,North,Office Supplies,Ballpoint Pens,Consumer,In-Store,2,47.82,0.0,95.64,44.15
+ORD-00138,2024-01-23,West,Office Supplies,Sticky Notes,Corporate,Online,6,57.4,0.15,292.74,129.34
+ORD-01536,2024-01-23,East,Home & Lifestyle,Travel Mug,Corporate,Online,6,60.95,0.0,365.7,189.21
+ORD-00787,2024-01-24,South,Office Supplies,Desk Organizer,Corporate,Partner,3,21.66,0.0,64.98,22.93
+ORD-00385,2024-01-24,South,Home & Lifestyle,Backpack,Consumer,In-Store,5,80.71,0.15,343.02,126.55
+ORD-01683,2024-01-26,Central,Technology,Keyboard,Corporate,In-Store,5,695.43,0.0,3477.15,982.42
+ORD-00663,2024-01-26,South,Home & Lifestyle,Travel Mug,Consumer,Online,3,48.12,0.0,144.36,38.35
+ORD-00147,2024-01-26,South,Technology,Wireless Mouse,Small Business,Online,5,216.38,0.1,973.71,324.26
+ORD-00970,2024-01-27,East,Home & Lifestyle,Water Bottle,Corporate,Online,7,89.05,0.15,529.85,126.73
+ORD-00844,2024-01-27,Central,Home & Lifestyle,Travel Mug,Corporate,Online,6,105.2,0.05,599.64,242.32
+ORD-01446,2024-01-27,Central,Technology,Keyboard,Consumer,Online,7,47.88,0.0,335.16,129.89
+ORD-00328,2024-01-28,Central,Office Supplies,Notebook Set,Consumer,In-Store,6,8.17,0.05,46.57,15.01
+ORD-01266,2024-01-28,North,Office Supplies,Notebook Set,Corporate,Online,6,39.92,0.1,215.57,60.13
+ORD-00117,2024-01-28,West,Furniture,Bookshelf,Consumer,Partner,7,207.45,0.1,1306.94,647.59
+ORD-01240,2024-01-30,North,Home & Lifestyle,Travel Mug,Consumer,Online,8,68.96,0.0,551.68,156.64
+ORD-00870,2024-01-30,South,Home & Lifestyle,Desk Plant,Consumer,Partner,6,148.59,0.05,846.96,210.32
+ORD-01019,2024-01-31,East,Furniture,Filing Cabinet,Small Business,Online,2,336.89,0.0,673.78,332.4
+ORD-01099,2024-01-31,East,Home & Lifestyle,Travel Mug,Consumer,Online,3,29.21,0.05,83.25,30.23
+ORD-01452,2024-01-31,East,Home & Lifestyle,Backpack,Consumer,Partner,7,144.08,0.1,907.7,279.88
+ORD-00250,2024-01-31,South,Home & Lifestyle,Lunch Bag,Consumer,Online,3,133.95,0.05,381.76,132.47
+ORD-00902,2024-01-31,East,Furniture,Office Chair,Consumer,Online,4,262.47,0.15,892.4,389.03
+ORD-00562,2024-02-01,South,Office Supplies,Printer Paper,Consumer,Partner,6,15.2,0.05,86.64,39.7
+ORD-00817,2024-02-01,East,Office Supplies,Ballpoint Pens,Consumer,In-Store,7,5.32,0.05,35.38,11.86
+ORD-01110,2024-02-02,South,Furniture,Office Chair,Corporate,Partner,4,447.4,0.0,1789.6,406.54
+ORD-00056,2024-02-02,North,Home & Lifestyle,Water Bottle,Consumer,Online,5,149.09,0.1,670.91,325.03
+ORD-00352,2024-02-02,Central,Technology,Laptop Stand,Consumer,In-Store,3,439.82,0.0,1319.46,493.24
+ORD-00811,2024-02-02,South,Home & Lifestyle,Water Bottle,Consumer,Partner,4,55.26,0.0,221.04,112.62
+ORD-00397,2024-02-02,North,Technology,Monitor,Consumer,Online,1,488.11,0.0,488.11,196.93
+ORD-01781,2024-02-04,South,Home & Lifestyle,Backpack,Consumer,In-Store,6,78.68,0.0,472.08,130.97
+ORD-01526,2024-02-04,North,Furniture,Office Chair,Consumer,Partner,4,534.54,0.0,2138.16,657.98
+ORD-01463,2024-02-04,South,Office Supplies,Notebook Set,Consumer,Partner,7,4.41,0.15,26.24,13.21
+ORD-01286,2024-02-05,Central,Technology,Wireless Mouse,Consumer,In-Store,3,172.03,0.1,464.48,183.62
+ORD-01518,2024-02-05,West,Office Supplies,Notebook Set,Corporate,Online,6,59.85,0.05,341.14,88.94
+ORD-01270,2024-02-05,West,Office Supplies,Desk Organizer,Small Business,Online,5,22.42,0.0,112.1,47.54
+ORD-00699,2024-02-06,East,Home & Lifestyle,Desk Plant,Corporate,Partner,5,31.28,0.0,156.4,37.4
+ORD-00574,2024-02-06,South,Office Supplies,Notebook Set,Small Business,Partner,6,65.47,0.0,392.82,137.47
+ORD-01642,2024-02-06,South,Office Supplies,Ballpoint Pens,Consumer,Online,7,75.5,0.0,528.5,125.01
+ORD-00848,2024-02-07,East,Office Supplies,Ballpoint Pens,Small Business,Partner,4,36.91,0.0,147.64,37.52
+ORD-00584,2024-02-07,East,Technology,Monitor,Consumer,Online,2,704.18,0.0,1408.36,573.4
+ORD-01464,2024-02-07,North,Home & Lifestyle,Backpack,Consumer,Partner,1,115.16,0.0,115.16,26.14
+ORD-01653,2024-02-07,South,Furniture,Desk Lamp,Consumer,Online,4,984.47,0.1,3544.09,954.14
+ORD-01453,2024-02-07,East,Technology,Keyboard,Corporate,Partner,7,675.35,0.0,4727.45,1810.26
+ORD-00887,2024-02-08,West,Office Supplies,Notebook Set,Consumer,Partner,3,68.1,0.0,204.3,73.45
+ORD-00546,2024-02-09,South,Furniture,Office Chair,Consumer,In-Store,7,348.17,0.05,2315.33,1012.02
+ORD-00898,2024-02-09,East,Office Supplies,Sticky Notes,Corporate,In-Store,3,72.31,0.05,206.08,98.99
+ORD-00542,2024-02-10,East,Technology,USB-C Hub,Corporate,Online,8,811.68,0.0,6493.44,1763.42
+ORD-01267,2024-02-10,South,Home & Lifestyle,Water Bottle,Corporate,Online,2,79.92,0.05,151.85,75.49
+ORD-01021,2024-02-10,South,Office Supplies,Printer Paper,Consumer,Online,8,17.78,0.0,142.24,60.56
+ORD-01026,2024-02-10,West,Technology,Keyboard,Consumer,Online,5,125.5,0.0,627.5,208.12
+ORD-00858,2024-02-11,East,Home & Lifestyle,Desk Plant,Consumer,Online,6,101.12,0.0,606.72,140.02
+ORD-00150,2024-02-12,South,Technology,Keyboard,Consumer,Online,8,111.88,0.0,895.04,342.41
+ORD-01136,2024-02-12,West,Home & Lifestyle,Desk Plant,Consumer,In-Store,7,39.97,0.0,279.79,91.34
+ORD-01411,2024-02-14,South,Home & Lifestyle,Lunch Bag,Consumer,Online,2,85.03,0.0,170.06,75.22
+ORD-01470,2024-02-14,East,Office Supplies,Notebook Set,Consumer,Partner,1,25.2,0.0,25.2,5.84
+ORD-00619,2024-02-14,Central,Technology,Keyboard,Corporate,Partner,1,513.31,0.05,487.64,153.58
+ORD-01351,2024-02-14,South,Office Supplies,Printer Paper,Consumer,In-Store,4,25.97,0.0,103.88,35.39
+ORD-01615,2024-02-14,East,Technology,USB-C Hub,Consumer,Partner,1,504.0,0.0,504.0,256.94
+ORD-00036,2024-02-16,North,Technology,Monitor,Consumer,In-Store,6,258.33,0.15,1317.48,504.19
+ORD-00279,2024-02-17,North,Technology,Keyboard,Corporate,Online,2,278.84,0.0,557.68,263.06
+ORD-01456,2024-02-17,South,Home & Lifestyle,Lunch Bag,Consumer,Online,6,126.6,0.1,683.64,279.83
+ORD-00518,2024-02-18,Central,Office Supplies,Desk Organizer,Corporate,In-Store,8,34.37,0.0,274.96,118.93
+ORD-01035,2024-02-18,West,Furniture,Desk Lamp,Corporate,Partner,1,1199.37,0.1,1079.43,265.67
+ORD-01362,2024-02-19,North,Home & Lifestyle,Travel Mug,Corporate,Online,5,90.19,0.2,360.76,113.13
+ORD-00045,2024-02-19,North,Office Supplies,Desk Organizer,Small Business,Online,2,29.76,0.0,59.52,29.23
+ORD-01769,2024-02-19,Central,Furniture,Standing Desk,Consumer,Partner,1,965.85,0.0,965.85,494.42
+ORD-00387,2024-02-19,South,Office Supplies,Printer Paper,Small Business,Online,5,80.14,0.1,360.63,80.32
+ORD-00899,2024-02-21,Central,Office Supplies,Desk Organizer,Consumer,Online,8,63.29,0.1,455.69,210.43
+ORD-00659,2024-02-22,Central,Furniture,Desk Lamp,Corporate,In-Store,8,1119.12,0.15,7610.02,2269.18
+ORD-01022,2024-02-22,Central,Office Supplies,Desk Organizer,Consumer,In-Store,4,27.77,0.0,111.08,47.72
+ORD-01215,2024-02-24,East,Technology,Laptop Stand,Small Business,Online,5,603.75,0.0,3018.75,972.86
+ORD-01253,2024-02-24,West,Furniture,Filing Cabinet,Corporate,Online,3,1094.44,0.0,3283.32,1348.37
+ORD-00069,2024-02-25,South,Office Supplies,Ballpoint Pens,Consumer,Partner,5,61.77,0.0,308.85,124.77
+ORD-01027,2024-02-26,Central,Office Supplies,Sticky Notes,Consumer,In-Store,4,83.54,0.15,284.04,67.14
+ORD-01055,2024-02-26,East,Home & Lifestyle,Backpack,Corporate,In-Store,4,135.6,0.15,461.04,154.84
+ORD-00217,2024-02-27,East,Technology,Keyboard,Consumer,Online,7,834.52,0.1,5257.48,1722.25
+ORD-01588,2024-02-27,East,Home & Lifestyle,Desk Plant,Consumer,In-Store,6,155.75,0.2,747.6,216.19
+ORD-00127,2024-02-27,Central,Home & Lifestyle,Backpack,Consumer,Partner,3,47.09,0.05,134.21,40.93
+ORD-01571,2024-02-28,West,Office Supplies,Notebook Set,Corporate,Online,2,52.5,0.0,105.0,53.95
+ORD-01096,2024-02-28,West,Furniture,Filing Cabinet,Consumer,Online,1,800.99,0.1,720.89,233.32
+ORD-00439,2024-02-29,South,Home & Lifestyle,Travel Mug,Consumer,In-Store,7,86.7,0.15,515.86,161.06
+ORD-00280,2024-03-01,East,Technology,Wireless Mouse,Consumer,Partner,8,788.32,0.15,5360.58,1831.77
+ORD-01361,2024-03-01,North,Furniture,Office Chair,Consumer,Online,5,992.38,0.0,4961.9,2226.17
+ORD-00431,2024-03-02,East,Furniture,Standing Desk,Corporate,Online,2,608.2,0.05,1155.58,306.86
+ORD-01122,2024-03-02,East,Technology,Wireless Mouse,Consumer,In-Store,7,204.77,0.0,1433.39,520.63
+ORD-00246,2024-03-02,East,Office Supplies,Notebook Set,Consumer,In-Store,6,54.66,0.1,295.16,75.97
+ORD-01328,2024-03-02,East,Technology,USB-C Hub,Consumer,In-Store,3,178.7,0.05,509.29,249.82
+ORD-00678,2024-03-02,Central,Home & Lifestyle,Water Bottle,Consumer,In-Store,4,114.48,0.15,389.23,106.96
+ORD-01256,2024-03-03,Central,Home & Lifestyle,Lunch Bag,Consumer,Online,2,54.6,0.0,109.2,30.5
+ORD-00007,2024-03-03,North,Office Supplies,Printer Paper,Consumer,In-Store,2,13.29,0.05,25.25,12.11
+ORD-00881,2024-03-03,East,Technology,Wireless Mouse,Corporate,Online,1,215.59,0.0,215.59,76.28
+ORD-00753,2024-03-04,West,Technology,Keyboard,Consumer,Partner,7,285.01,0.1,1795.56,552.12
+ORD-01721,2024-03-05,North,Home & Lifestyle,Backpack,Consumer,Online,8,34.36,0.0,274.88,127.74
+ORD-00196,2024-03-05,West,Office Supplies,Desk Organizer,Corporate,Partner,7,15.71,0.0,109.97,46.25
+ORD-01543,2024-03-05,South,Technology,USB-C Hub,Consumer,Online,2,151.35,0.2,242.16,118.64
+ORD-00728,2024-03-05,West,Technology,Monitor,Consumer,Online,8,226.58,0.15,1540.74,650.63
+ORD-00172,2024-03-06,Central,Furniture,Desk Lamp,Consumer,In-Store,2,820.59,0.05,1559.12,377.89
+ORD-00001,2024-03-06,South,Office Supplies,Sticky Notes,Corporate,Online,1,79.01,0.0,79.01,21.43
+ORD-01531,2024-03-06,South,Home & Lifestyle,Water Bottle,Consumer,Online,6,113.73,0.05,648.26,164.96
+ORD-00695,2024-03-06,West,Home & Lifestyle,Travel Mug,Small Business,Online,6,91.56,0.0,549.36,137.27
+ORD-01633,2024-03-07,East,Furniture,Filing Cabinet,Consumer,Online,8,1188.17,0.05,9030.09,2541.51
+ORD-00359,2024-03-07,North,Office Supplies,Ballpoint Pens,Consumer,In-Store,8,55.7,0.0,445.6,163.79
+ORD-00826,2024-03-07,South,Technology,Keyboard,Consumer,Online,3,56.62,0.0,169.86,55.92
+ORD-00133,2024-03-07,East,Office Supplies,Ballpoint Pens,Consumer,Online,2,39.52,0.05,75.09,17.81
+ORD-00910,2024-03-08,South,Technology,Wireless Mouse,Corporate,In-Store,4,732.68,0.15,2491.11,774.41
+ORD-00033,2024-03-08,East,Office Supplies,Desk Organizer,Corporate,Online,6,37.65,0.2,180.72,82.97
+ORD-00010,2024-03-09,South,Office Supplies,Printer Paper,Corporate,In-Store,5,5.8,0.1,26.1,7.16
+ORD-00581,2024-03-09,West,Office Supplies,Printer Paper,Consumer,In-Store,6,65.04,0.0,390.24,144.4
+ORD-00951,2024-03-09,North,Technology,Laptop Stand,Corporate,Online,8,21.7,0.0,173.6,48.92
+ORD-01690,2024-03-09,West,Office Supplies,Desk Organizer,Consumer,Online,5,88.75,0.2,355.0,165.83
+ORD-00977,2024-03-10,Central,Technology,Wireless Mouse,Consumer,In-Store,8,608.29,0.0,4866.32,1872.9
+ORD-00791,2024-03-10,South,Home & Lifestyle,Lunch Bag,Corporate,In-Store,2,43.99,0.0,87.98,22.43
+ORD-00243,2024-03-10,West,Home & Lifestyle,Desk Plant,Corporate,In-Store,7,12.4,0.0,86.8,28.73
+ORD-00376,2024-03-10,South,Office Supplies,Sticky Notes,Consumer,Partner,8,21.91,0.2,140.22,61.27
+ORD-00700,2024-03-10,West,Technology,Laptop Stand,Consumer,Online,6,201.27,0.05,1147.24,390.69
+ORD-00674,2024-03-10,Central,Home & Lifestyle,Desk Plant,Consumer,Online,7,89.22,0.0,624.54,220.38
+ORD-00218,2024-03-11,South,Home & Lifestyle,Water Bottle,Corporate,Partner,7,158.91,0.1,1001.13,444.7
+ORD-00087,2024-03-12,South,Office Supplies,Desk Organizer,Small Business,In-Store,7,26.17,0.1,164.87,62.37
+ORD-01788,2024-03-13,South,Furniture,Office Chair,Consumer,Partner,3,186.14,0.0,558.42,264.29
+ORD-01738,2024-03-13,West,Technology,Monitor,Consumer,Online,4,342.87,0.0,1371.48,456.89
+ORD-00588,2024-03-13,North,Office Supplies,Ballpoint Pens,Consumer,In-Store,3,48.94,0.1,132.14,65.37
+ORD-00891,2024-03-14,East,Furniture,Bookshelf,Corporate,Online,2,700.32,0.1,1260.58,398.13
+ORD-01436,2024-03-15,South,Furniture,Desk Lamp,Consumer,Online,4,1195.61,0.15,4065.07,2081.02
+ORD-00580,2024-03-15,Central,Office Supplies,Printer Paper,Corporate,In-Store,5,9.4,0.1,42.3,14.64
+ORD-01289,2024-03-15,South,Technology,Keyboard,Consumer,In-Store,4,433.18,0.1,1559.45,577.77
+ORD-01450,2024-03-16,Central,Technology,Wireless Mouse,Small Business,In-Store,8,246.68,0.0,1973.44,771.64
+ORD-01359,2024-03-16,South,Technology,Laptop Stand,Consumer,Online,7,578.89,0.0,4052.23,1812.71
+ORD-00258,2024-03-16,East,Technology,Monitor,Corporate,In-Store,8,766.81,0.0,6134.48,2406.08
+ORD-01730,2024-03-17,South,Technology,Monitor,Consumer,Online,6,763.93,0.2,3666.86,1058.07
+ORD-00516,2024-03-17,South,Home & Lifestyle,Water Bottle,Corporate,Online,3,149.81,0.0,449.43,177.65
+ORD-01166,2024-03-17,South,Home & Lifestyle,Travel Mug,Corporate,Partner,4,152.93,0.15,519.96,195.09
+ORD-00818,2024-03-18,North,Furniture,Office Chair,Corporate,In-Store,7,31.25,0.0,218.75,66.5
+ORD-00171,2024-03-18,Central,Home & Lifestyle,Desk Plant,Consumer,Online,8,34.02,0.0,272.16,70.0
+ORD-00460,2024-03-18,West,Technology,Keyboard,Consumer,In-Store,8,827.85,0.2,5298.24,2505.59
+ORD-00322,2024-03-19,Central,Technology,USB-C Hub,Consumer,Online,2,253.01,0.05,480.72,118.73
+ORD-01227,2024-03-19,North,Office Supplies,Printer Paper,Corporate,In-Store,2,67.21,0.1,120.98,43.6
+ORD-00583,2024-03-19,West,Furniture,Filing Cabinet,Corporate,Online,8,288.82,0.2,1848.45,772.67
+ORD-00310,2024-03-20,West,Office Supplies,Printer Paper,Corporate,In-Store,8,58.89,0.05,447.56,103.48
+ORD-00480,2024-03-20,East,Office Supplies,Notebook Set,Consumer,Partner,7,65.58,0.0,459.06,113.55
+ORD-01272,2024-03-20,South,Technology,Laptop Stand,Consumer,In-Store,5,726.67,0.0,3633.35,1117.05
+ORD-00808,2024-03-21,South,Office Supplies,Printer Paper,Consumer,In-Store,2,7.93,0.05,15.07,3.37
+ORD-01538,2024-03-21,North,Furniture,Standing Desk,Consumer,Online,4,936.26,0.1,3370.54,1696.47
+ORD-01484,2024-03-22,North,Technology,Wireless Mouse,Corporate,Partner,1,555.24,0.0,555.24,181.78
+ORD-01489,2024-03-22,Central,Furniture,Office Chair,Corporate,Online,6,1192.35,0.0,7154.1,2702.47
+ORD-01466,2024-03-22,East,Furniture,Filing Cabinet,Consumer,In-Store,1,1038.04,0.1,934.24,281.31
+ORD-01579,2024-03-23,East,Office Supplies,Printer Paper,Corporate,Partner,7,25.75,0.0,180.25,59.87
+ORD-00501,2024-03-24,South,Office Supplies,Sticky Notes,Corporate,Online,6,63.1,0.15,321.81,111.6
+ORD-00120,2024-03-24,East,Office Supplies,Ballpoint Pens,Corporate,Online,4,77.06,0.05,292.83,90.06
+ORD-01321,2024-03-24,South,Office Supplies,Sticky Notes,Consumer,In-Store,1,73.23,0.15,62.25,31.54
+ORD-00873,2024-03-24,West,Furniture,Bookshelf,Corporate,Online,8,796.55,0.1,5735.16,1389.8
+ORD-01216,2024-03-24,North,Home & Lifestyle,Water Bottle,Consumer,In-Store,3,93.45,0.15,238.3,120.66
+ORD-00365,2024-03-25,South,Furniture,Standing Desk,Consumer,Online,3,921.56,0.0,2764.68,1307.22
+ORD-00538,2024-03-25,Central,Office Supplies,Ballpoint Pens,Consumer,Online,4,23.52,0.0,94.08,40.32
+ORD-01020,2024-03-25,East,Home & Lifestyle,Water Bottle,Corporate,In-Store,2,118.21,0.0,236.42,79.01
+ORD-00726,2024-03-26,East,Furniture,Standing Desk,Consumer,Online,3,970.52,0.0,2911.56,664.07
+ORD-00497,2024-03-27,East,Office Supplies,Notebook Set,Consumer,Online,2,9.69,0.0,19.38,8.48
+ORD-00778,2024-03-27,South,Office Supplies,Ballpoint Pens,Consumer,Partner,2,60.2,0.05,114.38,53.5
+ORD-00313,2024-03-27,Central,Furniture,Bookshelf,Small Business,Online,1,323.48,0.15,274.96,85.84
+ORD-00198,2024-03-27,West,Home & Lifestyle,Desk Plant,Consumer,Online,1,45.28,0.0,45.28,18.83
+ORD-01050,2024-03-28,East,Home & Lifestyle,Water Bottle,Corporate,Online,2,115.23,0.0,230.46,118.33
+ORD-00863,2024-03-28,South,Technology,Laptop Stand,Consumer,In-Store,3,67.87,0.1,183.25,42.08
+ORD-00724,2024-03-28,North,Technology,USB-C Hub,Consumer,In-Store,6,326.87,0.0,1961.22,458.61
+ORD-01157,2024-03-28,East,Home & Lifestyle,Water Bottle,Small Business,In-Store,2,82.13,0.0,164.26,36.46
+ORD-01343,2024-03-28,East,Office Supplies,Ballpoint Pens,Consumer,Online,6,4.58,0.0,27.48,11.53
+ORD-00946,2024-03-28,South,Furniture,Desk Lamp,Corporate,In-Store,8,66.66,0.15,453.29,189.91
+ORD-01619,2024-03-29,South,Office Supplies,Ballpoint Pens,Consumer,In-Store,3,86.48,0.1,233.5,90.49
+ORD-00386,2024-03-30,North,Home & Lifestyle,Desk Plant,Corporate,Online,5,86.22,0.1,387.99,135.41
+ORD-00784,2024-03-30,East,Office Supplies,Sticky Notes,Corporate,Partner,1,22.46,0.1,20.21,6.28
+ORD-00783,2024-03-30,South,Furniture,Office Chair,Corporate,Partner,5,801.48,0.0,4007.4,1188.51
+ORD-00418,2024-03-30,East,Technology,Monitor,Consumer,In-Store,3,631.04,0.1,1703.81,598.5
+ORD-00436,2024-03-31,South,Home & Lifestyle,Lunch Bag,Consumer,Online,4,92.45,0.05,351.31,138.94
+ORD-01605,2024-03-31,North,Office Supplies,Desk Organizer,Small Business,In-Store,8,40.57,0.1,292.1,114.41
+ORD-01238,2024-03-31,North,Furniture,Office Chair,Corporate,In-Store,7,233.13,0.0,1631.91,601.36
+ORD-00874,2024-04-01,North,Home & Lifestyle,Lunch Bag,Consumer,Online,4,45.96,0.0,183.84,88.84
+ORD-01610,2024-04-02,North,Furniture,Desk Lamp,Consumer,Partner,2,927.25,0.0,1854.5,491.58
+ORD-01630,2024-04-02,South,Furniture,Filing Cabinet,Small Business,Partner,7,738.53,0.05,4911.22,1933.84
+ORD-00157,2024-04-02,South,Home & Lifestyle,Water Bottle,Consumer,In-Store,2,78.16,0.0,156.32,36.55
+ORD-00759,2024-04-03,East,Office Supplies,Printer Paper,Consumer,Online,7,9.65,0.1,60.8,24.07
+ORD-00018,2024-04-03,North,Technology,Wireless Mouse,Small Business,In-Store,2,344.08,0.1,619.34,302.96
+ORD-01005,2024-04-03,West,Furniture,Filing Cabinet,Consumer,Online,5,381.96,0.0,1909.8,637.09
+ORD-00221,2024-04-03,West,Furniture,Office Chair,Consumer,Online,3,1173.81,0.1,3169.29,1148.9
+ORD-00705,2024-04-04,North,Technology,Monitor,Consumer,Partner,3,273.45,0.15,697.3,178.04
+ORD-00074,2024-04-04,South,Home & Lifestyle,Water Bottle,Consumer,Online,3,110.88,0.1,299.38,94.54
+ORD-00945,2024-04-04,South,Technology,Wireless Mouse,Consumer,In-Store,2,274.82,0.0,549.64,184.49
+ORD-01776,2024-04-05,West,Office Supplies,Ballpoint Pens,Consumer,Online,3,32.17,0.05,91.68,23.42
+ORD-00434,2024-04-05,East,Home & Lifestyle,Travel Mug,Corporate,In-Store,5,77.09,0.1,346.9,130.71
+ORD-01645,2024-04-06,East,Office Supplies,Sticky Notes,Small Business,In-Store,6,58.41,0.0,350.46,144.26
+ORD-00670,2024-04-06,West,Office Supplies,Sticky Notes,Consumer,In-Store,7,78.76,0.0,551.32,158.08
+ORD-00443,2024-04-06,North,Office Supplies,Ballpoint Pens,Consumer,Online,4,64.38,0.15,218.89,67.44
+ORD-00414,2024-04-06,North,Technology,Monitor,Corporate,Online,7,818.31,0.0,5728.17,2802.61
+ORD-00948,2024-04-08,South,Furniture,Filing Cabinet,Corporate,Online,2,308.26,0.0,616.52,193.87
+ORD-01358,2024-04-08,South,Home & Lifestyle,Backpack,Small Business,In-Store,7,108.22,0.05,719.66,328.27
+ORD-00604,2024-04-08,West,Office Supplies,Ballpoint Pens,Consumer,Online,1,37.11,0.05,35.25,7.85
+ORD-00823,2024-04-09,West,Furniture,Desk Lamp,Consumer,Partner,7,652.19,0.15,3880.53,1012.9
+ORD-00682,2024-04-10,South,Office Supplies,Desk Organizer,Consumer,Online,3,5.42,0.05,15.45,4.15
+ORD-01342,2024-04-10,North,Technology,Monitor,Consumer,Online,4,829.78,0.05,3153.16,1247.34
+ORD-00721,2024-04-11,Central,Technology,Laptop Stand,Consumer,In-Store,7,625.5,0.0,4378.5,1715.26
+ORD-01528,2024-04-11,South,Furniture,Standing Desk,Small Business,Online,2,791.67,0.05,1504.17,571.78
+ORD-00118,2024-04-12,West,Home & Lifestyle,Desk Plant,Consumer,Partner,6,94.29,0.0,565.74,125.53
+ORD-00306,2024-04-12,West,Technology,Monitor,Consumer,In-Store,3,405.21,0.0,1215.63,624.07
+ORD-00100,2024-04-12,East,Office Supplies,Notebook Set,Consumer,In-Store,5,87.4,0.0,437.0,145.72
+ORD-00241,2024-04-12,West,Office Supplies,Printer Paper,Consumer,Partner,2,28.7,0.05,54.53,19.46
+ORD-01445,2024-04-12,South,Furniture,Standing Desk,Corporate,Online,8,665.12,0.0,5320.96,1495.17
+ORD-00769,2024-04-12,North,Technology,Monitor,Consumer,Online,5,594.94,0.0,2974.7,983.7
+ORD-00620,2024-04-12,West,Technology,Keyboard,Small Business,Online,3,620.76,0.15,1582.94,693.38
+ORD-00462,2024-04-12,West,Office Supplies,Ballpoint Pens,Consumer,Partner,4,5.2,0.1,18.72,8.58
+ORD-01090,2024-04-13,West,Technology,Wireless Mouse,Small Business,Online,6,431.46,0.0,2588.76,995.99
+ORD-00329,2024-04-13,North,Home & Lifestyle,Backpack,Small Business,Online,7,15.81,0.0,110.67,43.86
+ORD-01187,2024-04-14,South,Office Supplies,Ballpoint Pens,Consumer,Partner,7,53.44,0.0,374.08,169.23
+ORD-00834,2024-04-14,South,Technology,Wireless Mouse,Consumer,Online,8,609.36,0.05,4631.14,2360.89
+ORD-01063,2024-04-15,East,Furniture,Standing Desk,Corporate,In-Store,8,980.06,0.05,7448.46,1642.8
+ORD-00528,2024-04-15,East,Technology,USB-C Hub,Corporate,Online,3,86.93,0.05,247.75,74.59
+ORD-01612,2024-04-15,South,Office Supplies,Ballpoint Pens,Small Business,Partner,1,19.92,0.1,17.93,7.35
+ORD-00408,2024-04-15,North,Furniture,Filing Cabinet,Corporate,Online,8,173.83,0.0,1390.64,535.62
+ORD-00256,2024-04-15,South,Technology,Laptop Stand,Consumer,In-Store,8,192.16,0.1,1383.55,360.09
+ORD-00924,2024-04-16,Central,Furniture,Filing Cabinet,Consumer,Online,8,72.88,0.05,553.89,131.48
+ORD-00522,2024-04-16,West,Office Supplies,Printer Paper,Consumer,Partner,4,57.6,0.05,218.88,97.41
+ORD-00975,2024-04-18,Central,Home & Lifestyle,Water Bottle,Consumer,Online,7,105.65,0.0,739.55,295.19
+ORD-00938,2024-04-18,Central,Office Supplies,Notebook Set,Consumer,Online,1,26.73,0.1,24.06,7.47
+ORD-01575,2024-04-18,North,Office Supplies,Desk Organizer,Consumer,In-Store,5,74.16,0.05,352.26,122.87
+ORD-00457,2024-04-18,South,Office Supplies,Ballpoint Pens,Corporate,In-Store,3,20.8,0.15,53.04,23.96
+ORD-01607,2024-04-18,North,Home & Lifestyle,Desk Plant,Corporate,Online,8,64.75,0.2,414.4,158.22
+ORD-00752,2024-04-18,North,Office Supplies,Sticky Notes,Corporate,In-Store,5,80.58,0.15,342.46,153.91
+ORD-01677,2024-04-19,East,Furniture,Filing Cabinet,Consumer,Partner,2,595.36,0.0,1190.72,523.2
+ORD-01524,2024-04-19,East,Technology,Keyboard,Consumer,In-Store,5,417.68,0.0,2088.4,666.28
+ORD-01698,2024-04-19,South,Office Supplies,Notebook Set,Consumer,Online,3,55.62,0.0,166.86,82.06
+ORD-01481,2024-04-20,North,Home & Lifestyle,Travel Mug,Consumer,Online,8,156.07,0.05,1186.13,607.68
+ORD-00273,2024-04-20,North,Technology,Monitor,Consumer,Online,8,784.71,0.2,5022.14,1698.29
+ORD-01104,2024-04-20,South,Furniture,Bookshelf,Small Business,Online,4,972.78,0.0,3891.12,942.03
+ORD-00357,2024-04-20,Central,Furniture,Standing Desk,Consumer,Online,4,1180.07,0.0,4720.28,1161.62
+ORD-00182,2024-04-21,Central,Home & Lifestyle,Lunch Bag,Consumer,Online,3,23.17,0.15,59.08,28.08
+ORD-00390,2024-04-22,Central,Furniture,Filing Cabinet,Consumer,Online,7,40.19,0.05,267.26,126.65
+ORD-00058,2024-04-22,East,Office Supplies,Desk Organizer,Corporate,Partner,5,89.56,0.0,447.8,99.48
+ORD-01046,2024-04-22,Central,Home & Lifestyle,Desk Plant,Consumer,Online,5,79.63,0.0,398.15,140.86
+ORD-01229,2024-04-22,West,Technology,USB-C Hub,Consumer,Partner,1,70.64,0.0,70.64,16.61
+ORD-00961,2024-04-22,Central,Furniture,Desk Lamp,Consumer,Online,7,565.09,0.2,3164.5,1013.18
+ORD-00536,2024-04-22,North,Home & Lifestyle,Travel Mug,Consumer,Online,4,61.94,0.15,210.6,66.14
+ORD-01537,2024-04-22,North,Furniture,Bookshelf,Small Business,In-Store,2,835.64,0.0,1671.28,433.3
+ORD-00533,2024-04-23,East,Technology,Laptop Stand,Consumer,Online,3,818.64,0.0,2455.92,1101.2
+ORD-00884,2024-04-23,South,Technology,Wireless Mouse,Consumer,In-Store,1,305.76,0.1,275.18,134.78
+ORD-01406,2024-04-23,East,Office Supplies,Ballpoint Pens,Corporate,Online,4,20.48,0.1,73.73,24.11
+ORD-01655,2024-04-24,West,Office Supplies,Sticky Notes,Consumer,In-Store,8,32.21,0.1,231.91,78.88
+ORD-00847,2024-04-24,South,Furniture,Desk Lamp,Small Business,In-Store,7,1005.9,0.15,5985.1,3092.29
+ORD-00750,2024-04-25,Central,Home & Lifestyle,Lunch Bag,Corporate,Partner,5,28.25,0.05,134.19,51.68
+ORD-00937,2024-04-25,West,Technology,USB-C Hub,Consumer,In-Store,2,254.75,0.0,509.5,242.45
+ORD-01695,2024-04-26,West,Office Supplies,Sticky Notes,Corporate,Online,4,70.55,0.0,282.2,96.52
+ORD-00178,2024-04-27,North,Office Supplies,Sticky Notes,Corporate,Partner,4,46.1,0.0,184.4,77.58
+ORD-00083,2024-04-27,East,Furniture,Standing Desk,Consumer,Online,4,162.96,0.05,619.25,199.52
+ORD-00287,2024-04-27,Central,Office Supplies,Printer Paper,Consumer,Online,5,78.91,0.0,394.55,138.77
+ORD-01556,2024-04-28,North,Office Supplies,Sticky Notes,Consumer,Online,2,83.01,0.0,166.02,43.02
+ORD-01487,2024-04-28,West,Home & Lifestyle,Lunch Bag,Consumer,In-Store,6,27.55,0.0,165.3,43.24
+ORD-01778,2024-04-29,West,Home & Lifestyle,Desk Plant,Small Business,Partner,5,80.44,0.1,361.98,101.98
+ORD-01076,2024-04-29,North,Technology,Laptop Stand,Consumer,Online,4,638.31,0.0,2553.24,1156.29
+ORD-01596,2024-04-30,Central,Office Supplies,Printer Paper,Corporate,In-Store,4,42.59,0.0,170.36,39.66
+ORD-00041,2024-04-30,South,Technology,USB-C Hub,Consumer,In-Store,8,110.3,0.05,838.28,408.57
+ORD-00623,2024-04-30,South,Home & Lifestyle,Travel Mug,Consumer,Online,6,152.36,0.0,914.16,365.64
+ORD-01637,2024-04-30,North,Home & Lifestyle,Water Bottle,Consumer,In-Store,8,155.29,0.0,1242.32,625.07
+ORD-00350,2024-04-30,South,Home & Lifestyle,Water Bottle,Small Business,Online,5,11.46,0.1,51.57,23.03
+ORD-00467,2024-05-01,South,Technology,Keyboard,Corporate,In-Store,7,185.49,0.05,1233.51,485.21
+ORD-00532,2024-05-01,West,Furniture,Bookshelf,Consumer,Online,3,775.87,0.15,1978.47,618.97
+ORD-01078,2024-05-01,North,Home & Lifestyle,Travel Mug,Consumer,In-Store,5,34.6,0.0,173.0,86.08
+ORD-00187,2024-05-01,Central,Furniture,Standing Desk,Consumer,In-Store,1,901.61,0.2,721.29,264.23
+ORD-00703,2024-05-02,Central,Furniture,Bookshelf,Small Business,Partner,3,1174.03,0.1,3169.88,817.01
+ORD-00168,2024-05-02,South,Furniture,Standing Desk,Consumer,In-Store,7,171.41,0.1,1079.88,261.23
+ORD-00685,2024-05-03,Central,Furniture,Desk Lamp,Consumer,Online,3,190.55,0.05,543.07,132.35
+ORD-01193,2024-05-04,South,Furniture,Standing Desk,Consumer,Online,8,383.16,0.0,3065.28,926.27
+ORD-00262,2024-05-04,North,Furniture,Standing Desk,Consumer,In-Store,3,157.84,0.0,473.52,172.42
+ORD-00704,2024-05-05,South,Home & Lifestyle,Water Bottle,Corporate,In-Store,2,50.53,0.0,101.06,30.49
+ORD-01433,2024-05-05,North,Home & Lifestyle,Backpack,Consumer,Online,4,50.99,0.0,203.96,55.25
+ORD-01032,2024-05-06,East,Furniture,Desk Lamp,Consumer,Online,2,907.82,0.0,1815.64,891.73
+ORD-00908,2024-05-06,North,Office Supplies,Notebook Set,Small Business,In-Store,2,71.53,0.15,121.6,40.16
+ORD-01616,2024-05-06,East,Home & Lifestyle,Lunch Bag,Small Business,Online,4,65.49,0.0,261.96,94.54
+ORD-00411,2024-05-07,South,Office Supplies,Printer Paper,Consumer,In-Store,3,32.78,0.05,93.42,29.67
+ORD-00544,2024-05-07,South,Technology,Keyboard,Corporate,Partner,1,453.91,0.15,385.82,100.75
+ORD-00761,2024-05-08,South,Technology,Laptop Stand,Corporate,Online,2,752.26,0.1,1354.07,484.46
+ORD-00259,2024-05-08,West,Office Supplies,Ballpoint Pens,Consumer,Online,7,37.1,0.1,233.73,108.03
+ORD-01174,2024-05-09,East,Home & Lifestyle,Desk Plant,Corporate,Online,2,36.79,0.1,66.22,25.28
+ORD-00230,2024-05-09,West,Home & Lifestyle,Water Bottle,Consumer,Partner,8,67.33,0.15,457.84,113.76
+ORD-01405,2024-05-09,North,Office Supplies,Ballpoint Pens,Small Business,In-Store,8,21.26,0.0,170.08,70.68
+ORD-00661,2024-05-09,Central,Home & Lifestyle,Backpack,Corporate,In-Store,8,62.87,0.0,502.96,186.36
+ORD-01702,2024-05-10,West,Furniture,Filing Cabinet,Consumer,Partner,4,504.04,0.05,1915.35,782.94
+ORD-00251,2024-05-11,East,Technology,Monitor,Small Business,Online,5,219.08,0.15,931.09,310.78
+ORD-00392,2024-05-11,East,Furniture,Office Chair,Corporate,Partner,7,1017.7,0.0,7123.9,1796.82
+ORD-00469,2024-05-12,Central,Technology,Monitor,Consumer,In-Store,2,480.75,0.0,961.5,434.58
+ORD-00349,2024-05-12,Central,Home & Lifestyle,Lunch Bag,Small Business,Online,4,114.16,0.05,433.81,111.47
+ORD-00564,2024-05-12,South,Office Supplies,Desk Organizer,Consumer,Online,6,57.41,0.0,344.46,139.67
+ORD-01106,2024-05-12,South,Home & Lifestyle,Travel Mug,Consumer,Online,1,51.25,0.0,51.25,13.6
+ORD-00635,2024-05-13,North,Technology,Laptop Stand,Small Business,In-Store,8,554.47,0.0,4435.76,1345.66
+ORD-00023,2024-05-13,East,Furniture,Office Chair,Corporate,In-Store,4,1092.63,0.05,4151.99,1484.66
+ORD-01639,2024-05-13,East,Technology,Monitor,Small Business,Online,5,473.75,0.1,2131.88,625.52
+ORD-00912,2024-05-14,East,Office Supplies,Desk Organizer,Small Business,Online,1,58.16,0.0,58.16,30.22
+ORD-01663,2024-05-15,North,Furniture,Filing Cabinet,Consumer,In-Store,1,1190.97,0.0,1190.97,354.46
+ORD-01432,2024-05-15,Central,Office Supplies,Desk Organizer,Corporate,Online,3,57.5,0.1,155.25,71.44
+ORD-01798,2024-05-15,South,Technology,Monitor,Small Business,Online,7,272.95,0.05,1815.12,837.01
+ORD-01345,2024-05-16,East,Office Supplies,Sticky Notes,Consumer,Online,7,37.07,0.2,207.59,105.59
+ORD-00253,2024-05-17,South,Technology,Wireless Mouse,Corporate,Online,4,604.5,0.0,2418.0,611.33
+ORD-01326,2024-05-17,South,Technology,USB-C Hub,Consumer,In-Store,6,20.52,0.0,123.12,35.75
+ORD-01534,2024-05-17,East,Office Supplies,Printer Paper,Corporate,Online,4,65.39,0.1,235.4,107.25
+ORD-00072,2024-05-18,West,Technology,USB-C Hub,Consumer,Partner,1,285.64,0.05,271.36,136.01
+ORD-01651,2024-05-18,East,Office Supplies,Sticky Notes,Small Business,Online,2,66.06,0.1,118.91,60.58
+ORD-01523,2024-05-19,East,Furniture,Bookshelf,Consumer,In-Store,7,47.51,0.1,299.31,87.72
+ORD-01178,2024-05-20,North,Technology,Wireless Mouse,Corporate,In-Store,2,627.33,0.0,1254.66,381.27
+ORD-01113,2024-05-20,West,Technology,Wireless Mouse,Consumer,Online,7,289.34,0.0,2025.38,845.18
+ORD-00523,2024-05-20,Central,Office Supplies,Printer Paper,Corporate,Online,3,5.77,0.1,15.58,4.78
+ORD-00888,2024-05-21,North,Furniture,Office Chair,Small Business,Online,6,934.17,0.05,5324.77,2118.15
+ORD-00052,2024-05-22,South,Technology,Keyboard,Corporate,Online,6,501.49,0.0,3008.94,853.84
+ORD-01115,2024-05-22,East,Office Supplies,Sticky Notes,Consumer,Online,4,3.91,0.0,15.64,4.3
+ORD-00543,2024-05-22,North,Technology,Wireless Mouse,Consumer,In-Store,4,385.92,0.05,1466.5,444.43
+ORD-00993,2024-05-23,West,Office Supplies,Desk Organizer,Consumer,Online,8,35.15,0.15,239.02,60.93
+ORD-00398,2024-05-23,East,Technology,Keyboard,Small Business,In-Store,5,736.3,0.0,3681.5,1533.82
+ORD-01770,2024-05-23,South,Office Supplies,Sticky Notes,Consumer,In-Store,7,72.27,0.0,505.89,247.43
+ORD-00838,2024-05-24,South,Technology,Laptop Stand,Corporate,Online,5,409.91,0.05,1947.07,528.09
+ORD-01787,2024-05-24,North,Technology,USB-C Hub,Consumer,Online,5,631.81,0.0,3159.05,755.25
+ORD-01704,2024-05-25,South,Furniture,Bookshelf,Consumer,Online,5,811.84,0.1,3653.28,1044.24
+ORD-01085,2024-05-26,Central,Furniture,Desk Lamp,Small Business,Online,1,795.58,0.05,755.8,214.22
+ORD-00426,2024-05-26,Central,Home & Lifestyle,Backpack,Consumer,Online,6,126.78,0.1,684.61,250.44
+ORD-00102,2024-05-26,South,Office Supplies,Desk Organizer,Consumer,In-Store,4,48.26,0.0,193.04,97.32
+ORD-00653,2024-05-27,North,Office Supplies,Desk Organizer,Small Business,In-Store,2,17.19,0.05,32.66,8.07
+ORD-00872,2024-05-27,South,Furniture,Desk Lamp,Consumer,In-Store,5,989.43,0.15,4205.08,1754.61
+ORD-01364,2024-05-27,South,Technology,Monitor,Corporate,Online,5,583.46,0.2,2333.84,1107.23
+ORD-00224,2024-05-27,North,Technology,Monitor,Corporate,Online,5,589.86,0.1,2654.37,784.89
+ORD-01796,2024-05-27,East,Technology,Monitor,Small Business,Partner,5,483.21,0.05,2295.25,1063.8
+ORD-00664,2024-05-27,West,Home & Lifestyle,Water Bottle,Consumer,Online,3,134.88,0.1,364.18,112.71
+ORD-00009,2024-05-27,South,Technology,USB-C Hub,Consumer,Online,4,597.08,0.05,2268.9,994.85
+ORD-00339,2024-05-28,East,Technology,Laptop Stand,Small Business,Online,4,499.36,0.1,1797.7,661.9
+ORD-01740,2024-05-29,South,Technology,Laptop Stand,Consumer,Partner,6,332.83,0.0,1996.98,868.09
+ORD-01474,2024-05-31,East,Technology,Laptop Stand,Consumer,Online,4,712.68,0.05,2708.18,724.72
+ORD-01072,2024-06-01,South,Home & Lifestyle,Water Bottle,Corporate,Online,1,145.9,0.0,145.9,61.73
+ORD-00735,2024-06-01,Central,Home & Lifestyle,Desk Plant,Consumer,In-Store,1,19.7,0.1,17.73,8.17
+ORD-01745,2024-06-02,South,Office Supplies,Desk Organizer,Small Business,In-Store,1,70.24,0.0,70.24,17.73
+ORD-01710,2024-06-04,South,Office Supplies,Desk Organizer,Consumer,Online,2,61.95,0.0,123.9,36.55
+ORD-00142,2024-06-05,North,Furniture,Office Chair,Consumer,Online,4,1134.18,0.15,3856.21,1150.25
+ORD-01395,2024-06-06,East,Office Supplies,Printer Paper,Corporate,Online,4,59.26,0.0,237.04,93.71
+ORD-01582,2024-06-07,South,Technology,USB-C Hub,Small Business,Online,4,363.51,0.0,1454.04,517.67
+ORD-00964,2024-06-08,West,Office Supplies,Desk Organizer,Consumer,Online,5,87.95,0.1,395.78,175.85
+ORD-00903,2024-06-09,West,Technology,Wireless Mouse,Consumer,In-Store,1,610.83,0.15,519.21,130.1
+ORD-01355,2024-06-09,South,Home & Lifestyle,Desk Plant,Consumer,In-Store,8,79.69,0.0,637.52,168.09
+ORD-01257,2024-06-11,East,Technology,Monitor,Corporate,Partner,3,756.99,0.0,2270.97,993.07
+ORD-00363,2024-06-12,West,Office Supplies,Notebook Set,Corporate,Online,8,57.86,0.1,416.59,160.84
+ORD-00976,2024-06-13,South,Home & Lifestyle,Lunch Bag,Consumer,Partner,8,24.83,0.0,198.64,55.79
+ORD-00078,2024-06-14,East,Office Supplies,Printer Paper,Consumer,In-Store,1,62.87,0.0,62.87,14.11
+ORD-00032,2024-06-15,Central,Office Supplies,Desk Organizer,Consumer,Online,1,82.83,0.0,82.83,41.22
+ORD-01512,2024-06-15,West,Home & Lifestyle,Desk Plant,Corporate,Online,4,126.97,0.0,507.88,217.69
+ORD-00567,2024-06-15,North,Office Supplies,Printer Paper,Corporate,In-Store,6,24.38,0.05,138.97,32.24
+ORD-01503,2024-06-16,North,Furniture,Filing Cabinet,Corporate,Online,1,225.97,0.05,214.67,92.17
+ORD-00412,2024-06-16,North,Home & Lifestyle,Desk Plant,Consumer,In-Store,1,62.16,0.05,59.05,30.46
+ORD-00326,2024-06-17,East,Home & Lifestyle,Travel Mug,Small Business,Online,8,88.58,0.05,673.21,213.2
+ORD-01479,2024-06-17,South,Technology,USB-C Hub,Corporate,In-Store,6,181.89,0.0,1091.34,275.14
+ORD-01545,2024-06-17,South,Office Supplies,Printer Paper,Consumer,In-Store,6,24.15,0.0,144.9,50.03
+ORD-01656,2024-06-18,Central,Furniture,Office Chair,Consumer,Online,8,340.02,0.05,2584.15,724.88
+ORD-01291,2024-06-19,South,Technology,USB-C Hub,Consumer,Online,4,271.94,0.05,1033.37,300.53
+ORD-00486,2024-06-19,Central,Technology,Monitor,Consumer,In-Store,6,227.8,0.0,1366.8,556.05
+ORD-00626,2024-06-19,Central,Technology,Keyboard,Small Business,Online,1,600.99,0.0,600.99,142.98
+ORD-01112,2024-06-19,South,Office Supplies,Sticky Notes,Consumer,Online,2,28.9,0.1,52.02,21.95
+ORD-00148,2024-06-20,Central,Furniture,Office Chair,Corporate,Online,3,555.53,0.05,1583.26,461.87
+ORD-01288,2024-06-20,West,Furniture,Office Chair,Small Business,Online,1,1072.77,0.0,1072.77,271.82
+ORD-01386,2024-06-20,South,Technology,Monitor,Consumer,Online,1,274.44,0.1,247.0,77.35
+ORD-00327,2024-06-21,East,Office Supplies,Ballpoint Pens,Corporate,In-Store,3,48.29,0.15,123.14,51.39
+ORD-00719,2024-06-21,Central,Home & Lifestyle,Backpack,Small Business,Partner,3,136.62,0.1,368.87,110.49
+ORD-01609,2024-06-21,North,Office Supplies,Sticky Notes,Consumer,Partner,6,85.57,0.0,513.42,195.46
+ORD-00637,2024-06-21,South,Home & Lifestyle,Backpack,Small Business,Online,1,94.83,0.0,94.83,32.32
+ORD-00566,2024-06-22,South,Furniture,Office Chair,Consumer,Online,2,679.13,0.0,1358.26,462.47
+ORD-01308,2024-06-22,North,Office Supplies,Desk Organizer,Consumer,Online,1,13.7,0.05,13.01,6.74
+ORD-00510,2024-06-22,East,Furniture,Bookshelf,Consumer,In-Store,3,111.06,0.0,333.18,109.9
+ORD-00854,2024-06-23,West,Home & Lifestyle,Backpack,Consumer,In-Store,3,32.06,0.05,91.37,44.93
+ORD-00189,2024-06-23,South,Office Supplies,Sticky Notes,Consumer,Online,2,68.62,0.1,123.52,49.67
+ORD-01265,2024-06-23,West,Home & Lifestyle,Desk Plant,Consumer,In-Store,4,53.73,0.05,204.17,93.64
+ORD-01047,2024-06-24,Central,Technology,Laptop Stand,Corporate,Online,5,547.41,0.15,2326.49,859.05
+ORD-00593,2024-06-24,East,Furniture,Filing Cabinet,Small Business,Online,3,1098.07,0.0,3294.21,790.51
+ORD-00097,2024-06-24,South,Furniture,Desk Lamp,Small Business,In-Store,7,567.41,0.05,3773.28,1595.18
+ORD-01251,2024-06-25,South,Furniture,Standing Desk,Corporate,Partner,3,953.5,0.0,2860.5,1323.39
+ORD-01542,2024-06-25,East,Technology,USB-C Hub,Consumer,In-Store,7,411.9,0.0,2883.3,787.99
+ORD-00384,2024-06-25,South,Furniture,Filing Cabinet,Small Business,In-Store,6,1115.38,0.1,6023.05,2495.76
+ORD-01402,2024-06-25,West,Furniture,Office Chair,Corporate,Online,5,204.58,0.0,1022.9,408.34
+ORD-00832,2024-06-25,Central,Technology,Keyboard,Consumer,Online,1,204.76,0.05,194.52,65.05
+ORD-01506,2024-06-26,East,Technology,Wireless Mouse,Corporate,Online,5,647.03,0.05,3073.39,1439.97
+ORD-01107,2024-06-27,North,Office Supplies,Sticky Notes,Small Business,In-Store,4,31.44,0.15,106.9,48.23
+ORD-01786,2024-06-27,West,Furniture,Filing Cabinet,Consumer,In-Store,2,1046.07,0.15,1778.32,836.59
+ORD-01124,2024-06-27,West,Technology,Keyboard,Consumer,Partner,4,123.41,0.1,444.28,131.26
+ORD-01709,2024-06-27,North,Furniture,Standing Desk,Consumer,Online,7,783.53,0.0,5484.71,2335.8
+ORD-00315,2024-06-27,South,Office Supplies,Sticky Notes,Consumer,In-Store,5,17.94,0.0,89.7,32.75
+ORD-00119,2024-06-28,Central,Technology,USB-C Hub,Consumer,Online,2,532.68,0.0,1065.36,551.15
+ORD-01454,2024-06-28,North,Office Supplies,Notebook Set,Consumer,Online,1,20.19,0.1,18.17,7.69
+ORD-00857,2024-06-28,North,Technology,Keyboard,Corporate,In-Store,2,566.4,0.0,1132.8,539.68
+ORD-00831,2024-06-28,South,Home & Lifestyle,Backpack,Small Business,In-Store,8,128.71,0.0,1029.68,463.54
+ORD-01013,2024-06-28,West,Home & Lifestyle,Water Bottle,Consumer,In-Store,4,14.68,0.1,52.85,17.24
+ORD-01515,2024-06-29,North,Office Supplies,Notebook Set,Corporate,Online,3,82.97,0.15,211.57,82.37
+ORD-00989,2024-06-29,West,Home & Lifestyle,Travel Mug,Small Business,In-Store,8,59.6,0.0,476.8,203.38
+ORD-00925,2024-06-30,West,Furniture,Filing Cabinet,Corporate,Partner,4,137.46,0.15,467.36,212.88
+ORD-00508,2024-06-30,West,Technology,Monitor,Corporate,Online,4,172.89,0.0,691.56,156.52
+ORD-01563,2024-06-30,North,Technology,Laptop Stand,Corporate,Online,8,691.48,0.0,5531.84,1972.47
+ORD-00617,2024-07-01,West,Technology,Laptop Stand,Consumer,In-Store,7,26.46,0.15,157.44,41.32
+ORD-00568,2024-07-01,East,Technology,Keyboard,Consumer,Online,6,692.56,0.0,4155.36,1217.77
+ORD-01413,2024-07-02,South,Office Supplies,Ballpoint Pens,Consumer,In-Store,3,14.31,0.0,42.93,14.42
+ORD-00483,2024-07-02,West,Office Supplies,Sticky Notes,Corporate,Online,3,89.92,0.15,229.3,63.7
+ORD-01562,2024-07-04,Central,Furniture,Bookshelf,Consumer,Online,4,634.35,0.0,2537.4,576.41
+ORD-00696,2024-07-04,East,Furniture,Desk Lamp,Consumer,In-Store,1,474.78,0.0,474.78,136.14
+ORD-01660,2024-07-04,South,Technology,USB-C Hub,Consumer,Online,6,415.72,0.0,2494.32,1186.98
+ORD-01307,2024-07-05,Central,Furniture,Office Chair,Consumer,In-Store,3,621.77,0.05,1772.04,646.47
+ORD-00919,2024-07-05,West,Office Supplies,Ballpoint Pens,Consumer,Online,1,12.39,0.0,12.39,4.91
+ORD-01425,2024-07-05,West,Technology,USB-C Hub,Corporate,Online,8,530.99,0.15,3610.73,1763.81
+ORD-00346,2024-07-06,Central,Technology,Wireless Mouse,Consumer,Online,8,498.1,0.1,3586.32,1736.97
+ORD-00933,2024-07-07,West,Office Supplies,Desk Organizer,Consumer,In-Store,7,46.44,0.2,260.06,72.41
+ORD-01179,2024-07-08,South,Office Supplies,Notebook Set,Small Business,Online,4,26.33,0.1,94.79,45.66
+ORD-01502,2024-07-09,South,Home & Lifestyle,Desk Plant,Consumer,In-Store,2,15.94,0.0,31.88,15.59
+ORD-00211,2024-07-09,East,Technology,Laptop Stand,Consumer,In-Store,2,804.63,0.15,1367.87,628.66
+ORD-00380,2024-07-10,West,Furniture,Office Chair,Consumer,Online,8,227.17,0.0,1817.36,768.06
+ORD-01297,2024-07-11,South,Technology,Monitor,Consumer,Online,4,633.26,0.15,2153.08,807.47
+ORD-01459,2024-07-11,West,Home & Lifestyle,Backpack,Consumer,In-Store,5,68.2,0.15,289.85,74.48
+ORD-00209,2024-07-11,Central,Home & Lifestyle,Desk Plant,Consumer,In-Store,8,45.32,0.0,362.56,85.87
+ORD-01701,2024-07-12,East,Office Supplies,Ballpoint Pens,Consumer,Online,5,69.49,0.0,347.45,170.44
+ORD-01621,2024-07-12,North,Technology,USB-C Hub,Small Business,Online,6,422.49,0.0,2534.94,1110.6
+ORD-00206,2024-07-13,North,Furniture,Office Chair,Consumer,Online,4,1015.82,0.1,3656.95,1053.47
+ORD-00618,2024-07-13,North,Home & Lifestyle,Water Bottle,Corporate,In-Store,4,18.79,0.05,71.4,36.63
+ORD-01261,2024-07-13,East,Office Supplies,Notebook Set,Consumer,Partner,5,75.8,0.0,379.0,154.14
+ORD-01429,2024-07-14,East,Furniture,Bookshelf,Corporate,Online,8,525.38,0.05,3992.89,1528.07
+ORD-00292,2024-07-14,West,Office Supplies,Ballpoint Pens,Consumer,Partner,8,78.36,0.0,626.88,163.94
+ORD-01673,2024-07-14,Central,Furniture,Desk Lamp,Consumer,Online,2,369.08,0.0,738.16,299.31
+ORD-01123,2024-07-15,South,Technology,Wireless Mouse,Consumer,Online,8,93.26,0.0,746.08,168.2
+ORD-01011,2024-07-15,Central,Technology,Monitor,Consumer,Online,3,621.3,0.1,1677.51,391.13
+ORD-00509,2024-07-15,Central,Home & Lifestyle,Desk Plant,Consumer,Online,4,117.91,0.0,471.64,109.46
+ORD-00890,2024-07-16,East,Technology,Monitor,Small Business,Online,7,779.39,0.1,4910.16,2476.97
+ORD-00744,2024-07-16,South,Technology,Monitor,Corporate,Online,6,553.3,0.0,3319.8,1490.41
+ORD-00779,2024-07-17,Central,Home & Lifestyle,Desk Plant,Consumer,Partner,5,113.39,0.2,453.56,149.24
+ORD-01640,2024-07-18,East,Office Supplies,Printer Paper,Small Business,In-Store,2,29.92,0.0,59.84,23.72
+ORD-00216,2024-07-18,South,Technology,Keyboard,Consumer,In-Store,1,636.97,0.1,573.27,271.9
+ORD-01491,2024-07-19,East,Furniture,Office Chair,Corporate,Online,7,322.54,0.0,2257.78,557.4
+ORD-01322,2024-07-19,North,Office Supplies,Desk Organizer,Consumer,Online,4,48.76,0.05,185.29,63.9
+ORD-00505,2024-07-19,Central,Technology,Wireless Mouse,Consumer,Online,2,500.02,0.05,950.04,482.85
+ORD-00281,2024-07-20,West,Furniture,Office Chair,Small Business,Online,1,1140.95,0.05,1083.9,433.59
+ORD-00039,2024-07-21,West,Home & Lifestyle,Backpack,Small Business,Online,6,62.79,0.0,376.74,166.18
+ORD-00143,2024-07-21,Central,Furniture,Standing Desk,Corporate,Partner,8,292.66,0.1,2107.15,838.84
+ORD-00111,2024-07-21,Central,Furniture,Bookshelf,Consumer,Online,2,1181.5,0.2,1890.4,461.27
+ORD-00950,2024-07-22,South,Furniture,Desk Lamp,Corporate,Online,1,669.92,0.05,636.42,191.46
+ORD-01794,2024-07-22,East,Home & Lifestyle,Lunch Bag,Consumer,Online,6,155.25,0.0,931.5,341.33
+ORD-01192,2024-07-22,North,Home & Lifestyle,Lunch Bag,Corporate,Online,6,26.06,0.15,132.91,65.72
+ORD-00413,2024-07-23,Central,Furniture,Standing Desk,Corporate,In-Store,4,314.9,0.1,1133.64,292.42
+ORD-00399,2024-07-24,South,Furniture,Bookshelf,Corporate,Online,2,946.48,0.15,1609.02,648.06
+ORD-01551,2024-07-24,West,Furniture,Desk Lamp,Corporate,In-Store,7,1111.56,0.1,7002.83,1859.38
+ORD-01028,2024-07-24,South,Furniture,Bookshelf,Consumer,Online,2,215.27,0.1,387.49,98.75
+ORD-00314,2024-07-24,South,Office Supplies,Printer Paper,Corporate,In-Store,8,52.71,0.0,421.68,134.58
+ORD-00152,2024-07-24,East,Technology,Laptop Stand,Consumer,Online,5,309.3,0.0,1546.5,680.87
+ORD-00573,2024-07-25,Central,Technology,USB-C Hub,Consumer,Online,2,365.55,0.0,731.1,271.3
+ORD-01410,2024-07-26,East,Home & Lifestyle,Lunch Bag,Corporate,Online,8,48.58,0.0,388.64,127.18
+ORD-01382,2024-07-26,South,Technology,Wireless Mouse,Consumer,Online,1,529.1,0.05,502.64,146.07
+ORD-00814,2024-07-26,North,Home & Lifestyle,Travel Mug,Corporate,Online,5,16.43,0.1,73.94,27.74
+ORD-00299,2024-07-27,North,Office Supplies,Printer Paper,Small Business,In-Store,3,59.75,0.1,161.33,75.53
+ORD-00534,2024-07-27,East,Technology,Laptop Stand,Consumer,Online,8,428.85,0.0,3430.8,1292.63
+ORD-01209,2024-07-27,East,Office Supplies,Notebook Set,Consumer,Partner,8,25.46,0.0,203.68,73.51
+ORD-00450,2024-07-28,West,Technology,Wireless Mouse,Corporate,In-Store,2,307.44,0.05,584.14,225.61
+ORD-01230,2024-07-29,Central,Technology,Laptop Stand,Corporate,In-Store,8,318.45,0.05,2420.22,901.32
+ORD-00096,2024-07-29,East,Office Supplies,Notebook Set,Consumer,Partner,1,55.2,0.1,49.68,18.87
+ORD-00855,2024-07-29,East,Office Supplies,Desk Organizer,Small Business,Partner,7,12.2,0.15,72.59,17.43
+ORD-00481,2024-07-29,South,Office Supplies,Notebook Set,Consumer,Partner,4,87.06,0.0,348.24,118.44
+ORD-00660,2024-07-29,South,Home & Lifestyle,Travel Mug,Small Business,In-Store,7,68.17,0.2,381.75,90.04
+ORD-01483,2024-07-30,East,Technology,Keyboard,Consumer,In-Store,6,680.06,0.0,4080.36,984.56
+ORD-00495,2024-07-30,South,Home & Lifestyle,Backpack,Consumer,Online,6,20.48,0.0,122.88,49.84
+ORD-00841,2024-07-30,North,Technology,Keyboard,Corporate,Online,5,512.93,0.0,2564.65,871.79
+ORD-00342,2024-07-31,North,Office Supplies,Printer Paper,Corporate,Online,5,3.37,0.1,15.16,5.16
+ORD-01561,2024-07-31,Central,Home & Lifestyle,Travel Mug,Consumer,In-Store,3,59.11,0.0,177.33,76.64
+ORD-01114,2024-08-01,Central,Office Supplies,Notebook Set,Corporate,Online,5,77.88,0.0,389.4,168.78
+ORD-00154,2024-08-02,West,Technology,Keyboard,Consumer,In-Store,2,827.0,0.15,1405.9,570.04
+ORD-01451,2024-08-02,South,Technology,Laptop Stand,Small Business,Online,1,413.86,0.1,372.47,108.94
+ORD-01646,2024-08-03,West,Office Supplies,Notebook Set,Small Business,In-Store,4,30.95,0.15,105.23,51.36
+ORD-00271,2024-08-03,South,Office Supplies,Desk Organizer,Corporate,Online,8,8.6,0.1,61.92,14.53
+ORD-00796,2024-08-03,East,Office Supplies,Desk Organizer,Consumer,Online,2,55.91,0.15,95.05,24.23
+ORD-01338,2024-08-04,West,Office Supplies,Notebook Set,Corporate,Partner,7,83.87,0.1,528.38,222.76
+ORD-00419,2024-08-04,North,Furniture,Standing Desk,Consumer,In-Store,1,645.08,0.0,645.08,271.33
+ORD-01581,2024-08-04,West,Office Supplies,Desk Organizer,Small Business,In-Store,7,70.57,0.0,493.99,202.52
+ORD-01239,2024-08-05,North,Furniture,Desk Lamp,Corporate,Partner,4,447.38,0.1,1610.57,669.06
+ORD-00638,2024-08-05,Central,Furniture,Standing Desk,Consumer,In-Store,4,975.21,0.05,3705.8,843.65
+ORD-00353,2024-08-06,Central,Technology,Wireless Mouse,Corporate,Online,6,306.72,0.0,1840.32,808.54
+ORD-00971,2024-08-06,South,Office Supplies,Sticky Notes,Small Business,Partner,7,65.88,0.0,461.16,194.65
+ORD-01316,2024-08-06,West,Technology,USB-C Hub,Corporate,In-Store,1,724.03,0.0,724.03,278.45
+ORD-01400,2024-08-06,West,Furniture,Desk Lamp,Consumer,Online,4,970.81,0.0,3883.24,1317.96
+ORD-01403,2024-08-07,West,Office Supplies,Ballpoint Pens,Consumer,Online,6,47.02,0.0,282.12,139.03
+ORD-00442,2024-08-07,West,Home & Lifestyle,Lunch Bag,Consumer,Partner,4,152.14,0.1,547.7,228.51
+ORD-00263,2024-08-07,West,Home & Lifestyle,Lunch Bag,Consumer,Online,6,115.25,0.1,622.35,272.4
+ORD-01367,2024-08-08,South,Furniture,Desk Lamp,Corporate,Partner,8,955.79,0.1,6881.69,2670.61
+ORD-01476,2024-08-08,South,Technology,Laptop Stand,Consumer,In-Store,2,73.58,0.0,147.16,43.43
+ORD-01601,2024-08-08,South,Technology,Monitor,Corporate,Online,2,626.16,0.1,1127.09,372.14
+ORD-00190,2024-08-08,West,Office Supplies,Sticky Notes,Corporate,Online,6,60.34,0.0,362.04,153.99
+ORD-00307,2024-08-08,West,Furniture,Bookshelf,Small Business,Partner,5,1016.47,0.0,5082.35,2587.95
+ORD-00928,2024-08-08,West,Office Supplies,Printer Paper,Corporate,In-Store,3,5.92,0.0,17.76,8.57
+ORD-00802,2024-08-08,West,Home & Lifestyle,Lunch Bag,Consumer,Partner,6,100.35,0.0,602.1,194.43
+ORD-00136,2024-08-10,Central,Furniture,Desk Lamp,Corporate,Partner,1,842.14,0.15,715.82,326.05
+ORD-00952,2024-08-10,West,Home & Lifestyle,Water Bottle,Small Business,In-Store,3,159.14,0.1,429.68,105.95
+ORD-01155,2024-08-10,Central,Office Supplies,Ballpoint Pens,Consumer,In-Store,2,33.57,0.15,57.07,28.27
+ORD-01105,2024-08-11,North,Technology,USB-C Hub,Corporate,In-Store,7,560.24,0.1,3529.51,895.2
+ORD-01391,2024-08-11,North,Home & Lifestyle,Lunch Bag,Consumer,In-Store,7,111.85,0.0,782.95,173.12
+ORD-00226,2024-08-11,East,Office Supplies,Printer Paper,Corporate,Online,6,74.84,0.0,449.04,99.81
+ORD-01186,2024-08-12,Central,Technology,USB-C Hub,Consumer,Online,6,91.89,0.15,468.64,114.28
+ORD-01779,2024-08-12,South,Furniture,Standing Desk,Small Business,In-Store,4,899.37,0.1,3237.73,843.56
+ORD-00239,2024-08-13,West,Technology,Wireless Mouse,Consumer,Online,1,673.4,0.0,673.4,159.15
+ORD-00400,2024-08-14,North,Office Supplies,Ballpoint Pens,Consumer,In-Store,8,61.11,0.05,464.44,163.61
+ORD-00333,2024-08-14,East,Technology,Monitor,Corporate,Online,5,332.86,0.1,1497.87,586.89
+ORD-00526,2024-08-14,North,Office Supplies,Notebook Set,Consumer,Online,2,52.92,0.0,105.84,43.28
+ORD-01060,2024-08-15,North,Furniture,Bookshelf,Corporate,In-Store,8,1166.78,0.0,9334.24,4006.3
+ORD-00749,2024-08-16,East,Home & Lifestyle,Water Bottle,Small Business,Online,8,135.38,0.1,974.74,505.61
+ORD-01462,2024-08-16,North,Technology,USB-C Hub,Small Business,Online,5,568.63,0.0,2843.15,1364.64
+ORD-00088,2024-08-16,Central,Technology,Keyboard,Consumer,Online,7,700.22,0.0,4901.54,1396.37
+ORD-00748,2024-08-17,Central,Home & Lifestyle,Desk Plant,Consumer,Online,8,143.92,0.05,1093.79,434.06
+ORD-01034,2024-08-17,South,Home & Lifestyle,Travel Mug,Small Business,In-Store,3,24.8,0.15,63.24,27.52
+ORD-00447,2024-08-17,South,Office Supplies,Notebook Set,Small Business,Online,7,50.21,0.0,351.47,97.57
+ORD-01014,2024-08-17,East,Office Supplies,Notebook Set,Small Business,In-Store,3,17.07,0.05,48.65,16.06
+ORD-00368,2024-08-18,North,Home & Lifestyle,Travel Mug,Corporate,In-Store,2,132.12,0.2,211.39,57.46
+ORD-00799,2024-08-18,North,Home & Lifestyle,Water Bottle,Consumer,Online,2,16.84,0.0,33.68,16.56
+ORD-00309,2024-08-18,East,Technology,USB-C Hub,Consumer,In-Store,1,303.01,0.1,272.71,91.98
+ORD-00988,2024-08-19,Central,Technology,Keyboard,Consumer,Online,5,695.45,0.0,3477.25,957.14
+ORD-01177,2024-08-19,East,Home & Lifestyle,Water Bottle,Consumer,In-Store,6,21.51,0.1,116.15,40.3
+ORD-01604,2024-08-19,East,Home & Lifestyle,Backpack,Consumer,Online,2,128.32,0.15,218.14,111.83
+ORD-00338,2024-08-19,West,Office Supplies,Sticky Notes,Corporate,In-Store,5,50.7,0.05,240.82,98.36
+ORD-00968,2024-08-19,North,Technology,Wireless Mouse,Consumer,Partner,1,534.15,0.1,480.74,221.12
+ORD-01586,2024-08-20,Central,Office Supplies,Sticky Notes,Corporate,Online,8,62.5,0.1,450.0,122.13
+ORD-00554,2024-08-20,East,Home & Lifestyle,Desk Plant,Consumer,In-Store,1,23.67,0.0,23.67,6.4
+ORD-00525,2024-08-20,Central,Office Supplies,Sticky Notes,Consumer,In-Store,1,10.46,0.0,10.46,3.69
+ORD-01576,2024-08-20,North,Technology,Keyboard,Consumer,Online,2,581.68,0.2,930.69,309.31
+ORD-01756,2024-08-21,Central,Home & Lifestyle,Travel Mug,Corporate,Online,8,78.83,0.05,599.11,298.79
+ORD-01527,2024-08-21,East,Technology,Laptop Stand,Consumer,Partner,4,818.51,0.1,2946.64,1307.52
+ORD-01435,2024-08-21,West,Office Supplies,Notebook Set,Consumer,Online,5,28.9,0.0,144.5,36.03
+ORD-01439,2024-08-21,Central,Furniture,Office Chair,Small Business,In-Store,5,1103.61,0.0,5518.05,1578.81
+ORD-00167,2024-08-22,East,Office Supplies,Desk Organizer,Corporate,Online,6,56.26,0.0,337.56,116.9
+ORD-00321,2024-08-22,South,Technology,Monitor,Corporate,Online,3,633.98,0.0,1901.94,420.4
+ORD-00595,2024-08-22,South,Office Supplies,Notebook Set,Corporate,In-Store,6,45.92,0.1,247.97,126.64
+ORD-00403,2024-08-22,Central,Furniture,Bookshelf,Corporate,Online,5,642.07,0.0,3210.35,1045.56
+ORD-01404,2024-08-23,North,Office Supplies,Sticky Notes,Consumer,Partner,5,53.87,0.1,242.41,98.89
+ORD-01504,2024-08-23,West,Home & Lifestyle,Backpack,Consumer,Online,7,101.72,0.0,712.04,197.94
+ORD-00607,2024-08-24,South,Furniture,Standing Desk,Corporate,In-Store,8,620.49,0.0,4963.92,1436.33
+ORD-01249,2024-08-25,North,Furniture,Bookshelf,Small Business,Online,7,69.08,0.0,483.56,112.57
+ORD-01388,2024-08-25,North,Furniture,Office Chair,Corporate,Online,2,731.75,0.0,1463.5,400.74
+ORD-00066,2024-08-26,East,Office Supplies,Ballpoint Pens,Corporate,Online,3,55.47,0.0,166.41,49.63
+ORD-00632,2024-08-27,North,Technology,Keyboard,Consumer,In-Store,4,823.95,0.1,2966.22,690.34
+ORD-00646,2024-08-28,South,Office Supplies,Ballpoint Pens,Consumer,Online,6,46.31,0.0,277.86,74.68
+ORD-01095,2024-08-28,South,Office Supplies,Desk Organizer,Small Business,In-Store,2,78.58,0.0,157.16,75.29
+ORD-01514,2024-08-29,Central,Office Supplies,Sticky Notes,Corporate,In-Store,2,38.45,0.0,76.9,21.85
+ORD-00077,2024-08-29,South,Office Supplies,Desk Organizer,Consumer,Online,7,74.21,0.0,519.47,206.05
+ORD-00254,2024-08-29,South,Technology,USB-C Hub,Consumer,In-Store,5,665.25,0.2,2661.0,1309.46
+ORD-01145,2024-08-30,North,Home & Lifestyle,Water Bottle,Consumer,In-Store,7,86.82,0.0,607.74,289.58
+ORD-00294,2024-08-30,East,Home & Lifestyle,Travel Mug,Small Business,Online,8,20.53,0.0,164.24,53.99
+ORD-01777,2024-08-30,South,Office Supplies,Printer Paper,Consumer,Online,3,80.05,0.05,228.14,106.04
+ORD-01069,2024-08-31,Central,Office Supplies,Ballpoint Pens,Small Business,In-Store,2,22.2,0.05,42.18,18.53
+ORD-01511,2024-08-31,North,Furniture,Desk Lamp,Corporate,In-Store,6,670.52,0.1,3620.81,1716.55
+ORD-01494,2024-08-31,South,Technology,Keyboard,Consumer,Online,5,383.02,0.0,1915.1,796.59
+ORD-00738,2024-08-31,North,Home & Lifestyle,Desk Plant,Consumer,Online,6,35.43,0.0,212.58,73.2
+ORD-00487,2024-09-01,East,Furniture,Filing Cabinet,Consumer,Online,1,780.63,0.0,780.63,392.16
+ORD-01030,2024-09-01,South,Office Supplies,Notebook Set,Consumer,In-Store,1,59.59,0.1,53.63,25.42
+ORD-00169,2024-09-01,West,Technology,Laptop Stand,Consumer,Partner,3,153.23,0.0,459.69,152.84
+ORD-00371,2024-09-02,Central,Home & Lifestyle,Travel Mug,Corporate,In-Store,8,143.05,0.1,1029.96,424.69
+ORD-01142,2024-09-04,South,Home & Lifestyle,Lunch Bag,Consumer,In-Store,2,133.46,0.0,266.92,81.13
+ORD-01176,2024-09-04,North,Office Supplies,Ballpoint Pens,Corporate,In-Store,6,62.74,0.0,376.44,185.77
+ORD-01771,2024-09-04,North,Furniture,Filing Cabinet,Consumer,Partner,3,64.22,0.1,173.39,73.59
+ORD-00627,2024-09-04,West,Office Supplies,Ballpoint Pens,Consumer,In-Store,7,22.55,0.05,149.96,63.03
+ORD-00199,2024-09-04,East,Home & Lifestyle,Desk Plant,Corporate,Partner,8,52.63,0.0,421.04,188.21
+ORD-01160,2024-09-05,Central,Technology,Wireless Mouse,Consumer,Online,3,637.41,0.05,1816.62,807.56
+ORD-01782,2024-09-05,West,Home & Lifestyle,Lunch Bag,Consumer,In-Store,2,102.53,0.0,205.06,99.02
+ORD-01330,2024-09-06,South,Furniture,Standing Desk,Corporate,Online,7,1069.1,0.0,7483.7,1885.03
+ORD-00991,2024-09-07,South,Technology,Keyboard,Consumer,In-Store,5,260.73,0.0,1303.65,378.44
+ORD-01372,2024-09-07,North,Furniture,Desk Lamp,Corporate,Partner,5,47.97,0.0,239.85,57.41
+ORD-00197,2024-09-07,West,Technology,USB-C Hub,Small Business,Online,4,488.41,0.0,1953.64,922.0
+ORD-01711,2024-09-07,East,Home & Lifestyle,Water Bottle,Small Business,Online,2,134.22,0.1,241.6,71.13
+ORD-01357,2024-09-08,Central,Home & Lifestyle,Backpack,Corporate,In-Store,6,81.76,0.0,490.56,164.63
+ORD-01793,2024-09-08,Central,Home & Lifestyle,Backpack,Consumer,Online,8,87.51,0.15,595.07,180.0
+ORD-01647,2024-09-08,East,Home & Lifestyle,Backpack,Consumer,In-Store,8,83.68,0.15,569.02,133.58
+ORD-01592,2024-09-10,West,Office Supplies,Sticky Notes,Consumer,In-Store,3,73.29,0.05,208.88,68.68
+ORD-01407,2024-09-10,West,Office Supplies,Ballpoint Pens,Consumer,Online,7,71.04,0.15,422.69,137.1
+ORD-01383,2024-09-10,South,Office Supplies,Desk Organizer,Corporate,In-Store,6,4.9,0.0,29.4,14.54
+ORD-01236,2024-09-10,Central,Office Supplies,Notebook Set,Consumer,In-Store,5,24.69,0.0,123.45,54.04
+ORD-00268,2024-09-10,South,Office Supplies,Sticky Notes,Small Business,Online,5,77.2,0.0,386.0,157.03
+ORD-01757,2024-09-11,East,Office Supplies,Printer Paper,Small Business,In-Store,3,76.05,0.0,228.15,69.95
+ORD-01312,2024-09-11,East,Office Supplies,Desk Organizer,Small Business,In-Store,1,45.5,0.05,43.22,19.01
+ORD-00139,2024-09-11,West,Office Supplies,Sticky Notes,Consumer,Online,7,30.46,0.1,191.9,50.57
+ORD-00979,2024-09-13,East,Office Supplies,Ballpoint Pens,Consumer,In-Store,2,12.16,0.0,24.32,12.3
+ORD-01363,2024-09-13,East,Office Supplies,Notebook Set,Small Business,Partner,4,19.82,0.05,75.32,32.19
+ORD-00044,2024-09-16,North,Office Supplies,Sticky Notes,Corporate,In-Store,1,55.84,0.0,55.84,24.58
+ORD-00521,2024-09-18,Central,Furniture,Office Chair,Consumer,Online,1,1101.69,0.1,991.52,306.92
+ORD-01699,2024-09-19,South,Home & Lifestyle,Travel Mug,Consumer,Online,4,141.51,0.05,537.74,255.36
+ORD-01685,2024-09-19,South,Technology,USB-C Hub,Corporate,Online,1,598.63,0.1,538.77,122.11
+ORD-00765,2024-09-20,West,Home & Lifestyle,Travel Mug,Small Business,Online,4,76.8,0.15,261.12,81.55
+ORD-00998,2024-09-20,North,Office Supplies,Notebook Set,Consumer,Online,6,17.39,0.1,93.91,41.96
+ORD-01572,2024-09-21,West,Home & Lifestyle,Desk Plant,Consumer,Partner,8,86.21,0.1,620.71,157.38
+ORD-00194,2024-09-21,North,Technology,Keyboard,Consumer,In-Store,3,233.07,0.1,629.29,285.86
+ORD-01773,2024-09-22,North,Office Supplies,Sticky Notes,Corporate,In-Store,8,39.79,0.0,318.32,159.13
+ORD-00301,2024-09-22,North,Furniture,Desk Lamp,Corporate,Online,1,950.97,0.05,903.42,383.94
+ORD-00053,2024-09-23,South,Technology,Monitor,Corporate,In-Store,5,783.14,0.1,3524.13,1768.35
+ORD-01052,2024-09-23,West,Technology,Monitor,Consumer,Online,3,37.37,0.0,112.11,56.5
+ORD-00746,2024-09-23,Central,Office Supplies,Sticky Notes,Corporate,Online,7,71.97,0.0,503.79,169.78
+ORD-00201,2024-09-24,North,Technology,Laptop Stand,Consumer,In-Store,8,153.22,0.0,1225.76,317.26
+ORD-00630,2024-09-24,South,Office Supplies,Desk Organizer,Consumer,Online,6,60.53,0.05,345.02,149.37
+ORD-01138,2024-09-24,North,Technology,Monitor,Corporate,Online,6,584.88,0.0,3509.28,1237.77
+ORD-01360,2024-09-24,West,Office Supplies,Sticky Notes,Consumer,Partner,7,64.72,0.05,430.39,162.5
+ORD-00063,2024-09-25,Central,Technology,Keyboard,Consumer,In-Store,4,415.84,0.0,1663.36,468.73
+ORD-00393,2024-09-25,North,Office Supplies,Desk Organizer,Consumer,In-Store,5,51.1,0.0,255.5,64.89
+ORD-00628,2024-09-25,North,Office Supplies,Printer Paper,Consumer,Online,4,34.4,0.0,137.6,47.41
+ORD-01271,2024-09-26,East,Office Supplies,Notebook Set,Consumer,Online,6,63.6,0.0,381.6,166.69
+ORD-01151,2024-09-27,South,Home & Lifestyle,Backpack,Small Business,Partner,7,80.37,0.1,506.33,172.41
+ORD-00068,2024-09-27,North,Technology,Laptop Stand,Consumer,In-Store,6,514.02,0.1,2775.71,1323.97
+ORD-00332,2024-09-28,East,Furniture,Office Chair,Small Business,Online,2,80.43,0.1,144.77,73.44
+ORD-00909,2024-09-28,West,Office Supplies,Desk Organizer,Consumer,In-Store,6,30.74,0.0,184.44,74.95
+ORD-00022,2024-09-28,South,Home & Lifestyle,Lunch Bag,Consumer,Online,4,158.91,0.05,603.86,162.63
+ORD-01044,2024-09-29,North,Technology,Monitor,Corporate,Online,3,566.04,0.05,1613.21,412.97
+ORD-01268,2024-09-29,South,Office Supplies,Desk Organizer,Consumer,Online,7,28.36,0.0,198.52,73.85
+ORD-00576,2024-09-30,East,Office Supplies,Ballpoint Pens,Consumer,Online,5,51.29,0.05,243.63,97.82
+ORD-00374,2024-09-30,South,Furniture,Office Chair,Consumer,Online,1,1163.2,0.0,1163.2,292.09
+ORD-00498,2024-09-30,West,Home & Lifestyle,Lunch Bag,Small Business,In-Store,3,24.41,0.0,73.23,28.09
+ORD-00913,2024-10-02,Central,Furniture,Office Chair,Small Business,Partner,7,1070.91,0.0,7496.37,3686.85
+ORD-01772,2024-10-02,Central,Office Supplies,Sticky Notes,Consumer,Online,7,29.3,0.1,184.59,54.41
+ORD-01748,2024-10-02,West,Home & Lifestyle,Backpack,Corporate,In-Store,7,135.0,0.0,945.0,407.96
+ORD-00770,2024-10-02,East,Home & Lifestyle,Desk Plant,Corporate,Online,1,20.93,0.0,20.93,7.5
+ORD-00379,2024-10-04,East,Home & Lifestyle,Desk Plant,Corporate,Online,4,59.0,0.0,236.0,67.45
+ORD-00634,2024-10-04,West,Furniture,Filing Cabinet,Consumer,In-Store,2,402.98,0.0,805.96,281.31
+ORD-01718,2024-10-04,Central,Home & Lifestyle,Desk Plant,Corporate,Online,2,124.52,0.0,249.04,71.71
+ORD-00188,2024-10-05,North,Furniture,Filing Cabinet,Consumer,Online,4,739.53,0.0,2958.12,1251.19
+ORD-01285,2024-10-06,Central,Office Supplies,Desk Organizer,Consumer,In-Store,5,20.36,0.0,101.8,49.51
+ORD-01593,2024-10-07,North,Technology,Laptop Stand,Small Business,Online,8,530.77,0.1,3821.54,1743.3
+ORD-01159,2024-10-07,North,Technology,Monitor,Small Business,Partner,1,282.48,0.1,254.23,105.53
+ORD-01017,2024-10-07,North,Furniture,Standing Desk,Consumer,In-Store,5,771.23,0.05,3663.34,1232.22
+ORD-00758,2024-10-07,South,Home & Lifestyle,Desk Plant,Consumer,Online,8,87.74,0.0,701.92,268.59
+ORD-00614,2024-10-08,North,Furniture,Bookshelf,Corporate,Online,7,300.44,0.05,1997.93,906.96
+ORD-01468,2024-10-08,South,Office Supplies,Desk Organizer,Consumer,In-Store,6,20.37,0.0,122.22,50.64
+ORD-01761,2024-10-08,West,Home & Lifestyle,Water Bottle,Corporate,Online,8,36.16,0.0,289.28,123.89
+ORD-01385,2024-10-09,South,Technology,Laptop Stand,Corporate,In-Store,7,653.17,0.05,4343.58,1240.04
+ORD-00094,2024-10-10,East,Technology,Laptop Stand,Consumer,Online,6,203.22,0.0,1219.32,588.37
+ORD-01629,2024-10-10,South,Home & Lifestyle,Backpack,Corporate,Online,1,137.98,0.0,137.98,64.5
+ORD-01066,2024-10-10,East,Technology,USB-C Hub,Small Business,Partner,4,787.02,0.0,3148.08,1138.65
+ORD-00809,2024-10-12,Central,Home & Lifestyle,Travel Mug,Consumer,In-Store,3,75.0,0.15,191.25,75.17
+ORD-01173,2024-10-13,North,Office Supplies,Notebook Set,Corporate,Online,3,80.2,0.0,240.6,86.19
+ORD-01352,2024-10-13,West,Furniture,Bookshelf,Consumer,In-Store,1,603.38,0.15,512.87,152.24
+ORD-01094,2024-10-13,Central,Technology,Laptop Stand,Consumer,Online,6,545.47,0.0,3272.82,803.02
+ORD-00552,2024-10-14,East,Furniture,Filing Cabinet,Consumer,Online,3,160.18,0.0,480.54,129.34
+ORD-01283,2024-10-14,West,Home & Lifestyle,Desk Plant,Corporate,In-Store,1,74.6,0.1,67.14,23.28
+ORD-01754,2024-10-15,West,Furniture,Filing Cabinet,Corporate,Partner,3,235.18,0.05,670.26,300.16
+ORD-01774,2024-10-15,East,Office Supplies,Desk Organizer,Corporate,Online,2,53.95,0.0,107.9,34.14
+ORD-01694,2024-10-15,West,Technology,USB-C Hub,Corporate,Online,5,204.78,0.0,1023.9,439.43
+ORD-01478,2024-10-15,North,Furniture,Office Chair,Consumer,In-Store,7,534.69,0.0,3742.83,1310.77
+ORD-01666,2024-10-16,North,Office Supplies,Ballpoint Pens,Corporate,Online,2,57.21,0.0,114.42,52.79
+ORD-01320,2024-10-17,East,Office Supplies,Printer Paper,Consumer,Online,1,39.31,0.0,39.31,16.25
+ORD-00440,2024-10-17,Central,Office Supplies,Printer Paper,Consumer,Online,6,18.45,0.1,99.63,25.12
+ORD-01168,2024-10-18,East,Home & Lifestyle,Water Bottle,Consumer,In-Store,5,133.61,0.1,601.25,163.52
+ORD-00957,2024-10-19,West,Technology,Keyboard,Consumer,Partner,2,637.5,0.0,1275.0,562.16
+ORD-01302,2024-10-20,South,Home & Lifestyle,Water Bottle,Corporate,In-Store,7,95.09,0.1,599.07,189.87
+ORD-00027,2024-10-21,Central,Technology,Monitor,Small Business,Online,1,651.09,0.05,618.54,185.08
+ORD-00942,2024-10-22,North,Furniture,Filing Cabinet,Small Business,Online,3,294.47,0.05,839.24,274.01
+ORD-00585,2024-10-22,Central,Furniture,Office Chair,Corporate,Online,8,976.38,0.1,7029.94,2164.67
+ORD-01131,2024-10-24,South,Technology,Wireless Mouse,Consumer,Online,6,749.77,0.0,4498.62,2052.64
+ORD-00164,2024-10-24,South,Furniture,Office Chair,Consumer,In-Store,7,704.51,0.1,4438.41,1758.96
+ORD-00687,2024-10-24,Central,Office Supplies,Ballpoint Pens,Consumer,Online,1,77.55,0.0,77.55,32.72
+ORD-00962,2024-10-25,South,Home & Lifestyle,Lunch Bag,Corporate,In-Store,1,76.47,0.0,76.47,25.76
+ORD-00144,2024-10-25,East,Furniture,Desk Lamp,Corporate,Online,2,819.11,0.05,1556.31,739.95
+ORD-01688,2024-10-25,East,Technology,Laptop Stand,Consumer,In-Store,5,744.57,0.15,3164.42,867.6
+ORD-01340,2024-10-25,North,Office Supplies,Ballpoint Pens,Consumer,Online,7,65.34,0.2,365.9,184.86
+ORD-01762,2024-10-26,North,Office Supplies,Printer Paper,Consumer,Online,4,62.7,0.05,238.26,56.62
+ORD-00373,2024-10-26,East,Office Supplies,Ballpoint Pens,Consumer,Online,3,63.66,0.0,190.98,48.06
+ORD-00163,2024-10-26,North,Technology,Keyboard,Consumer,Partner,2,582.63,0.15,990.47,238.13
+ORD-01495,2024-10-26,Central,Furniture,Desk Lamp,Consumer,In-Store,6,1083.02,0.0,6498.12,1877.38
+ORD-00907,2024-10-27,East,Technology,Monitor,Corporate,Online,7,473.46,0.1,2982.8,1271.35
+ORD-00065,2024-10-27,South,Home & Lifestyle,Water Bottle,Consumer,In-Store,2,37.65,0.15,64.0,20.45
+ORD-01252,2024-10-27,West,Technology,Monitor,Small Business,Online,6,835.16,0.0,5010.96,2193.34
+ORD-00496,2024-10-28,South,Technology,Keyboard,Corporate,In-Store,4,151.78,0.0,607.12,271.17
+ORD-00960,2024-10-28,West,Technology,USB-C Hub,Consumer,Online,3,297.17,0.0,891.51,365.65
+ORD-01719,2024-10-28,East,Home & Lifestyle,Backpack,Consumer,Partner,4,10.67,0.0,42.68,22.18
+ORD-01584,2024-10-29,West,Office Supplies,Notebook Set,Corporate,Online,2,43.83,0.0,87.66,25.59
+ORD-01309,2024-10-30,West,Technology,Laptop Stand,Corporate,Partner,5,603.07,0.1,2713.82,941.52
+ORD-01191,2024-10-30,East,Office Supplies,Notebook Set,Consumer,In-Store,5,85.53,0.1,384.88,94.31
+ORD-00248,2024-10-30,West,Home & Lifestyle,Lunch Bag,Consumer,Online,3,63.4,0.05,180.69,69.99
+ORD-01635,2024-10-30,West,Home & Lifestyle,Lunch Bag,Consumer,Online,3,104.69,0.05,298.37,104.87
+ORD-01485,2024-10-30,Central,Technology,Wireless Mouse,Small Business,Online,3,235.51,0.05,671.2,175.57
+ORD-01043,2024-10-30,East,Office Supplies,Ballpoint Pens,Corporate,Partner,4,57.27,0.0,229.08,77.86
+ORD-00425,2024-10-31,West,Office Supplies,Ballpoint Pens,Consumer,Online,7,55.57,0.2,311.19,99.51
+ORD-01225,2024-10-31,East,Office Supplies,Ballpoint Pens,Consumer,Online,1,67.34,0.2,53.87,25.37
+ORD-01480,2024-10-31,West,Furniture,Bookshelf,Consumer,In-Store,7,1077.97,0.2,6036.63,2043.36
+ORD-00624,2024-10-31,North,Furniture,Filing Cabinet,Small Business,Online,5,898.23,0.0,4491.15,1598.7
+ORD-00572,2024-10-31,West,Technology,Laptop Stand,Consumer,Online,8,562.5,0.0,4500.0,1408.16
+ORD-00275,2024-11-01,Central,Office Supplies,Ballpoint Pens,Consumer,Online,6,55.28,0.0,331.68,85.29
+ORD-00972,2024-11-01,Central,Office Supplies,Notebook Set,Consumer,In-Store,3,11.18,0.15,28.51,14.66
+ORD-00929,2024-11-01,South,Home & Lifestyle,Water Bottle,Consumer,In-Store,6,128.72,0.0,772.32,309.25
+ORD-01079,2024-11-01,North,Furniture,Desk Lamp,Consumer,Partner,8,868.75,0.05,6602.5,3227.94
+ORD-00165,2024-11-01,North,Office Supplies,Notebook Set,Small Business,Online,8,45.74,0.0,365.92,104.43
+ORD-00732,2024-11-02,Central,Home & Lifestyle,Backpack,Corporate,In-Store,5,65.27,0.15,277.4,126.07
+ORD-00464,2024-11-02,East,Technology,Laptop Stand,Corporate,Partner,3,148.84,0.1,401.87,150.65
+ORD-01678,2024-11-02,West,Home & Lifestyle,Water Bottle,Small Business,In-Store,8,122.02,0.1,878.54,445.63
+ORD-01185,2024-11-03,Central,Furniture,Desk Lamp,Consumer,Online,7,77.42,0.15,460.65,185.09
+ORD-01374,2024-11-03,Central,Home & Lifestyle,Backpack,Small Business,Online,8,45.16,0.0,361.28,125.39
+ORD-00777,2024-11-05,West,Furniture,Desk Lamp,Corporate,In-Store,5,163.9,0.1,737.55,231.28
+ORD-01333,2024-11-06,West,Technology,USB-C Hub,Small Business,Online,8,480.27,0.0,3842.16,991.54
+ORD-01059,2024-11-06,East,Home & Lifestyle,Travel Mug,Consumer,In-Store,8,119.88,0.0,959.04,456.64
+ORD-00500,2024-11-07,Central,Office Supplies,Sticky Notes,Consumer,In-Store,3,21.46,0.1,57.94,22.02
+ORD-01437,2024-11-08,Central,Home & Lifestyle,Desk Plant,Consumer,Online,4,43.09,0.0,172.36,62.62
+ORD-00954,2024-11-08,West,Furniture,Filing Cabinet,Consumer,Partner,2,596.6,0.1,1073.88,374.29
+ORD-01687,2024-11-08,West,Office Supplies,Ballpoint Pens,Corporate,Online,2,75.03,0.0,150.06,76.26
+ORD-00547,2024-11-09,North,Home & Lifestyle,Travel Mug,Consumer,In-Store,4,110.52,0.05,419.98,93.29
+ORD-01153,2024-11-10,South,Office Supplies,Notebook Set,Corporate,In-Store,1,6.84,0.0,6.84,2.66
+ORD-00238,2024-11-11,North,Office Supplies,Ballpoint Pens,Corporate,Online,7,62.45,0.2,349.72,142.92
+ORD-01496,2024-11-11,East,Home & Lifestyle,Desk Plant,Consumer,Online,3,140.06,0.05,399.17,102.79
+ORD-01741,2024-11-11,South,Furniture,Office Chair,Consumer,Online,4,1130.77,0.1,4070.77,1379.35
+ORD-00473,2024-11-11,East,Office Supplies,Printer Paper,Consumer,Partner,4,4.69,0.0,18.76,9.62
+ORD-00795,2024-11-11,South,Furniture,Standing Desk,Consumer,Online,3,250.11,0.1,675.3,264.9
+ORD-00994,2024-11-11,South,Technology,USB-C Hub,Consumer,Partner,6,134.48,0.0,806.88,203.64
+ORD-00621,2024-11-12,North,Office Supplies,Desk Organizer,Small Business,In-Store,1,17.61,0.05,16.73,6.31
+ORD-00005,2024-11-12,Central,Home & Lifestyle,Water Bottle,Consumer,In-Store,1,9.35,0.0,9.35,4.5
+ORD-01444,2024-11-12,South,Office Supplies,Desk Organizer,Consumer,Online,1,56.84,0.1,51.16,23.87
+ORD-00633,2024-11-13,West,Office Supplies,Printer Paper,Consumer,Online,4,23.14,0.1,83.3,22.14
+ORD-00155,2024-11-13,East,Office Supplies,Ballpoint Pens,Corporate,Online,7,43.89,0.0,307.23,129.03
+ORD-00435,2024-11-13,North,Home & Lifestyle,Travel Mug,Consumer,Online,8,125.33,0.15,852.24,248.18
+ORD-00407,2024-11-13,East,Furniture,Bookshelf,Corporate,In-Store,2,600.73,0.1,1081.31,428.73
+ORD-01100,2024-11-13,West,Office Supplies,Ballpoint Pens,Corporate,Online,8,23.23,0.1,167.26,49.74
+ORD-00091,2024-11-14,North,Furniture,Bookshelf,Consumer,Online,5,803.04,0.1,3613.68,1833.48
+ORD-00354,2024-11-14,West,Furniture,Standing Desk,Corporate,Online,4,879.09,0.05,3340.54,1374.59
+ORD-01039,2024-11-15,North,Technology,Wireless Mouse,Small Business,In-Store,7,452.96,0.0,3170.72,742.08
+ORD-00140,2024-11-15,East,Technology,Monitor,Consumer,Partner,8,139.32,0.0,1114.56,532.36
+ORD-00082,2024-11-15,North,Home & Lifestyle,Water Bottle,Consumer,Online,7,62.81,0.05,417.69,182.65
+ORD-00756,2024-11-16,West,Office Supplies,Printer Paper,Consumer,In-Store,6,41.14,0.15,209.81,49.3
+ORD-00004,2024-11-16,South,Office Supplies,Ballpoint Pens,Consumer,Partner,2,5.59,0.05,10.62,4.78
+ORD-01418,2024-11-16,East,Furniture,Bookshelf,Consumer,In-Store,7,123.19,0.2,689.86,307.3
+ORD-00298,2024-11-16,East,Furniture,Desk Lamp,Small Business,Online,4,1122.5,0.0,4490.0,1807.17
+ORD-01220,2024-11-17,East,Technology,Wireless Mouse,Consumer,Online,2,599.12,0.1,1078.42,452.83
+ORD-00121,2024-11-17,West,Home & Lifestyle,Backpack,Consumer,Online,5,100.6,0.1,452.7,152.42
+ORD-00285,2024-11-18,Central,Technology,USB-C Hub,Consumer,Online,8,423.97,0.0,3391.76,909.53
+ORD-00935,2024-11-19,East,Technology,Wireless Mouse,Corporate,Online,6,748.25,0.0,4489.5,2274.31
+ORD-00800,2024-11-19,West,Furniture,Office Chair,Small Business,Partner,1,499.3,0.0,499.3,175.61
+ORD-01263,2024-11-20,South,Office Supplies,Ballpoint Pens,Consumer,In-Store,2,8.78,0.1,15.8,5.56
+ORD-00030,2024-11-20,North,Furniture,Filing Cabinet,Corporate,Partner,1,117.98,0.0,117.98,40.22
+ORD-01293,2024-11-20,East,Furniture,Filing Cabinet,Small Business,Online,4,1019.04,0.0,4076.16,1033.61
+ORD-01729,2024-11-20,East,Office Supplies,Desk Organizer,Small Business,Online,2,70.6,0.0,141.2,67.84
+ORD-00047,2024-11-21,South,Furniture,Desk Lamp,Corporate,Partner,5,336.15,0.0,1680.75,377.72
+ORD-00689,2024-11-21,Central,Office Supplies,Desk Organizer,Consumer,In-Store,6,11.29,0.1,60.97,18.21
+ORD-00186,2024-11-22,Central,Furniture,Desk Lamp,Small Business,In-Store,7,1182.43,0.0,8277.01,3885.55
+ORD-00923,2024-11-22,West,Office Supplies,Notebook Set,Small Business,In-Store,6,54.75,0.1,295.65,117.78
+ORD-00267,2024-11-22,East,Home & Lifestyle,Travel Mug,Consumer,Online,1,79.4,0.1,71.46,22.97
+ORD-00219,2024-11-22,West,Office Supplies,Sticky Notes,Corporate,Online,8,71.23,0.2,455.87,153.18
+ORD-00869,2024-11-22,Central,Technology,Laptop Stand,Consumer,Online,5,156.25,0.2,625.0,150.07
+ORD-01643,2024-11-22,South,Office Supplies,Printer Paper,Consumer,Online,5,71.39,0.0,356.95,180.66
+ORD-01092,2024-11-23,South,Furniture,Bookshelf,Corporate,Partner,5,146.48,0.0,732.4,165.06
+ORD-01184,2024-11-23,East,Technology,Keyboard,Consumer,Online,4,58.91,0.15,200.29,60.85
+ORD-01319,2024-11-24,Central,Home & Lifestyle,Water Bottle,Corporate,In-Store,6,156.09,0.0,936.54,340.59
+ORD-01373,2024-11-24,South,Furniture,Filing Cabinet,Consumer,In-Store,1,155.86,0.05,148.07,38.39
+ORD-00214,2024-11-24,North,Home & Lifestyle,Travel Mug,Corporate,In-Store,6,24.6,0.0,147.6,59.67
+ORD-01473,2024-11-24,East,Office Supplies,Sticky Notes,Consumer,Partner,5,69.76,0.15,296.48,115.72
+ORD-00883,2024-11-24,West,Technology,USB-C Hub,Consumer,Online,7,555.85,0.05,3696.4,1137.49
+ORD-01331,2024-11-24,West,Office Supplies,Printer Paper,Corporate,In-Store,1,36.74,0.0,36.74,14.43
+ORD-01057,2024-11-24,Central,Office Supplies,Desk Organizer,Consumer,In-Store,4,4.2,0.0,16.8,8.58
+ORD-00020,2024-11-25,Central,Office Supplies,Printer Paper,Consumer,Online,8,74.01,0.2,473.66,164.74
+ORD-00031,2024-11-25,North,Office Supplies,Sticky Notes,Consumer,Online,6,32.27,0.15,164.58,46.8
+ORD-00833,2024-11-27,Central,Furniture,Office Chair,Corporate,In-Store,3,859.13,0.0,2577.39,1280.42
+ORD-00506,2024-11-27,North,Office Supplies,Notebook Set,Small Business,Online,7,57.42,0.1,361.75,97.74
+ORD-01368,2024-11-27,South,Office Supplies,Ballpoint Pens,Consumer,Online,6,40.85,0.15,208.34,108.15
+ORD-01566,2024-11-28,West,Furniture,Filing Cabinet,Consumer,Online,3,530.99,0.05,1513.32,493.74
+ORD-00792,2024-11-28,West,Home & Lifestyle,Water Bottle,Consumer,Partner,5,26.37,0.0,131.85,52.12
+ORD-01458,2024-11-28,East,Office Supplies,Sticky Notes,Consumer,Online,7,18.18,0.05,120.9,51.23
+ORD-00871,2024-11-29,Central,Furniture,Bookshelf,Consumer,Online,2,76.67,0.1,138.01,45.31
+ORD-00222,2024-11-29,West,Technology,Wireless Mouse,Consumer,Online,6,290.74,0.1,1570.0,704.58
+ORD-00537,2024-11-29,East,Technology,Wireless Mouse,Consumer,In-Store,3,731.39,0.1,1974.75,486.58
+ORD-01743,2024-11-29,Central,Furniture,Filing Cabinet,Corporate,Online,2,57.49,0.0,114.98,56.67
+ORD-01555,2024-11-30,North,Furniture,Bookshelf,Corporate,Online,8,928.81,0.1,6687.43,1754.96
+ORD-00205,2024-11-30,North,Technology,Keyboard,Consumer,In-Store,6,42.29,0.0,253.74,122.56
+ORD-00905,2024-12-01,North,Furniture,Standing Desk,Corporate,In-Store,3,729.01,0.0,2187.03,527.43
+ORD-00916,2024-12-01,South,Office Supplies,Notebook Set,Consumer,Partner,3,29.57,0.1,79.84,27.16
+ORD-00798,2024-12-01,West,Home & Lifestyle,Travel Mug,Consumer,Online,2,51.59,0.0,103.18,42.36
+ORD-00114,2024-12-01,West,Home & Lifestyle,Lunch Bag,Consumer,In-Store,6,80.13,0.2,384.62,119.71
+ORD-01520,2024-12-02,East,Home & Lifestyle,Desk Plant,Corporate,Online,5,152.71,0.05,725.37,301.63
+ORD-00647,2024-12-02,Central,Technology,Wireless Mouse,Consumer,Online,7,374.63,0.0,2622.41,1075.82
+ORD-01213,2024-12-02,East,Technology,Monitor,Consumer,In-Store,4,20.3,0.0,81.2,19.89
+ORD-00335,2024-12-02,East,Technology,Keyboard,Consumer,Online,5,564.36,0.0,2821.8,842.59
+ORD-00939,2024-12-03,North,Furniture,Filing Cabinet,Consumer,In-Store,4,926.76,0.05,3521.69,1438.61
+ORD-00176,2024-12-03,East,Office Supplies,Ballpoint Pens,Consumer,Online,7,89.79,0.0,628.53,139.12
+ORD-00073,2024-12-04,South,Technology,Keyboard,Small Business,Online,8,570.41,0.0,4563.28,1059.87
+ORD-00612,2024-12-04,South,Technology,Keyboard,Corporate,In-Store,2,596.18,0.05,1132.74,439.78
+ORD-00231,2024-12-04,East,Home & Lifestyle,Backpack,Consumer,In-Store,1,18.02,0.1,16.22,5.44
+ORD-00485,2024-12-04,East,Home & Lifestyle,Water Bottle,Consumer,Online,1,121.79,0.1,109.61,24.86
+ORD-01248,2024-12-05,West,Home & Lifestyle,Lunch Bag,Consumer,In-Store,1,67.12,0.05,63.76,24.26
+ORD-00710,2024-12-06,West,Office Supplies,Printer Paper,Corporate,Online,2,56.3,0.05,106.97,48.47
+ORD-01499,2024-12-07,Central,Technology,Monitor,Corporate,Online,3,567.53,0.0,1702.59,730.2
+ORD-01768,2024-12-07,West,Technology,Keyboard,Consumer,Online,8,375.41,0.1,2702.95,1316.29
+ORD-01075,2024-12-07,West,Technology,Laptop Stand,Consumer,Online,5,158.77,0.05,754.16,282.46
+ORD-00277,2024-12-07,North,Office Supplies,Ballpoint Pens,Consumer,Online,8,77.47,0.0,619.76,241.56
+ORD-00474,2024-12-07,North,Home & Lifestyle,Travel Mug,Consumer,Online,5,20.53,0.05,97.52,38.1
+ORD-00054,2024-12-07,South,Technology,Keyboard,Consumer,In-Store,6,672.53,0.05,3833.42,880.41
+ORD-01697,2024-12-08,Central,Technology,Wireless Mouse,Consumer,Online,3,408.87,0.0,1226.61,292.75
+ORD-01431,2024-12-09,North,Furniture,Desk Lamp,Consumer,Online,6,29.63,0.1,160.0,68.86
+ORD-00367,2024-12-09,East,Technology,Laptop Stand,Consumer,Online,6,602.19,0.0,3613.14,1216.01
+ORD-01102,2024-12-09,East,Office Supplies,Sticky Notes,Consumer,Online,1,70.08,0.1,63.07,16.35
+ORD-01712,2024-12-09,South,Home & Lifestyle,Desk Plant,Corporate,Online,5,74.12,0.0,370.6,166.12
+ORD-00070,2024-12-09,East,Technology,Laptop Stand,Consumer,Online,3,306.76,0.0,920.28,238.06
+ORD-00109,2024-12-10,East,Furniture,Bookshelf,Corporate,Online,5,978.13,0.0,4890.65,1963.02
+ORD-00124,2024-12-10,East,Office Supplies,Sticky Notes,Corporate,Partner,7,33.34,0.1,210.04,46.68
+ORD-01789,2024-12-11,East,Technology,Laptop Stand,Consumer,Online,2,43.15,0.05,81.98,23.52
+ORD-00974,2024-12-12,South,Home & Lifestyle,Desk Plant,Corporate,In-Store,8,59.18,0.05,449.77,229.54
+ORD-00290,2024-12-12,South,Furniture,Standing Desk,Small Business,Online,8,118.45,0.1,852.84,282.7
+ORD-00944,2024-12-12,East,Home & Lifestyle,Desk Plant,Consumer,Online,3,95.1,0.0,285.3,133.83
+ORD-01541,2024-12-13,West,Home & Lifestyle,Lunch Bag,Corporate,Online,2,148.65,0.0,297.3,118.24
+ORD-00519,2024-12-13,South,Home & Lifestyle,Desk Plant,Small Business,In-Store,4,54.38,0.2,174.02,71.33
+ORD-00076,2024-12-13,Central,Furniture,Bookshelf,Consumer,In-Store,6,173.68,0.0,1042.08,282.68
+ORD-00709,2024-12-13,Central,Office Supplies,Printer Paper,Consumer,Online,7,71.71,0.1,451.77,228.28
+ORD-00973,2024-12-14,North,Home & Lifestyle,Lunch Bag,Small Business,In-Store,3,157.63,0.0,472.89,225.81
+ORD-01420,2024-12-14,East,Home & Lifestyle,Water Bottle,Small Business,In-Store,3,118.24,0.1,319.25,121.29
+ORD-00785,2024-12-15,Central,Technology,Wireless Mouse,Consumer,In-Store,7,448.08,0.05,2979.73,1073.64
+ORD-00622,2024-12-15,North,Office Supplies,Desk Organizer,Small Business,In-Store,4,66.73,0.0,266.92,116.25
+ORD-01795,2024-12-15,East,Home & Lifestyle,Desk Plant,Corporate,Online,8,30.28,0.05,230.13,57.51
+ORD-01202,2024-12-15,South,Technology,Monitor,Consumer,Online,7,658.13,0.1,4146.22,1339.28
+ORD-01101,2024-12-16,Central,Home & Lifestyle,Water Bottle,Small Business,In-Store,1,156.2,0.15,132.77,40.3
+ORD-00768,2024-12-16,East,Technology,Keyboard,Consumer,In-Store,7,560.43,0.0,3923.01,1045.85
+ORD-01508,2024-12-16,South,Office Supplies,Notebook Set,Corporate,Online,1,10.37,0.15,8.81,2.06
+ORD-01799,2024-12-16,West,Office Supplies,Desk Organizer,Corporate,Partner,3,84.79,0.0,254.37,126.28
+ORD-00644,2024-12-17,East,Technology,Keyboard,Small Business,In-Store,5,101.96,0.15,433.33,122.32
+ORD-00276,2024-12-18,East,Furniture,Standing Desk,Small Business,In-Store,5,77.88,0.0,389.4,159.37
+ORD-01517,2024-12-18,West,Technology,Wireless Mouse,Consumer,Online,3,69.19,0.15,176.43,71.62
+ORD-01146,2024-12-18,North,Technology,Keyboard,Small Business,Online,2,784.13,0.05,1489.85,362.36
+ORD-00282,2024-12-21,Central,Technology,Keyboard,Consumer,Partner,6,843.26,0.0,5059.56,1134.67
+ORD-00729,2024-12-22,Central,Technology,Laptop Stand,Consumer,Online,5,523.17,0.2,2092.68,601.69
+ORD-01031,2024-12-22,South,Furniture,Filing Cabinet,Consumer,Online,8,702.81,0.15,4779.11,2181.78
+ORD-01492,2024-12-23,West,Furniture,Standing Desk,Consumer,Online,6,553.79,0.2,2658.19,1265.16
+ORD-01244,2024-12-23,East,Home & Lifestyle,Backpack,Consumer,Online,1,59.32,0.15,50.42,17.98
+ORD-00444,2024-12-23,Central,Furniture,Office Chair,Consumer,In-Store,8,376.09,0.0,3008.72,1377.71
+ORD-00651,2024-12-23,South,Technology,USB-C Hub,Consumer,In-Store,4,724.97,0.15,2464.9,1079.88
+ORD-01477,2024-12-24,East,Home & Lifestyle,Backpack,Consumer,In-Store,6,81.56,0.05,464.89,191.26
+ORD-00284,2024-12-24,East,Technology,USB-C Hub,Corporate,In-Store,8,165.62,0.0,1324.96,684.78
+ORD-01116,2024-12-24,South,Office Supplies,Desk Organizer,Consumer,In-Store,8,40.94,0.0,327.52,165.88
+ORD-00718,2024-12-25,West,Furniture,Standing Desk,Consumer,Online,2,126.32,0.0,252.64,81.2
+ORD-01120,2024-12-26,North,Office Supplies,Notebook Set,Consumer,Online,1,30.18,0.05,28.67,13.67
+ORD-00235,2024-12-26,South,Home & Lifestyle,Desk Plant,Consumer,Online,5,25.63,0.15,108.93,29.41
+ORD-00563,2024-12-26,Central,Technology,Monitor,Consumer,Online,8,65.7,0.05,499.32,146.73
+ORD-00203,2024-12-27,South,Home & Lifestyle,Water Bottle,Small Business,Online,5,75.94,0.05,360.72,177.26
+ORD-00252,2024-12-27,South,Home & Lifestyle,Desk Plant,Consumer,Online,2,60.12,0.05,114.23,41.46
+ORD-01519,2024-12-27,North,Technology,Wireless Mouse,Consumer,In-Store,8,512.65,0.05,3896.14,1989.1
+ORD-01549,2024-12-27,Central,Furniture,Standing Desk,Corporate,In-Store,5,678.75,0.15,2884.69,929.43
+ORD-01018,2024-12-27,East,Furniture,Office Chair,Consumer,In-Store,1,955.98,0.1,860.38,436.45
+ORD-01353,2024-12-28,South,Office Supplies,Printer Paper,Corporate,In-Store,7,51.74,0.0,362.18,113.88
+ORD-00185,2024-12-28,East,Home & Lifestyle,Backpack,Corporate,Online,6,122.55,0.0,735.3,310.56
+ORD-01356,2024-12-29,South,Office Supplies,Sticky Notes,Consumer,Online,7,62.18,0.0,435.26,146.44
+ORD-00183,2024-12-29,Central,Home & Lifestyle,Desk Plant,Consumer,Partner,1,68.94,0.05,65.49,33.51
+ORD-00055,2024-12-29,South,Home & Lifestyle,Travel Mug,Small Business,In-Store,3,135.11,0.1,364.8,88.21
+ORD-00453,2024-12-30,East,Office Supplies,Desk Organizer,Consumer,In-Store,5,72.69,0.15,308.93,77.17
+ORD-00405,2024-12-30,East,Home & Lifestyle,Travel Mug,Consumer,Partner,6,115.86,0.05,660.4,332.71
+ORD-01162,2024-12-30,East,Technology,Keyboard,Consumer,Partner,6,484.52,0.15,2471.05,934.25
+ORD-00021,2024-12-31,West,Technology,Monitor,Consumer,Online,6,270.35,0.0,1622.1,546.7
+ORD-01053,2025-01-01,North,Furniture,Filing Cabinet,Consumer,In-Store,1,836.1,0.05,794.3,312.2
+ORD-00180,2025-01-01,Central,Office Supplies,Desk Organizer,Corporate,Online,1,6.15,0.1,5.54,2.77
+ORD-00406,2025-01-01,North,Home & Lifestyle,Water Bottle,Corporate,Partner,8,100.8,0.1,725.76,173.48
+ORD-01091,2025-01-02,East,Technology,Monitor,Consumer,In-Store,7,573.05,0.1,3610.21,873.71
+ORD-00667,2025-01-02,East,Technology,Laptop Stand,Consumer,Online,2,821.54,0.15,1396.62,494.71
+ORD-01737,2025-01-02,West,Office Supplies,Ballpoint Pens,Consumer,Online,3,34.43,0.0,103.29,32.78
+ORD-01379,2025-01-02,West,Home & Lifestyle,Water Bottle,Consumer,In-Store,1,87.3,0.1,78.57,38.52
+ORD-01767,2025-01-03,East,Home & Lifestyle,Backpack,Corporate,Online,7,45.87,0.0,321.09,131.81
+ORD-00556,2025-01-03,North,Technology,Keyboard,Corporate,Partner,5,35.09,0.15,149.13,75.02
+ORD-00876,2025-01-03,West,Office Supplies,Notebook Set,Corporate,Online,7,34.12,0.0,238.84,93.11
+ORD-01008,2025-01-03,South,Technology,Keyboard,Consumer,Online,7,832.82,0.0,5829.74,2914.05
+ORD-01152,2025-01-04,East,Technology,Monitor,Consumer,Partner,1,764.76,0.2,611.81,298.13
+ORD-00159,2025-01-04,Central,Office Supplies,Ballpoint Pens,Corporate,Online,1,23.02,0.05,21.87,7.38
+ORD-00115,2025-01-04,Central,Office Supplies,Ballpoint Pens,Consumer,Online,1,40.73,0.05,38.69,10.0
+ORD-00629,2025-01-04,East,Technology,USB-C Hub,Small Business,In-Store,3,807.79,0.0,2423.37,604.59
+ORD-01217,2025-01-05,South,Technology,USB-C Hub,Consumer,Partner,3,595.01,0.05,1695.78,611.59
+ORD-01618,2025-01-05,North,Technology,Keyboard,Consumer,In-Store,1,581.58,0.0,581.58,141.22
+ORD-00420,2025-01-05,West,Home & Lifestyle,Backpack,Consumer,In-Store,8,156.33,0.0,1250.64,292.76
+ORD-00940,2025-01-06,South,Furniture,Desk Lamp,Corporate,Online,2,854.69,0.05,1623.91,499.62
+ORD-01490,2025-01-06,South,Technology,Monitor,Corporate,In-Store,3,547.46,0.1,1478.14,392.58
+ORD-00445,2025-01-06,East,Home & Lifestyle,Lunch Bag,Consumer,In-Store,6,116.05,0.0,696.3,349.93
+ORD-01051,2025-01-06,Central,Home & Lifestyle,Desk Plant,Consumer,Online,2,8.19,0.15,13.92,6.01
+ORD-01241,2025-01-06,Central,Home & Lifestyle,Travel Mug,Consumer,In-Store,8,53.53,0.1,385.42,129.1
+ORD-00897,2025-01-07,East,Furniture,Office Chair,Corporate,Online,5,795.23,0.2,3180.92,1026.96
+ORD-01000,2025-01-09,South,Technology,Monitor,Corporate,Online,6,418.12,0.05,2383.28,588.55
+ORD-01442,2025-01-09,North,Technology,Monitor,Small Business,Partner,4,335.02,0.0,1340.08,328.41
+ORD-00017,2025-01-10,South,Technology,Laptop Stand,Consumer,In-Store,5,559.33,0.0,2796.65,1168.87
+ORD-00608,2025-01-10,North,Office Supplies,Printer Paper,Small Business,Online,5,48.94,0.15,207.99,94.29
+ORD-01207,2025-01-11,East,Furniture,Filing Cabinet,Small Business,Online,3,626.06,0.1,1690.36,709.96
+ORD-01680,2025-01-11,West,Home & Lifestyle,Travel Mug,Small Business,Online,8,73.09,0.15,497.01,224.99
+ORD-00344,2025-01-11,West,Technology,USB-C Hub,Small Business,Partner,8,184.59,0.0,1476.72,497.23
+ORD-00803,2025-01-11,North,Office Supplies,Desk Organizer,Consumer,Online,2,62.89,0.0,125.78,41.78
+ORD-01583,2025-01-11,North,Technology,Monitor,Consumer,Partner,2,441.67,0.2,706.67,298.53
+ORD-01296,2025-01-11,East,Home & Lifestyle,Backpack,Consumer,In-Store,3,109.19,0.0,327.57,106.48
+ORD-01720,2025-01-12,South,Home & Lifestyle,Backpack,Corporate,In-Store,8,93.72,0.05,712.27,263.32
+ORD-01460,2025-01-12,North,Technology,Monitor,Consumer,Online,5,538.78,0.0,2693.9,1171.8
+ORD-00549,2025-01-12,East,Furniture,Filing Cabinet,Consumer,Online,5,641.96,0.05,3049.31,1192.12
+ORD-01165,2025-01-12,East,Office Supplies,Notebook Set,Consumer,In-Store,4,12.37,0.05,47.01,24.23
+ORD-00717,2025-01-13,Central,Technology,Monitor,Consumer,Partner,5,238.16,0.15,1012.18,259.82
+ORD-00366,2025-01-14,North,Home & Lifestyle,Backpack,Consumer,Partner,2,47.91,0.05,91.03,43.92
+ORD-01015,2025-01-14,South,Technology,Laptop Stand,Consumer,Online,8,796.13,0.0,6369.04,2256.3
+ORD-00449,2025-01-15,South,Office Supplies,Printer Paper,Consumer,Online,5,24.52,0.0,122.6,28.89
+ORD-01686,2025-01-15,North,Office Supplies,Sticky Notes,Corporate,Online,4,49.16,0.05,186.81,71.15
+ORD-01010,2025-01-15,Central,Home & Lifestyle,Lunch Bag,Consumer,Partner,7,56.47,0.0,395.29,95.98
+ORD-00701,2025-01-15,East,Home & Lifestyle,Travel Mug,Consumer,Online,6,17.85,0.1,96.39,34.54
+ORD-00296,2025-01-15,West,Technology,Wireless Mouse,Consumer,In-Store,7,344.4,0.1,2169.72,714.07
+ORD-01800,2025-01-16,North,Home & Lifestyle,Backpack,Corporate,In-Store,7,139.98,0.1,881.87,199.26
+ORD-00893,2025-01-16,Central,Technology,Wireless Mouse,Small Business,Online,8,26.81,0.1,193.03,74.59
+ORD-00712,2025-01-17,West,Furniture,Bookshelf,Consumer,Online,1,499.97,0.1,449.97,163.78
+ORD-00679,2025-01-17,South,Home & Lifestyle,Backpack,Consumer,Partner,1,69.41,0.1,62.47,23.84
+ORD-00578,2025-01-17,Central,Home & Lifestyle,Water Bottle,Consumer,Partner,7,111.72,0.1,703.84,290.99
+ORD-01074,2025-01-18,South,Office Supplies,Sticky Notes,Consumer,In-Store,2,72.61,0.0,145.22,65.52
+ORD-01665,2025-01-18,South,Furniture,Office Chair,Consumer,Online,2,287.16,0.0,574.32,211.23
+ORD-01311,2025-01-18,North,Home & Lifestyle,Travel Mug,Consumer,Online,3,12.04,0.05,34.31,8.31
+ORD-00011,2025-01-19,West,Furniture,Office Chair,Consumer,Online,5,552.27,0.05,2623.28,1074.1
+ORD-00997,2025-01-19,East,Furniture,Bookshelf,Corporate,In-Store,8,388.48,0.1,2797.06,616.09
+ORD-01195,2025-01-19,South,Home & Lifestyle,Lunch Bag,Small Business,Online,3,8.07,0.1,21.79,6.24
+ORD-00488,2025-01-22,West,Office Supplies,Notebook Set,Consumer,In-Store,3,47.46,0.0,142.38,31.39
+ORD-00995,2025-01-22,South,Office Supplies,Ballpoint Pens,Corporate,Partner,6,33.97,0.05,193.63,84.51
+ORD-01392,2025-01-22,Central,Furniture,Filing Cabinet,Consumer,Online,3,1121.92,0.1,3029.18,1250.22
+ORD-01299,2025-01-22,Central,Technology,Laptop Stand,Corporate,In-Store,4,503.14,0.15,1710.68,467.86
+ORD-01501,2025-01-22,East,Furniture,Office Chair,Consumer,Online,4,454.97,0.15,1546.9,643.1
+ORD-01164,2025-01-23,East,Technology,Wireless Mouse,Small Business,Online,2,466.62,0.0,933.24,341.8
+ORD-01147,2025-01-23,East,Office Supplies,Printer Paper,Consumer,In-Store,3,3.74,0.05,10.66,4.63
+ORD-00507,2025-01-23,West,Home & Lifestyle,Backpack,Corporate,Online,4,94.7,0.0,378.8,97.85
+ORD-01553,2025-01-24,East,Furniture,Filing Cabinet,Consumer,In-Store,6,1115.59,0.0,6693.54,2442.11
+ORD-00351,2025-01-24,East,Technology,Monitor,Consumer,Partner,4,664.21,0.05,2524.0,939.94
+ORD-00747,2025-01-24,West,Office Supplies,Ballpoint Pens,Corporate,Partner,8,60.84,0.1,438.05,151.05
+ORD-01669,2025-01-24,Central,Furniture,Desk Lamp,Consumer,Online,1,236.29,0.1,212.66,103.67
+ORD-00656,2025-01-24,North,Furniture,Filing Cabinet,Consumer,In-Store,2,988.23,0.05,1877.64,536.83
+ORD-01725,2025-01-25,North,Furniture,Office Chair,Consumer,Online,1,1184.29,0.05,1125.08,402.09
+ORD-01341,2025-01-25,Central,Office Supplies,Notebook Set,Corporate,Online,3,70.17,0.2,168.41,84.28
+ORD-01335,2025-01-25,West,Furniture,Standing Desk,Consumer,In-Store,7,246.77,0.0,1727.39,434.66
+ORD-01636,2025-01-26,West,Furniture,Office Chair,Corporate,Online,2,109.79,0.0,219.58,77.0
+ORD-00606,2025-01-26,West,Office Supplies,Desk Organizer,Consumer,In-Store,6,85.11,0.0,510.66,216.42
+ORD-00648,2025-01-26,North,Furniture,Bookshelf,Consumer,Online,1,613.28,0.0,613.28,150.79
+ORD-00561,2025-01-27,East,Furniture,Office Chair,Consumer,Online,2,818.15,0.0,1636.3,775.75
+ORD-00931,2025-01-27,West,Office Supplies,Notebook Set,Consumer,In-Store,3,9.54,0.0,28.62,11.97
+ORD-01140,2025-01-29,West,Furniture,Office Chair,Corporate,In-Store,7,79.4,0.2,444.64,113.7
+ORD-00877,2025-01-29,East,Furniture,Office Chair,Consumer,Online,6,998.37,0.05,5690.71,2474.89
+ORD-00539,2025-01-29,West,Home & Lifestyle,Lunch Bag,Corporate,Online,5,115.54,0.2,462.16,123.13
+ORD-01259,2025-01-30,North,Office Supplies,Ballpoint Pens,Corporate,In-Store,6,35.7,0.2,171.36,87.42
+ORD-01380,2025-01-30,Central,Furniture,Standing Desk,Corporate,Online,6,42.58,0.2,204.38,59.31
+ORD-00927,2025-01-30,West,Office Supplies,Notebook Set,Small Business,Online,1,60.81,0.05,57.77,28.16
+ORD-00289,2025-01-31,Central,Technology,Keyboard,Corporate,Online,4,354.55,0.15,1205.47,572.85
+ORD-00917,2025-01-31,East,Furniture,Desk Lamp,Consumer,In-Store,1,688.01,0.05,653.61,171.68
+ORD-00305,2025-01-31,South,Technology,Laptop Stand,Consumer,In-Store,6,29.13,0.0,174.78,59.76
+ORD-00789,2025-02-02,West,Furniture,Office Chair,Corporate,In-Store,3,279.2,0.15,711.96,297.73
+ORD-00029,2025-02-02,West,Furniture,Office Chair,Small Business,Online,6,52.29,0.1,282.37,95.51
+ORD-00295,2025-02-02,Central,Home & Lifestyle,Backpack,Corporate,Partner,5,32.31,0.0,161.55,71.95
+ORD-00807,2025-02-02,Central,Technology,Keyboard,Consumer,In-Store,8,592.32,0.1,4264.7,1876.04
+ORD-00983,2025-02-03,Central,Office Supplies,Printer Paper,Corporate,Online,3,88.79,0.0,266.37,70.36
+ORD-00331,2025-02-03,East,Technology,Monitor,Consumer,Online,6,537.06,0.0,3222.36,1452.05
+ORD-00229,2025-02-03,Central,Furniture,Bookshelf,Consumer,In-Store,8,943.47,0.1,6792.98,3494.8
+ORD-00057,2025-02-03,North,Furniture,Office Chair,Consumer,Online,8,772.94,0.2,4946.82,1786.51
+ORD-00879,2025-02-04,Central,Office Supplies,Notebook Set,Corporate,Partner,6,18.25,0.0,109.5,27.2
+ORD-01577,2025-02-04,South,Technology,Keyboard,Corporate,Online,8,661.71,0.05,5029.0,1765.05
+ORD-01323,2025-02-05,South,Office Supplies,Notebook Set,Consumer,Partner,6,22.48,0.05,128.14,52.02
+ORD-00992,2025-02-05,East,Furniture,Standing Desk,Corporate,In-Store,7,432.37,0.05,2875.26,887.0
+ORD-01497,2025-02-06,West,Technology,Laptop Stand,Small Business,Online,4,304.34,0.15,1034.76,357.95
+ORD-01625,2025-02-08,East,Home & Lifestyle,Water Bottle,Consumer,Partner,2,83.49,0.1,150.28,56.0
+ORD-01222,2025-02-08,South,Technology,Monitor,Consumer,In-Store,2,615.13,0.15,1045.72,473.04
+ORD-00132,2025-02-08,Central,Furniture,Filing Cabinet,Small Business,Partner,3,887.67,0.0,2663.01,702.18
+ORD-00762,2025-02-08,East,Furniture,Standing Desk,Consumer,Online,2,69.29,0.0,138.58,46.64
+ORD-01664,2025-02-08,Central,Office Supplies,Notebook Set,Consumer,In-Store,5,70.68,0.2,282.72,115.92
+ORD-00655,2025-02-08,Central,Technology,Monitor,Consumer,Online,1,730.89,0.0,730.89,291.48
+ORD-00330,2025-02-09,Central,Technology,USB-C Hub,Consumer,Online,5,518.17,0.05,2461.31,1273.21
+ORD-00755,2025-02-09,Central,Home & Lifestyle,Water Bottle,Consumer,In-Store,7,99.8,0.05,663.67,164.32
+ORD-00034,2025-02-09,East,Furniture,Bookshelf,Consumer,Online,6,1067.83,0.0,6406.98,1583.37
+ORD-00456,2025-02-09,Central,Technology,USB-C Hub,Corporate,In-Store,7,132.41,0.0,926.87,307.04
+ORD-01365,2025-02-09,South,Furniture,Bookshelf,Consumer,Online,4,115.61,0.0,462.44,219.44
+ORD-00308,2025-02-09,Central,Office Supplies,Desk Organizer,Corporate,In-Store,7,83.74,0.15,498.25,213.02
+ORD-01084,2025-02-10,West,Technology,USB-C Hub,Corporate,Online,2,814.44,0.05,1547.44,499.84
+ORD-00113,2025-02-10,Central,Office Supplies,Sticky Notes,Consumer,Online,2,46.3,0.15,78.71,26.42
+ORD-01258,2025-02-10,West,Office Supplies,Ballpoint Pens,Small Business,Partner,1,38.74,0.0,38.74,9.84
+ORD-01129,2025-02-10,West,Office Supplies,Sticky Notes,Consumer,In-Store,4,13.77,0.1,49.57,15.18
+ORD-01565,2025-02-11,West,Technology,Wireless Mouse,Consumer,Online,8,541.31,0.0,4330.48,1598.31
+ORD-00158,2025-02-11,South,Technology,Laptop Stand,Consumer,Online,3,107.48,0.05,306.32,114.89
+ORD-00134,2025-02-12,East,Home & Lifestyle,Backpack,Consumer,In-Store,1,97.27,0.05,92.41,45.29
+ORD-01003,2025-02-12,Central,Home & Lifestyle,Travel Mug,Consumer,Online,4,38.81,0.1,139.72,52.19
+ORD-01387,2025-02-13,West,Home & Lifestyle,Desk Plant,Consumer,Online,8,104.58,0.0,836.64,294.02
+ORD-01434,2025-02-14,East,Technology,Keyboard,Small Business,In-Store,8,429.32,0.05,3262.83,1603.47
+ORD-01412,2025-02-14,East,Technology,Monitor,Consumer,In-Store,3,37.19,0.0,111.57,44.39
+ORD-00706,2025-02-16,North,Office Supplies,Printer Paper,Small Business,Online,2,14.06,0.1,25.31,12.3
+ORD-00079,2025-02-16,South,Office Supplies,Notebook Set,Corporate,In-Store,8,5.65,0.0,45.2,11.88
+ORD-00126,2025-02-17,West,Office Supplies,Notebook Set,Small Business,Online,3,86.39,0.0,259.17,86.99
+ORD-00980,2025-02-17,North,Furniture,Standing Desk,Consumer,Online,2,172.89,0.05,328.49,124.53
+ORD-00131,2025-02-17,Central,Furniture,Bookshelf,Consumer,Online,6,135.03,0.0,810.18,381.32
+ORD-01029,2025-02-17,South,Technology,Keyboard,Consumer,Partner,8,749.56,0.05,5696.66,2589.83
+ORD-01672,2025-02-18,Central,Office Supplies,Printer Paper,Consumer,Partner,5,72.22,0.05,343.04,109.3
+ORD-00437,2025-02-18,South,Technology,Monitor,Small Business,Online,2,250.48,0.05,475.91,125.84
+ORD-01189,2025-02-18,North,Furniture,Standing Desk,Small Business,Online,7,310.65,0.15,1848.37,536.59
+ORD-00116,2025-02-19,Central,Technology,Keyboard,Small Business,Online,6,721.57,0.1,3896.48,1874.51
+ORD-01728,2025-02-20,Central,Office Supplies,Notebook Set,Consumer,Partner,4,56.23,0.05,213.67,63.35
+ORD-01544,2025-02-20,Central,Office Supplies,Ballpoint Pens,Corporate,In-Store,8,70.25,0.0,562.0,205.99
+ORD-01759,2025-02-21,South,Technology,Wireless Mouse,Consumer,Online,7,791.6,0.05,5264.14,2425.19
+ORD-00570,2025-02-21,East,Technology,Wireless Mouse,Corporate,In-Store,3,544.08,0.0,1632.24,484.53
+ORD-00288,2025-02-21,Central,Home & Lifestyle,Travel Mug,Consumer,Online,4,93.2,0.0,372.8,167.45
+ORD-00708,2025-02-22,South,Technology,Keyboard,Consumer,In-Store,7,786.89,0.0,5508.23,1268.59
+ORD-00922,2025-02-22,East,Office Supplies,Sticky Notes,Consumer,In-Store,5,49.46,0.1,222.57,77.92
+ORD-00978,2025-02-22,North,Office Supplies,Notebook Set,Small Business,In-Store,4,76.12,0.1,274.03,73.52
+ORD-01455,2025-02-22,West,Office Supplies,Sticky Notes,Consumer,Online,2,35.37,0.15,60.13,18.16
+ORD-01631,2025-02-22,West,Furniture,Filing Cabinet,Consumer,Online,4,218.73,0.0,874.92,248.62
+ORD-01765,2025-02-24,Central,Office Supplies,Printer Paper,Small Business,Online,1,58.31,0.1,52.48,24.61
+ORD-00129,2025-02-24,West,Furniture,Office Chair,Small Business,Online,4,356.12,0.0,1424.48,359.17
+ORD-01344,2025-02-24,Central,Technology,Wireless Mouse,Consumer,Partner,3,810.26,0.1,2187.7,733.45
+ORD-00535,2025-02-26,East,Technology,Monitor,Consumer,In-Store,8,781.21,0.15,5312.23,1833.08
+ORD-00930,2025-02-26,East,Office Supplies,Printer Paper,Consumer,Online,1,47.24,0.1,42.52,13.19
+ORD-01627,2025-02-26,North,Home & Lifestyle,Travel Mug,Corporate,In-Store,7,44.05,0.15,262.1,70.18
+ORD-00597,2025-02-27,North,Home & Lifestyle,Lunch Bag,Corporate,Online,5,35.57,0.2,142.28,40.12
+ORD-00228,2025-02-27,South,Furniture,Office Chair,Corporate,Online,6,935.71,0.1,5052.83,1610.95
+ORD-00266,2025-02-28,South,Home & Lifestyle,Backpack,Corporate,Online,6,116.6,0.0,699.6,233.29
+ORD-01760,2025-02-28,West,Technology,Wireless Mouse,Consumer,In-Store,3,767.19,0.05,2186.49,1025.66
+ORD-00677,2025-02-28,East,Home & Lifestyle,Travel Mug,Corporate,In-Store,3,97.78,0.0,293.34,104.26
+ORD-00424,2025-02-28,Central,Home & Lifestyle,Water Bottle,Consumer,Online,7,38.9,0.2,217.84,48.19
+ORD-00242,2025-03-02,West,Home & Lifestyle,Travel Mug,Corporate,In-Store,5,83.03,0.05,394.39,134.29
+ORD-01161,2025-03-02,East,Home & Lifestyle,Desk Plant,Consumer,Online,3,30.26,0.05,86.24,28.13
+ORD-01628,2025-03-03,North,Home & Lifestyle,Lunch Bag,Consumer,Partner,7,17.69,0.0,123.83,57.51
+ORD-01791,2025-03-03,East,Home & Lifestyle,Backpack,Consumer,Partner,5,150.54,0.0,752.7,227.96
+ORD-01415,2025-03-03,South,Office Supplies,Desk Organizer,Consumer,Online,4,29.94,0.0,119.76,61.17
+ORD-01118,2025-03-04,East,Technology,USB-C Hub,Corporate,Partner,2,469.47,0.15,798.1,244.61
+ORD-00985,2025-03-05,West,Office Supplies,Desk Organizer,Consumer,Online,7,55.86,0.0,391.02,144.58
+ORD-01156,2025-03-05,East,Office Supplies,Ballpoint Pens,Consumer,In-Store,3,32.59,0.1,87.99,42.81
+ORD-00260,2025-03-05,North,Furniture,Desk Lamp,Corporate,In-Store,3,530.11,0.0,1590.33,626.43
+ORD-01423,2025-03-06,Central,Office Supplies,Sticky Notes,Consumer,Online,3,39.87,0.0,119.61,48.44
+ORD-00786,2025-03-06,Central,Technology,Monitor,Corporate,Online,6,549.19,0.1,2965.63,1402.7
+ORD-00966,2025-03-06,West,Home & Lifestyle,Backpack,Consumer,In-Store,5,9.53,0.05,45.27,14.52
+ORD-01318,2025-03-07,West,Home & Lifestyle,Desk Plant,Small Business,Online,8,85.36,0.05,648.74,153.9
+ORD-00270,2025-03-07,East,Technology,Keyboard,Corporate,In-Store,4,743.91,0.0,2975.64,1233.52
+ORD-01546,2025-03-07,Central,Furniture,Bookshelf,Corporate,Online,3,1015.32,0.15,2589.07,654.36
+ORD-00981,2025-03-07,West,Office Supplies,Desk Organizer,Corporate,Online,3,27.45,0.2,65.88,18.7
+ORD-01396,2025-03-07,South,Technology,Wireless Mouse,Consumer,In-Store,8,384.56,0.05,2922.66,753.02
+ORD-00698,2025-03-07,East,Technology,Monitor,Consumer,Online,1,371.4,0.0,371.4,158.16
+ORD-00915,2025-03-08,North,Home & Lifestyle,Lunch Bag,Corporate,Online,7,57.68,0.0,403.76,199.78
+ORD-00548,2025-03-08,West,Office Supplies,Sticky Notes,Corporate,In-Store,3,63.77,0.1,172.18,41.13
+ORD-00688,2025-03-09,South,Office Supplies,Ballpoint Pens,Consumer,Online,1,78.1,0.05,74.19,28.85
+ORD-01608,2025-03-10,Central,Home & Lifestyle,Desk Plant,Consumer,In-Store,8,149.98,0.0,1199.84,538.26
+ORD-00520,2025-03-10,East,Home & Lifestyle,Lunch Bag,Consumer,Online,1,28.9,0.1,26.01,7.12
+ORD-01644,2025-03-10,South,Technology,Monitor,Consumer,In-Store,3,830.9,0.0,2492.7,959.93
+ORD-01350,2025-03-11,West,Office Supplies,Ballpoint Pens,Corporate,In-Store,1,75.08,0.0,75.08,35.94
+ORD-00468,2025-03-11,West,Technology,Monitor,Corporate,Online,5,534.57,0.2,2138.28,665.04
+ORD-01654,2025-03-11,West,Home & Lifestyle,Water Bottle,Consumer,In-Store,2,29.84,0.1,53.71,24.48
+ORD-00665,2025-03-12,West,Home & Lifestyle,Travel Mug,Consumer,In-Store,5,19.56,0.2,78.24,38.29
+ORD-00455,2025-03-12,Central,Home & Lifestyle,Backpack,Consumer,Online,8,88.96,0.1,640.51,145.91
+ORD-01505,2025-03-12,Central,Home & Lifestyle,Desk Plant,Consumer,Online,4,125.82,0.0,503.28,187.2
+ORD-00531,2025-03-13,West,Home & Lifestyle,Lunch Bag,Small Business,In-Store,1,90.31,0.05,85.79,34.55
+ORD-01188,2025-03-13,West,Office Supplies,Ballpoint Pens,Small Business,In-Store,4,33.29,0.0,133.16,45.93
+ORD-00394,2025-03-14,South,Office Supplies,Sticky Notes,Consumer,In-Store,3,21.37,0.0,64.11,24.12
+ORD-00720,2025-03-14,South,Technology,Laptop Stand,Consumer,Online,3,24.61,0.0,73.83,38.09
+ORD-00967,2025-03-15,West,Home & Lifestyle,Lunch Bag,Consumer,In-Store,6,64.76,0.0,388.56,186.82
+ORD-01580,2025-03-15,East,Home & Lifestyle,Backpack,Corporate,Online,2,21.2,0.05,40.28,19.85
+ORD-01048,2025-03-15,South,Home & Lifestyle,Desk Plant,Consumer,Online,7,73.1,0.0,511.7,260.29
+ORD-01764,2025-03-15,Central,Technology,Keyboard,Corporate,In-Store,4,702.99,0.0,2811.96,1242.15
+ORD-00494,2025-03-16,North,Technology,Laptop Stand,Small Business,Online,8,509.2,0.0,4073.6,1674.85
+ORD-00137,2025-03-16,South,Office Supplies,Notebook Set,Consumer,In-Store,2,46.15,0.05,87.68,45.42
+ORD-01568,2025-03-17,West,Furniture,Bookshelf,Consumer,Partner,4,1001.94,0.05,3807.37,1052.16
+ORD-00625,2025-03-17,South,Furniture,Bookshelf,Corporate,Partner,6,947.04,0.0,5682.24,1862.25
+ORD-01525,2025-03-17,East,Home & Lifestyle,Travel Mug,Consumer,Online,1,144.21,0.05,137.0,37.72
+ORD-00490,2025-03-18,North,Technology,Laptop Stand,Consumer,Online,5,770.69,0.0,3853.45,1747.74
+ORD-00850,2025-03-18,North,Office Supplies,Notebook Set,Consumer,In-Store,1,6.14,0.0,6.14,1.6
+ORD-00193,2025-03-19,North,Office Supplies,Ballpoint Pens,Corporate,Online,3,48.26,0.05,137.54,66.95
+ORD-01181,2025-03-20,South,Office Supplies,Ballpoint Pens,Corporate,Online,7,78.95,0.0,552.65,144.09
+ORD-01758,2025-03-20,East,Furniture,Desk Lamp,Small Business,In-Store,5,594.87,0.1,2676.92,1242.46
+ORD-01305,2025-03-22,West,Office Supplies,Sticky Notes,Consumer,In-Store,7,78.61,0.05,522.76,176.71
+ORD-00956,2025-03-22,West,Home & Lifestyle,Travel Mug,Consumer,Partner,2,80.44,0.05,152.84,69.53
+ORD-01662,2025-03-22,East,Furniture,Office Chair,Consumer,Online,6,849.65,0.0,5097.9,2268.86
+ORD-00896,2025-03-23,South,Office Supplies,Printer Paper,Corporate,In-Store,4,74.79,0.1,269.24,122.28
+ORD-00767,2025-03-23,East,Home & Lifestyle,Travel Mug,Corporate,Online,2,46.01,0.0,92.02,24.87
+ORD-00269,2025-03-23,West,Home & Lifestyle,Desk Plant,Corporate,In-Store,7,145.93,0.05,970.43,406.67
+ORD-01135,2025-03-24,Central,Technology,Monitor,Consumer,Online,2,481.39,0.0,962.78,453.7
+ORD-00953,2025-03-25,North,Office Supplies,Notebook Set,Corporate,In-Store,7,73.85,0.0,516.95,256.33
+ORD-00672,2025-03-25,East,Furniture,Desk Lamp,Consumer,Online,8,1160.81,0.0,9286.48,4090.34
+ORD-00323,2025-03-25,South,Home & Lifestyle,Desk Plant,Consumer,Online,8,28.62,0.0,228.96,98.17
+ORD-00900,2025-03-26,West,Furniture,Office Chair,Small Business,Partner,5,1107.13,0.0,5535.65,1692.55
+ORD-00702,2025-03-26,West,Technology,Monitor,Consumer,In-Store,2,113.92,0.1,205.06,50.3
+ORD-00601,2025-03-26,South,Furniture,Desk Lamp,Consumer,Online,6,646.93,0.0,3881.58,1910.77
+ORD-00987,2025-03-26,East,Technology,USB-C Hub,Consumer,Online,6,710.25,0.1,3835.35,1800.52
+ORD-01554,2025-03-28,South,Home & Lifestyle,Lunch Bag,Corporate,In-Store,3,12.76,0.0,38.28,13.43
+ORD-01661,2025-03-28,West,Furniture,Bookshelf,Consumer,Online,5,180.14,0.0,900.7,436.42
+ORD-01540,2025-03-29,Central,Furniture,Filing Cabinet,Consumer,In-Store,5,1149.31,0.0,5746.55,1608.73
+ORD-01397,2025-03-29,North,Furniture,Office Chair,Corporate,In-Store,3,88.65,0.0,265.95,133.41
+ORD-01200,2025-03-29,West,Technology,Wireless Mouse,Consumer,In-Store,8,691.14,0.0,5529.12,1973.03
+ORD-00343,2025-03-30,South,Office Supplies,Sticky Notes,Corporate,In-Store,3,75.74,0.15,193.14,58.7
+ORD-01638,2025-03-30,North,Office Supplies,Ballpoint Pens,Corporate,In-Store,3,80.67,0.15,205.71,91.56
+ORD-00675,2025-03-30,South,Technology,Monitor,Corporate,In-Store,5,352.53,0.0,1762.65,796.37
+ORD-01290,2025-03-30,Central,Home & Lifestyle,Backpack,Consumer,In-Store,3,27.12,0.0,81.36,28.69
+ORD-01211,2025-03-31,East,Office Supplies,Desk Organizer,Corporate,In-Store,8,3.81,0.05,28.96,13.5
+ORD-00825,2025-03-31,East,Office Supplies,Desk Organizer,Consumer,Online,6,36.57,0.1,197.48,75.46
+ORD-00996,2025-04-02,Central,Technology,Wireless Mouse,Corporate,Online,8,389.69,0.1,2805.77,919.15
+ORD-00240,2025-04-03,South,Furniture,Filing Cabinet,Consumer,Partner,1,1154.2,0.1,1038.78,342.53
+ORD-00599,2025-04-03,North,Office Supplies,Printer Paper,Small Business,Online,8,66.26,0.0,530.08,128.55
+ORD-01755,2025-04-03,Central,Office Supplies,Ballpoint Pens,Corporate,Online,2,59.1,0.0,118.2,55.78
+ORD-01753,2025-04-04,West,Home & Lifestyle,Water Bottle,Small Business,Online,4,111.52,0.0,446.08,115.96
+ORD-01171,2025-04-04,West,Home & Lifestyle,Lunch Bag,Corporate,Online,7,84.57,0.15,503.19,192.22
+ORD-00245,2025-04-04,Central,Office Supplies,Printer Paper,Corporate,Online,2,35.54,0.0,71.08,25.17
+ORD-00192,2025-04-05,South,Furniture,Bookshelf,Corporate,Online,8,368.74,0.0,2949.92,924.8
+ORD-00085,2025-04-05,North,Technology,USB-C Hub,Small Business,Partner,2,38.44,0.1,69.19,25.13
+ORD-00880,2025-04-05,Central,Office Supplies,Desk Organizer,Consumer,Partner,2,33.75,0.05,64.12,23.9
+ORD-01172,2025-04-06,South,Office Supplies,Printer Paper,Consumer,In-Store,3,30.66,0.0,91.98,42.44
+ORD-00040,2025-04-06,East,Technology,USB-C Hub,Consumer,In-Store,3,54.95,0.1,148.37,37.03
+ORD-00658,2025-04-07,East,Office Supplies,Printer Paper,Corporate,Online,1,7.18,0.0,7.18,1.9
+ORD-01111,2025-04-07,West,Technology,Laptop Stand,Corporate,Partner,6,328.56,0.1,1774.22,916.39
+ORD-00458,2025-04-08,Central,Office Supplies,Desk Organizer,Consumer,In-Store,4,18.57,0.1,66.85,26.95
+ORD-00743,2025-04-08,East,Office Supplies,Ballpoint Pens,Consumer,In-Store,3,53.13,0.05,151.42,41.51
+ORD-00475,2025-04-08,North,Home & Lifestyle,Desk Plant,Consumer,Online,4,63.46,0.2,203.07,95.24
+ORD-01196,2025-04-08,North,Office Supplies,Ballpoint Pens,Consumer,In-Store,6,83.12,0.05,473.78,146.77
+ORD-00130,2025-04-08,West,Office Supplies,Notebook Set,Corporate,Online,5,59.51,0.0,297.55,113.93
+ORD-01370,2025-04-08,West,Home & Lifestyle,Travel Mug,Consumer,In-Store,3,158.08,0.1,426.82,183.75
+ORD-00958,2025-04-08,West,Office Supplies,Notebook Set,Small Business,Online,4,14.69,0.1,52.88,23.26
+ORD-00341,2025-04-09,North,Home & Lifestyle,Desk Plant,Corporate,Partner,1,16.18,0.0,16.18,7.86
+ORD-01585,2025-04-09,North,Home & Lifestyle,Lunch Bag,Consumer,In-Store,3,73.53,0.2,176.47,74.93
+ORD-01467,2025-04-09,West,Technology,USB-C Hub,Consumer,Online,7,337.4,0.0,2361.8,680.45
+ORD-01417,2025-04-09,East,Technology,Monitor,Corporate,In-Store,8,410.28,0.05,3118.13,895.45
+ORD-00920,2025-04-10,South,Furniture,Standing Desk,Corporate,In-Store,3,1072.26,0.2,2573.42,1177.13
+ORD-00673,2025-04-10,West,Office Supplies,Printer Paper,Consumer,Online,6,83.73,0.0,502.38,168.38
+ORD-00782,2025-04-10,South,Home & Lifestyle,Lunch Bag,Consumer,Partner,4,86.55,0.1,311.58,145.18
+ORD-01235,2025-04-10,South,Office Supplies,Sticky Notes,Corporate,In-Store,6,70.99,0.2,340.75,108.31
+ORD-00099,2025-04-10,North,Home & Lifestyle,Lunch Bag,Consumer,Partner,4,92.61,0.0,370.44,154.47
+ORD-01337,2025-04-11,South,Technology,Laptop Stand,Consumer,Online,2,520.67,0.15,885.14,302.8
+ORD-01128,2025-04-11,South,Office Supplies,Ballpoint Pens,Consumer,In-Store,3,85.66,0.0,256.98,91.1
+ORD-00616,2025-04-12,North,Office Supplies,Notebook Set,Consumer,Online,4,41.09,0.0,164.36,82.36
+ORD-01068,2025-04-13,South,Home & Lifestyle,Water Bottle,Corporate,Online,4,153.94,0.0,615.76,293.52
+ORD-00600,2025-04-14,North,Furniture,Office Chair,Corporate,Online,4,660.61,0.0,2642.44,954.71
+ORD-00569,2025-04-14,East,Furniture,Office Chair,Corporate,Partner,1,113.93,0.0,113.93,37.17
+ORD-00026,2025-04-15,East,Technology,Laptop Stand,Corporate,Online,3,453.98,0.0,1361.94,667.01
+ORD-01715,2025-04-16,South,Office Supplies,Ballpoint Pens,Corporate,Online,5,56.48,0.0,282.4,123.6
+ORD-01717,2025-04-17,North,Technology,USB-C Hub,Consumer,In-Store,6,440.34,0.15,2245.73,874.19
+ORD-00984,2025-04-18,Central,Furniture,Office Chair,Corporate,Online,3,728.1,0.0,2184.3,956.39
+ORD-01221,2025-04-19,West,Office Supplies,Notebook Set,Corporate,Online,1,72.85,0.05,69.21,17.76
+ORD-00934,2025-04-19,East,Technology,Wireless Mouse,Consumer,In-Store,5,188.49,0.05,895.33,229.86
+ORD-01130,2025-04-19,East,Furniture,Standing Desk,Consumer,Online,6,475.2,0.0,2851.2,1082.7
+ORD-01255,2025-04-20,North,Furniture,Office Chair,Consumer,Online,8,837.61,0.15,5695.75,1377.09
+ORD-01205,2025-04-20,West,Furniture,Bookshelf,Corporate,Partner,7,849.45,0.0,5946.15,2736.63
+ORD-01089,2025-04-20,Central,Home & Lifestyle,Water Bottle,Consumer,Online,3,32.7,0.1,88.29,28.84
+ORD-00824,2025-04-20,South,Furniture,Standing Desk,Consumer,Online,7,552.28,0.0,3865.96,1620.21
+ORD-00244,2025-04-20,West,Home & Lifestyle,Desk Plant,Consumer,Online,6,46.45,0.0,278.7,85.3
+ORD-00771,2025-04-21,South,Office Supplies,Ballpoint Pens,Small Business,In-Store,3,35.53,0.1,95.93,23.58
+ORD-00986,2025-04-21,West,Office Supplies,Ballpoint Pens,Small Business,Partner,2,86.43,0.05,164.22,52.05
+ORD-00502,2025-04-21,West,Technology,Wireless Mouse,Consumer,In-Store,2,547.59,0.1,985.66,302.27
+ORD-01438,2025-04-22,South,Office Supplies,Notebook Set,Corporate,Online,2,82.42,0.0,164.84,82.83
+ORD-00652,2025-04-22,North,Office Supplies,Notebook Set,Consumer,In-Store,3,72.68,0.05,207.14,79.99
+ORD-01398,2025-04-22,East,Technology,Keyboard,Consumer,In-Store,5,347.89,0.0,1739.45,846.56
+ORD-01723,2025-04-22,Central,Technology,Keyboard,Small Business,Online,1,46.88,0.2,37.5,11.85
+ORD-01224,2025-04-23,West,Technology,Monitor,Consumer,Partner,1,606.54,0.0,606.54,204.0
+ORD-00123,2025-04-23,Central,Home & Lifestyle,Desk Plant,Consumer,Online,4,140.57,0.1,506.05,143.85
+ORD-00003,2025-04-23,East,Technology,Keyboard,Consumer,Online,7,424.82,0.0,2973.74,1040.98
+ORD-00842,2025-04-24,South,Technology,Wireless Mouse,Consumer,Online,3,194.5,0.05,554.32,238.0
+ORD-01693,2025-04-25,Central,Furniture,Bookshelf,Corporate,In-Store,3,106.41,0.1,287.31,121.29
+ORD-01277,2025-04-25,South,Office Supplies,Sticky Notes,Consumer,In-Store,3,67.74,0.1,182.9,53.06
+ORD-00730,2025-04-25,Central,Office Supplies,Desk Organizer,Consumer,In-Store,7,84.77,0.05,563.72,232.24
+ORD-01597,2025-04-26,East,Office Supplies,Desk Organizer,Corporate,Online,6,22.82,0.05,130.07,39.86
+ORD-00255,2025-04-27,West,Office Supplies,Desk Organizer,Consumer,Partner,5,74.81,0.15,317.94,137.91
+ORD-00316,2025-04-27,South,Office Supplies,Ballpoint Pens,Consumer,Online,5,84.89,0.0,424.45,97.6
+ORD-00156,2025-04-28,South,Furniture,Bookshelf,Small Business,Online,4,1099.45,0.0,4397.8,2042.15
+ORD-00372,2025-04-28,North,Office Supplies,Desk Organizer,Small Business,Partner,2,10.32,0.0,20.64,8.1
+ORD-00237,2025-04-29,West,Office Supplies,Desk Organizer,Consumer,Online,7,34.38,0.15,204.56,75.04
+ORD-00446,2025-04-29,South,Furniture,Office Chair,Small Business,Online,8,357.06,0.0,2856.48,807.2
+ORD-00162,2025-04-30,South,Furniture,Office Chair,Consumer,In-Store,1,1042.35,0.2,833.88,294.7
+ORD-00479,2025-04-30,North,Furniture,Desk Lamp,Corporate,Partner,4,402.76,0.0,1611.04,368.05
+ORD-01648,2025-04-30,South,Technology,Laptop Stand,Consumer,In-Store,6,697.18,0.1,3764.77,871.78
+ORD-00108,2025-05-01,West,Office Supplies,Notebook Set,Consumer,In-Store,6,42.07,0.05,239.8,54.98
+ORD-00822,2025-05-01,North,Technology,Laptop Stand,Consumer,Online,5,776.82,0.05,3689.9,1155.44
+ORD-00819,2025-05-01,North,Furniture,Office Chair,Consumer,Online,8,494.48,0.0,3955.84,1319.85
+ORD-00311,2025-05-01,East,Furniture,Standing Desk,Corporate,In-Store,7,291.52,0.2,1632.51,804.44
+ORD-00122,2025-05-03,East,Furniture,Desk Lamp,Consumer,Online,4,1153.02,0.0,4612.08,1633.76
+ORD-01049,2025-05-03,South,Technology,Wireless Mouse,Corporate,Online,6,818.5,0.0,4911.0,2425.61
+ORD-00859,2025-05-04,North,Home & Lifestyle,Desk Plant,Consumer,In-Store,4,86.82,0.05,329.92,159.07
+ORD-00080,2025-05-04,North,Technology,USB-C Hub,Small Business,In-Store,6,297.22,0.2,1426.66,621.79
+ORD-01613,2025-05-04,Central,Technology,Keyboard,Consumer,In-Store,3,749.97,0.0,2249.91,501.5
+ORD-01132,2025-05-04,Central,Office Supplies,Desk Organizer,Small Business,In-Store,8,12.27,0.05,93.25,47.21
+ORD-00641,2025-05-05,West,Home & Lifestyle,Travel Mug,Consumer,Partner,6,118.06,0.05,672.94,247.73
+ORD-00283,2025-05-05,West,Technology,Laptop Stand,Consumer,In-Store,3,414.37,0.05,1180.95,358.52
+ORD-01306,2025-05-05,East,Furniture,Office Chair,Consumer,Online,3,735.88,0.05,2097.26,629.89
+ORD-00736,2025-05-05,North,Office Supplies,Notebook Set,Consumer,Online,8,54.31,0.05,412.76,159.44
+ORD-01427,2025-05-05,East,Technology,USB-C Hub,Consumer,Online,2,110.73,0.1,199.31,75.54
+ORD-00312,2025-05-06,East,Home & Lifestyle,Lunch Bag,Consumer,In-Store,8,93.15,0.0,745.2,230.3
+ORD-01274,2025-05-08,East,Technology,USB-C Hub,Consumer,Online,3,312.66,0.15,797.28,342.96
+ORD-01424,2025-05-08,West,Technology,Wireless Mouse,Consumer,In-Store,8,237.7,0.15,1616.36,724.87
+ORD-01329,2025-05-08,West,Technology,Wireless Mouse,Corporate,In-Store,6,326.61,0.0,1959.66,759.85
+ORD-01071,2025-05-08,North,Office Supplies,Notebook Set,Consumer,Online,5,48.65,0.05,231.09,52.25
+ORD-01298,2025-05-10,East,Office Supplies,Printer Paper,Consumer,Partner,6,39.89,0.0,239.34,115.99
+ORD-00416,2025-05-10,East,Furniture,Office Chair,Corporate,In-Store,6,684.23,0.0,4105.38,1361.24
+ORD-01668,2025-05-10,Central,Technology,Wireless Mouse,Small Business,Online,2,43.11,0.0,86.22,28.01
+ORD-00257,2025-05-10,West,Technology,Monitor,Small Business,In-Store,3,466.67,0.1,1260.01,300.1
+ORD-00049,2025-05-10,South,Home & Lifestyle,Backpack,Consumer,In-Store,6,158.83,0.0,952.98,402.46
+ORD-01327,2025-05-11,South,Furniture,Filing Cabinet,Consumer,In-Store,5,302.18,0.0,1510.9,401.2
+ORD-00711,2025-05-11,East,Technology,Monitor,Consumer,Partner,1,694.61,0.1,625.15,176.17
+ORD-00827,2025-05-12,North,Office Supplies,Ballpoint Pens,Consumer,Online,3,82.13,0.1,221.75,94.41
+ORD-00550,2025-05-12,East,Technology,USB-C Hub,Corporate,In-Store,8,140.92,0.0,1127.36,570.26
+ORD-01696,2025-05-13,East,Home & Lifestyle,Lunch Bag,Consumer,Online,3,24.9,0.15,63.49,18.7
+ORD-01703,2025-05-13,West,Office Supplies,Printer Paper,Corporate,In-Store,6,15.38,0.0,92.28,30.7
+ORD-00098,2025-05-13,North,Technology,USB-C Hub,Consumer,Online,7,340.47,0.0,2383.29,650.19
+ORD-01510,2025-05-14,Central,Home & Lifestyle,Lunch Bag,Consumer,Online,6,126.89,0.15,647.14,250.78
+ORD-00191,2025-05-14,South,Technology,Wireless Mouse,Consumer,Online,7,404.1,0.05,2687.27,1394.17
+ORD-00060,2025-05-14,North,Office Supplies,Sticky Notes,Consumer,Online,4,75.63,0.05,287.39,87.79
+ORD-01780,2025-05-15,Central,Office Supplies,Desk Organizer,Consumer,In-Store,6,45.18,0.2,216.86,49.24
+ORD-00813,2025-05-15,West,Home & Lifestyle,Backpack,Consumer,In-Store,1,103.7,0.0,103.7,28.75
+ORD-00636,2025-05-16,North,Office Supplies,Notebook Set,Small Business,Online,3,5.12,0.05,14.59,5.48
+ORD-00075,2025-05-16,West,Office Supplies,Notebook Set,Corporate,In-Store,1,67.49,0.0,67.49,24.14
+ORD-00615,2025-05-16,East,Home & Lifestyle,Backpack,Consumer,In-Store,2,15.87,0.1,28.57,11.4
+ORD-00788,2025-05-16,North,Office Supplies,Sticky Notes,Consumer,Partner,5,35.67,0.05,169.43,83.01
+ORD-01062,2025-05-17,Central,Office Supplies,Ballpoint Pens,Corporate,Online,5,45.11,0.05,214.27,51.64
+ORD-01547,2025-05-17,Central,Technology,USB-C Hub,Corporate,In-Store,2,506.5,0.2,810.4,398.65
+ORD-00587,2025-05-18,North,Home & Lifestyle,Lunch Bag,Consumer,In-Store,8,57.57,0.05,437.53,226.47
+ORD-01149,2025-05-18,Central,Technology,USB-C Hub,Corporate,Online,7,364.98,0.0,2554.86,643.79
+ORD-01183,2025-05-19,Central,Furniture,Desk Lamp,Corporate,Online,4,274.9,0.0,1099.6,263.3
+ORD-00941,2025-05-20,North,Technology,Laptop Stand,Small Business,Online,3,769.42,0.05,2192.85,999.62
+ORD-01614,2025-05-21,Central,Technology,USB-C Hub,Corporate,Partner,6,136.07,0.1,734.78,180.87
+ORD-00422,2025-05-22,South,Office Supplies,Printer Paper,Small Business,In-Store,5,5.98,0.1,26.91,9.9
+ORD-00666,2025-05-22,East,Office Supplies,Desk Organizer,Small Business,Online,2,67.44,0.15,114.65,47.0
+ORD-00184,2025-05-24,South,Home & Lifestyle,Water Bottle,Corporate,Online,2,157.54,0.2,252.06,76.46
+ORD-00008,2025-05-24,South,Technology,Monitor,Consumer,Online,1,473.78,0.0,473.78,135.22
+ORD-00875,2025-05-24,East,Furniture,Bookshelf,Consumer,Partner,1,262.84,0.05,249.7,117.2
+ORD-00175,2025-05-24,West,Home & Lifestyle,Desk Plant,Consumer,In-Store,7,145.2,0.05,965.58,342.64
+ORD-01472,2025-05-25,South,Office Supplies,Ballpoint Pens,Consumer,Online,2,52.87,0.0,105.74,32.41
+ORD-00866,2025-05-25,North,Technology,Wireless Mouse,Corporate,Online,1,370.38,0.0,370.38,106.33
+ORD-01733,2025-05-26,South,Home & Lifestyle,Desk Plant,Consumer,Online,7,115.83,0.0,810.81,358.34
+ORD-00086,2025-05-26,North,Home & Lifestyle,Water Bottle,Small Business,Partner,2,22.15,0.0,44.3,10.2
+ORD-01303,2025-05-26,North,Home & Lifestyle,Backpack,Small Business,Online,6,100.87,0.1,544.7,236.98
+ORD-00204,2025-05-26,North,Home & Lifestyle,Backpack,Small Business,Online,3,61.55,0.0,184.65,67.13
+ORD-00932,2025-05-26,South,Home & Lifestyle,Desk Plant,Small Business,Partner,2,111.47,0.1,200.65,62.83
+ORD-01348,2025-05-27,West,Furniture,Office Chair,Consumer,In-Store,1,688.46,0.05,654.04,253.67
+ORD-00043,2025-05-27,West,Technology,Monitor,Corporate,In-Store,8,321.54,0.2,2057.86,968.31
+ORD-01595,2025-05-28,Central,Home & Lifestyle,Desk Plant,Corporate,In-Store,3,129.94,0.0,389.82,135.63
+ORD-00982,2025-05-28,West,Furniture,Office Chair,Small Business,In-Store,7,39.02,0.0,273.14,86.74
+ORD-01194,2025-05-28,Central,Technology,Keyboard,Corporate,In-Store,7,410.27,0.0,2871.89,1317.53
+ORD-00223,2025-05-29,East,Home & Lifestyle,Travel Mug,Corporate,Online,4,58.71,0.1,211.36,66.68
+ORD-00110,2025-05-30,West,Office Supplies,Sticky Notes,Corporate,Online,8,36.19,0.15,246.09,105.91
+ORD-01064,2025-05-30,North,Technology,Wireless Mouse,Consumer,Partner,8,76.51,0.1,550.87,157.11
+ORD-01539,2025-05-31,South,Office Supplies,Printer Paper,Consumer,In-Store,6,48.11,0.0,288.66,116.19
+ORD-01041,2025-05-31,South,Technology,Monitor,Consumer,Online,6,30.43,0.15,155.19,43.84
+ORD-01600,2025-06-01,East,Office Supplies,Sticky Notes,Corporate,Online,1,81.11,0.1,73.0,33.15
+ORD-00892,2025-06-02,Central,Office Supplies,Printer Paper,Small Business,Online,4,46.83,0.15,159.22,62.66
+ORD-01045,2025-06-02,South,Home & Lifestyle,Water Bottle,Consumer,Partner,8,58.49,0.15,397.73,199.08
+ORD-00541,2025-06-02,South,Technology,Laptop Stand,Corporate,Online,7,838.39,0.1,5281.86,1872.03
+ORD-00906,2025-06-02,South,Furniture,Standing Desk,Consumer,Online,2,857.54,0.1,1543.57,394.3
+ORD-01317,2025-06-02,West,Technology,USB-C Hub,Corporate,Partner,1,306.19,0.1,275.57,80.58
+ORD-01077,2025-06-04,North,Office Supplies,Desk Organizer,Corporate,Online,5,51.46,0.0,257.3,83.74
+ORD-01522,2025-06-04,South,Technology,USB-C Hub,Corporate,Online,7,641.53,0.1,4041.64,1008.82
+ORD-01276,2025-06-05,East,Furniture,Filing Cabinet,Consumer,Online,2,182.86,0.0,365.72,180.76
+ORD-01197,2025-06-05,North,Technology,Monitor,Consumer,In-Store,4,100.45,0.0,401.8,187.08
+ORD-00430,2025-06-06,Central,Technology,USB-C Hub,Corporate,In-Store,8,711.77,0.15,4840.04,1663.2
+ORD-00774,2025-06-08,North,Technology,Laptop Stand,Consumer,Online,8,471.11,0.0,3768.88,833.86
+ORD-00015,2025-06-08,West,Home & Lifestyle,Travel Mug,Corporate,In-Store,3,156.08,0.15,398.0,182.96
+ORD-01675,2025-06-08,South,Office Supplies,Printer Paper,Corporate,Online,4,85.55,0.15,290.87,146.4
+ORD-00212,2025-06-08,North,Office Supplies,Desk Organizer,Corporate,In-Store,1,36.13,0.15,30.71,10.44
+ORD-01332,2025-06-08,West,Furniture,Standing Desk,Consumer,Online,6,1018.1,0.0,6108.6,2140.78
+ORD-00177,2025-06-08,West,Office Supplies,Ballpoint Pens,Small Business,Online,2,45.42,0.1,81.76,30.49
+ORD-01750,2025-06-09,South,Home & Lifestyle,Travel Mug,Corporate,Online,1,32.24,0.0,32.24,15.6
+ORD-00236,2025-06-09,East,Office Supplies,Ballpoint Pens,Corporate,Online,5,29.55,0.1,132.98,36.92
+ORD-01208,2025-06-10,East,Home & Lifestyle,Lunch Bag,Consumer,In-Store,2,39.24,0.1,70.63,29.43
+ORD-00395,2025-06-10,South,Office Supplies,Ballpoint Pens,Corporate,In-Store,1,67.5,0.05,64.12,30.06
+ORD-00697,2025-06-11,East,Technology,Keyboard,Consumer,In-Store,2,404.84,0.0,809.68,374.83
+ORD-01641,2025-06-11,North,Office Supplies,Ballpoint Pens,Corporate,Online,8,63.73,0.0,509.84,179.38
+ORD-00727,2025-06-11,North,Office Supplies,Notebook Set,Consumer,Online,7,23.9,0.1,150.57,77.65
+ORD-00225,2025-06-11,West,Office Supplies,Desk Organizer,Consumer,In-Store,3,7.27,0.0,21.81,5.79
+ORD-00174,2025-06-12,West,Home & Lifestyle,Desk Plant,Small Business,In-Store,5,32.35,0.0,161.75,74.61
+ORD-00681,2025-06-12,North,Home & Lifestyle,Lunch Bag,Consumer,Online,7,95.14,0.1,599.38,224.05
+ORD-00461,2025-06-12,Central,Furniture,Bookshelf,Corporate,Online,2,1055.76,0.0,2111.52,508.98
+ORD-01119,2025-06-12,East,Furniture,Office Chair,Consumer,Online,7,554.27,0.0,3879.89,1544.11
+ORD-00793,2025-06-12,East,Technology,Laptop Stand,Consumer,Online,1,47.25,0.05,44.89,15.28
+ORD-01137,2025-06-13,West,Home & Lifestyle,Travel Mug,Consumer,In-Store,4,119.8,0.15,407.32,121.66
+ORD-01670,2025-06-14,East,Home & Lifestyle,Desk Plant,Corporate,In-Store,4,23.59,0.1,84.92,27.14
+ORD-01598,2025-06-14,South,Technology,Laptop Stand,Consumer,In-Store,6,411.12,0.0,2466.72,833.21
+ORD-00676,2025-06-14,North,Technology,Wireless Mouse,Consumer,Online,8,108.91,0.0,871.28,325.02
+ORD-00318,2025-06-15,East,Furniture,Desk Lamp,Small Business,In-Store,4,420.88,0.15,1430.99,384.24
+ORD-01785,2025-06-15,South,Office Supplies,Desk Organizer,Consumer,In-Store,2,89.07,0.0,178.14,81.29
+ORD-00713,2025-06-15,South,Furniture,Bookshelf,Consumer,Online,7,1034.91,0.15,6157.71,3042.0
+ORD-00731,2025-06-16,North,Office Supplies,Notebook Set,Consumer,Online,7,28.96,0.0,202.72,49.41
+ORD-00760,2025-06-17,West,Technology,Laptop Stand,Small Business,Partner,5,221.58,0.0,1107.9,296.29
+ORD-00317,2025-06-17,East,Office Supplies,Notebook Set,Corporate,Partner,2,80.16,0.2,128.26,47.39
+ORD-01033,2025-06-18,South,Furniture,Standing Desk,Consumer,Partner,2,878.05,0.0,1756.1,606.09
+ORD-00737,2025-06-18,North,Office Supplies,Notebook Set,Small Business,Online,2,5.11,0.0,10.22,2.42
+ORD-01724,2025-06-18,North,Home & Lifestyle,Backpack,Small Business,Online,4,33.76,0.05,128.29,47.42
+ORD-01218,2025-06-19,East,Technology,USB-C Hub,Small Business,In-Store,5,18.01,0.15,76.54,22.77
+ORD-01009,2025-06-20,North,Home & Lifestyle,Backpack,Corporate,In-Store,2,35.52,0.0,71.04,23.56
+ORD-01573,2025-06-20,Central,Furniture,Standing Desk,Consumer,In-Store,5,522.38,0.15,2220.12,1038.63
+ORD-01714,2025-06-20,West,Furniture,Bookshelf,Consumer,Online,3,231.77,0.0,695.31,220.73
+ORD-01232,2025-06-20,South,Furniture,Office Chair,Consumer,Online,6,921.08,0.05,5250.16,2387.19
+ORD-00662,2025-06-21,Central,Furniture,Desk Lamp,Consumer,Online,2,917.43,0.05,1743.12,579.96
+ORD-00013,2025-06-21,West,Home & Lifestyle,Backpack,Consumer,In-Store,1,143.24,0.0,143.24,42.23
+ORD-01349,2025-06-21,West,Office Supplies,Desk Organizer,Consumer,In-Store,3,34.27,0.2,82.25,36.68
+ORD-01591,2025-06-21,West,Home & Lifestyle,Backpack,Consumer,Partner,8,17.61,0.1,126.79,53.74
+ORD-00886,2025-06-21,South,Home & Lifestyle,Lunch Bag,Consumer,In-Store,5,139.63,0.0,698.15,228.71
+ORD-00557,2025-06-22,Central,Technology,Laptop Stand,Consumer,Online,1,320.32,0.1,288.29,105.15
+ORD-00215,2025-06-22,East,Home & Lifestyle,Backpack,Corporate,In-Store,5,8.97,0.2,35.88,11.68
+ORD-00377,2025-06-22,North,Technology,Laptop Stand,Corporate,Partner,3,848.96,0.05,2419.54,1133.36
+ORD-00631,2025-06-22,Central,Office Supplies,Sticky Notes,Consumer,Partner,2,71.65,0.0,143.3,37.33
+ORD-01002,2025-06-22,Central,Technology,Keyboard,Consumer,Partner,5,609.75,0.1,2743.88,662.72
+ORD-00757,2025-06-23,Central,Technology,Wireless Mouse,Consumer,Online,2,641.64,0.0,1283.28,666.36
+ORD-00805,2025-06-23,East,Office Supplies,Notebook Set,Consumer,In-Store,7,22.52,0.05,149.76,36.04
+ORD-01602,2025-06-23,North,Furniture,Bookshelf,Small Business,Online,7,918.37,0.15,5464.3,2201.45
+ORD-00471,2025-06-23,South,Technology,Keyboard,Corporate,Partner,3,575.74,0.05,1640.86,449.63
+ORD-00739,2025-06-23,East,Technology,Wireless Mouse,Consumer,Online,4,535.68,0.05,2035.58,670.7
+ORD-00603,2025-06-24,North,Office Supplies,Printer Paper,Consumer,Online,5,63.06,0.15,268.0,66.49
+ORD-00432,2025-06-24,South,Office Supplies,Notebook Set,Consumer,In-Store,5,20.94,0.0,104.7,37.06
+ORD-01281,2025-06-24,North,Home & Lifestyle,Water Bottle,Corporate,Online,3,110.04,0.0,330.12,116.53
+ORD-01449,2025-06-24,North,Technology,Laptop Stand,Consumer,Online,5,57.08,0.05,271.13,74.9
+ORD-01282,2025-06-24,East,Home & Lifestyle,Travel Mug,Small Business,Online,3,136.32,0.0,408.96,136.31
+ORD-01036,2025-06-26,North,Technology,Wireless Mouse,Consumer,Online,1,801.65,0.2,641.32,215.47
+ORD-01394,2025-06-26,South,Office Supplies,Notebook Set,Corporate,Online,1,52.4,0.1,47.16,12.55
+ORD-01722,2025-06-26,West,Home & Lifestyle,Desk Plant,Consumer,In-Store,7,50.47,0.1,317.96,103.64
+ORD-01513,2025-06-27,West,Office Supplies,Desk Organizer,Corporate,In-Store,6,17.16,0.05,97.81,26.96
+ORD-01139,2025-06-27,North,Furniture,Standing Desk,Consumer,Online,5,450.57,0.05,2140.21,909.23
+ORD-01742,2025-06-27,North,Furniture,Desk Lamp,Corporate,Online,4,952.85,0.0,3811.4,1066.14
+ORD-00059,2025-06-27,Central,Office Supplies,Ballpoint Pens,Consumer,In-Store,8,5.9,0.0,47.2,12.47
+ORD-00878,2025-06-28,South,Office Supplies,Printer Paper,Corporate,Online,6,77.99,0.2,374.35,125.51
+ORD-00062,2025-06-28,Central,Office Supplies,Notebook Set,Consumer,In-Store,7,82.75,0.05,550.29,274.86
+ORD-00391,2025-06-29,Central,Office Supplies,Printer Paper,Corporate,Online,1,57.77,0.05,54.88,13.41
+ORD-00512,2025-06-29,Central,Home & Lifestyle,Travel Mug,Consumer,In-Store,6,74.31,0.0,445.86,171.92
+ORD-00378,2025-06-29,North,Technology,Wireless Mouse,Consumer,Online,3,163.33,0.2,391.99,171.9
+ORD-00463,2025-07-01,North,Furniture,Bookshelf,Corporate,In-Store,4,346.63,0.0,1386.52,356.62
+ORD-00895,2025-07-01,South,Home & Lifestyle,Water Bottle,Consumer,Online,7,90.67,0.1,571.22,170.64
+ORD-00360,2025-07-01,South,Home & Lifestyle,Water Bottle,Consumer,Partner,5,18.62,0.05,88.44,23.12
+ORD-01234,2025-07-02,West,Home & Lifestyle,Desk Plant,Corporate,In-Store,7,49.82,0.1,313.87,93.41
+ORD-01378,2025-07-03,South,Technology,USB-C Hub,Consumer,Online,2,230.2,0.1,414.36,154.61
+ORD-01667,2025-07-03,South,Technology,Wireless Mouse,Corporate,Online,7,263.4,0.0,1843.8,851.41
+ORD-01065,2025-07-04,East,Furniture,Office Chair,Consumer,In-Store,6,697.42,0.05,3975.29,1197.38
+ORD-00493,2025-07-04,Central,Technology,Wireless Mouse,Consumer,Online,7,754.16,0.0,5279.12,1861.72
+ORD-01790,2025-07-04,Central,Office Supplies,Notebook Set,Corporate,Online,3,18.26,0.2,43.82,17.46
+ORD-01098,2025-07-06,East,Office Supplies,Sticky Notes,Consumer,Online,4,87.43,0.0,349.72,152.8
+ORD-01073,2025-07-07,North,Furniture,Bookshelf,Small Business,Partner,1,390.75,0.1,351.68,157.44
+ORD-00247,2025-07-07,West,Furniture,Filing Cabinet,Corporate,In-Store,4,578.24,0.0,2312.96,606.19
+ORD-00234,2025-07-08,East,Furniture,Standing Desk,Consumer,Online,4,1093.47,0.1,3936.49,1151.82
+ORD-01674,2025-07-08,Central,Home & Lifestyle,Travel Mug,Consumer,In-Store,7,123.07,0.1,775.34,206.38
+ORD-00042,2025-07-08,North,Home & Lifestyle,Backpack,Corporate,Online,8,29.18,0.05,221.77,50.27
+ORD-00051,2025-07-09,South,Office Supplies,Desk Organizer,Consumer,In-Store,2,10.76,0.15,18.29,8.66
+ORD-01301,2025-07-09,East,Technology,Monitor,Consumer,Online,3,221.84,0.0,665.52,334.49
+ORD-00014,2025-07-10,Central,Home & Lifestyle,Lunch Bag,Consumer,In-Store,3,53.48,0.0,160.44,58.87
+ORD-01204,2025-07-10,East,Home & Lifestyle,Travel Mug,Consumer,In-Store,5,82.28,0.2,329.12,169.49
+ORD-01134,2025-07-11,South,Office Supplies,Notebook Set,Consumer,In-Store,2,76.5,0.0,153.0,42.16
+ORD-01671,2025-07-11,Central,Technology,Laptop Stand,Corporate,In-Store,6,181.02,0.0,1086.12,434.22
+ORD-00742,2025-07-11,North,Technology,Wireless Mouse,Consumer,Online,1,337.28,0.1,303.55,151.75
+ORD-01275,2025-07-11,East,Office Supplies,Ballpoint Pens,Corporate,Online,4,19.35,0.0,77.4,20.94
+ORD-00207,2025-07-12,West,Technology,USB-C Hub,Consumer,Partner,3,538.69,0.05,1535.27,769.98
+ORD-00714,2025-07-12,West,Office Supplies,Printer Paper,Small Business,Partner,8,72.47,0.2,463.81,203.9
+ORD-00489,2025-07-13,North,Home & Lifestyle,Desk Plant,Small Business,Online,8,153.37,0.0,1226.96,329.46
+ORD-00128,2025-07-13,South,Office Supplies,Desk Organizer,Consumer,Online,2,56.09,0.0,112.18,48.04
+ORD-00657,2025-07-14,North,Home & Lifestyle,Water Bottle,Consumer,Online,2,72.7,0.15,123.59,36.69
+ORD-00423,2025-07-14,South,Technology,Monitor,Corporate,Online,5,491.08,0.0,2455.4,960.23
+ORD-00089,2025-07-15,West,Office Supplies,Sticky Notes,Consumer,In-Store,1,48.82,0.1,43.94,14.17
+ORD-01148,2025-07-15,West,Office Supplies,Printer Paper,Consumer,Online,8,7.88,0.1,56.74,15.27
+ORD-00320,2025-07-15,East,Technology,USB-C Hub,Consumer,Online,8,97.46,0.0,779.68,216.83
+ORD-01775,2025-07-16,West,Furniture,Office Chair,Consumer,Online,3,200.69,0.05,571.97,190.94
+ORD-00645,2025-07-17,West,Office Supplies,Ballpoint Pens,Consumer,Online,3,78.12,0.1,210.92,73.69
+ORD-00911,2025-07-17,East,Technology,USB-C Hub,Consumer,Online,7,107.59,0.1,677.82,281.61
+ORD-01061,2025-07-17,West,Furniture,Office Chair,Consumer,Online,8,1063.29,0.1,7655.69,2794.03
+ORD-01058,2025-07-18,North,Technology,Keyboard,Corporate,Online,7,340.88,0.0,2386.16,639.83
+ORD-00864,2025-07-18,Central,Technology,Monitor,Corporate,In-Store,8,788.31,0.2,5045.18,1757.55
+ORD-01691,2025-07-18,South,Furniture,Desk Lamp,Consumer,In-Store,2,1052.91,0.1,1895.24,945.72
+ORD-00173,2025-07-18,West,Office Supplies,Desk Organizer,Consumer,In-Store,1,5.15,0.1,4.64,2.12
+ORD-00370,2025-07-18,North,Office Supplies,Ballpoint Pens,Corporate,Partner,6,70.06,0.1,378.32,93.43
+ORD-01278,2025-07-19,West,Home & Lifestyle,Travel Mug,Small Business,Online,7,79.31,0.05,527.41,234.96
+ORD-00002,2025-07-19,North,Technology,Keyboard,Consumer,Online,1,222.72,0.1,200.45,85.75
+ORD-01558,2025-07-19,East,Technology,Monitor,Consumer,Online,6,78.79,0.1,425.47,116.76
+ORD-00734,2025-07-20,East,Furniture,Bookshelf,Consumer,Online,1,232.06,0.2,185.65,85.3
+ORD-01339,2025-07-20,West,Office Supplies,Desk Organizer,Corporate,Online,3,29.98,0.0,89.94,32.55
+ORD-01611,2025-07-21,East,Office Supplies,Notebook Set,Consumer,In-Store,7,20.79,0.05,138.25,63.31
+ORD-00836,2025-07-21,East,Furniture,Desk Lamp,Consumer,Partner,4,35.2,0.2,112.64,54.41
+ORD-00050,2025-07-22,Central,Office Supplies,Notebook Set,Consumer,In-Store,3,37.19,0.1,100.41,43.81
+ORD-00402,2025-07-22,South,Furniture,Standing Desk,Corporate,Partner,7,803.09,0.05,5340.55,1671.72
+ORD-00815,2025-07-22,South,Office Supplies,Printer Paper,Consumer,Online,8,87.12,0.05,662.11,154.63
+ORD-01242,2025-07-22,East,Office Supplies,Notebook Set,Corporate,Online,6,3.29,0.05,18.75,6.9
+ORD-01469,2025-07-22,South,Office Supplies,Printer Paper,Corporate,In-Store,1,43.71,0.05,41.52,11.64
+ORD-01313,2025-07-23,South,Home & Lifestyle,Backpack,Consumer,Online,7,95.01,0.2,532.06,137.64
+ORD-01731,2025-07-23,West,Technology,Laptop Stand,Consumer,In-Store,7,450.06,0.2,2520.34,815.32
+ORD-00210,2025-07-23,West,Technology,Wireless Mouse,Corporate,Online,2,637.95,0.05,1212.1,572.49
+ORD-01441,2025-07-23,South,Technology,Laptop Stand,Corporate,Online,1,270.93,0.1,243.84,85.4
+ORD-00598,2025-07-23,Central,Furniture,Filing Cabinet,Corporate,Partner,2,431.45,0.0,862.9,381.26
+ORD-00602,2025-07-23,West,Home & Lifestyle,Lunch Bag,Consumer,In-Store,7,37.68,0.05,250.57,112.13
+ORD-00112,2025-07-24,West,Furniture,Desk Lamp,Consumer,Online,3,453.62,0.05,1292.82,483.51
+ORD-00107,2025-07-24,South,Home & Lifestyle,Water Bottle,Consumer,Online,2,38.63,0.05,73.4,37.92
+ORD-00766,2025-07-24,North,Home & Lifestyle,Desk Plant,Corporate,In-Store,5,88.71,0.1,399.2,133.25
+ORD-01498,2025-07-24,West,Technology,Laptop Stand,Consumer,Online,3,597.08,0.15,1522.55,739.99
+ORD-01212,2025-07-25,West,Office Supplies,Notebook Set,Consumer,Online,4,39.31,0.0,157.24,53.38
+ORD-00025,2025-07-25,West,Technology,Laptop Stand,Small Business,In-Store,6,619.39,0.0,3716.34,1640.76
+ORD-00806,2025-07-25,East,Home & Lifestyle,Lunch Bag,Corporate,In-Store,6,140.01,0.0,840.06,318.0
+ORD-01726,2025-07-26,North,Office Supplies,Sticky Notes,Small Business,Online,3,89.87,0.0,269.61,114.71
+ORD-01416,2025-07-26,South,Office Supplies,Desk Organizer,Consumer,In-Store,1,87.01,0.15,73.96,33.52
+ORD-00690,2025-07-26,West,Technology,Keyboard,Corporate,In-Store,2,144.66,0.1,260.39,70.12
+ORD-00278,2025-07-26,Central,Office Supplies,Desk Organizer,Corporate,Online,4,7.04,0.05,26.75,7.15
+ORD-00160,2025-07-27,North,Furniture,Office Chair,Consumer,In-Store,7,503.83,0.05,3350.47,1620.51
+ORD-00613,2025-07-27,East,Furniture,Desk Lamp,Consumer,In-Store,2,768.89,0.0,1537.78,570.9
+ORD-00476,2025-07-27,East,Technology,Wireless Mouse,Consumer,In-Store,4,829.21,0.0,3316.84,910.26
+ORD-00918,2025-07-27,South,Office Supplies,Sticky Notes,Corporate,Online,4,38.92,0.05,147.9,44.03
+ORD-00955,2025-07-28,South,Home & Lifestyle,Desk Plant,Consumer,In-Store,5,111.41,0.0,557.05,164.53
+ORD-00016,2025-07-28,West,Home & Lifestyle,Travel Mug,Consumer,Online,3,136.37,0.15,347.74,92.11
+ORD-00725,2025-07-28,South,Office Supplies,Notebook Set,Consumer,In-Store,3,55.71,0.0,167.13,65.68
+ORD-00106,2025-07-29,North,Office Supplies,Sticky Notes,Consumer,Online,5,66.43,0.1,298.94,96.71
+ORD-01430,2025-07-29,North,Office Supplies,Desk Organizer,Corporate,Partner,3,56.14,0.0,168.42,66.62
+ORD-00990,2025-07-29,Central,Office Supplies,Printer Paper,Consumer,In-Store,4,32.13,0.1,115.67,56.91
+ORD-00249,2025-07-29,South,Office Supplies,Sticky Notes,Consumer,Online,7,57.29,0.05,380.98,178.85
+ORD-00213,2025-07-30,East,Furniture,Desk Lamp,Consumer,Online,6,183.48,0.15,935.75,211.52
+ORD-01461,2025-07-31,North,Home & Lifestyle,Desk Plant,Consumer,Online,5,155.93,0.0,779.65,350.46
+ORD-01414,2025-08-01,West,Technology,USB-C Hub,Consumer,Online,4,449.18,0.0,1796.72,717.14
+ORD-00639,2025-08-02,East,Home & Lifestyle,Backpack,Consumer,In-Store,8,100.79,0.1,725.69,322.69
+ORD-00559,2025-08-02,East,Home & Lifestyle,Desk Plant,Corporate,Online,6,87.27,0.0,523.62,252.97
+ORD-01617,2025-08-03,South,Technology,Keyboard,Consumer,Partner,7,269.27,0.0,1884.89,943.15
+ORD-01254,2025-08-03,North,Home & Lifestyle,Backpack,Consumer,Partner,7,56.0,0.05,372.4,95.35
+ORD-01133,2025-08-03,South,Office Supplies,Ballpoint Pens,Corporate,Online,4,45.07,0.0,180.28,48.41
+ORD-00261,2025-08-03,East,Technology,Wireless Mouse,Consumer,Online,2,837.37,0.05,1591.0,609.59
+ORD-00135,2025-08-04,North,Office Supplies,Notebook Set,Corporate,Online,1,5.25,0.0,5.25,1.55
+ORD-00071,2025-08-04,South,Technology,USB-C Hub,Corporate,Partner,1,197.91,0.0,197.91,83.26
+ORD-01684,2025-08-04,South,Technology,USB-C Hub,Consumer,Online,1,723.76,0.0,723.76,245.99
+ORD-00692,2025-08-04,North,Technology,Monitor,Consumer,Partner,6,172.51,0.05,983.31,277.68
+ORD-00745,2025-08-04,West,Technology,Wireless Mouse,Corporate,In-Store,8,686.5,0.05,5217.4,2198.34
+ORD-00484,2025-08-05,South,Home & Lifestyle,Travel Mug,Small Business,In-Store,3,105.04,0.1,283.61,87.78
+ORD-00105,2025-08-05,North,Furniture,Bookshelf,Small Business,In-Store,2,883.09,0.1,1589.56,731.4
+ORD-01736,2025-08-06,West,Office Supplies,Ballpoint Pens,Corporate,Partner,8,43.32,0.05,329.23,81.07
+ORD-01578,2025-08-07,North,Technology,Laptop Stand,Consumer,In-Store,1,368.34,0.2,294.67,89.97
+ORD-00716,2025-08-07,West,Technology,Wireless Mouse,Corporate,Partner,8,423.84,0.2,2712.58,1149.27
+ORD-01012,2025-08-07,South,Technology,USB-C Hub,Corporate,Partner,5,441.64,0.0,2208.2,506.79
+ORD-01284,2025-08-08,South,Technology,Monitor,Corporate,In-Store,3,812.92,0.05,2316.82,638.27
+ORD-00852,2025-08-08,Central,Technology,Wireless Mouse,Consumer,In-Store,2,598.9,0.0,1197.8,353.03
+ORD-00860,2025-08-08,Central,Home & Lifestyle,Lunch Bag,Consumer,Partner,6,84.05,0.0,504.3,193.45
+ORD-00686,2025-08-08,North,Home & Lifestyle,Desk Plant,Corporate,Online,6,8.83,0.0,52.98,25.08
+ORD-00591,2025-08-08,North,Technology,Wireless Mouse,Consumer,In-Store,8,620.69,0.1,4468.97,1660.73
+ORD-01087,2025-08-08,South,Technology,Keyboard,Consumer,Online,3,597.88,0.1,1614.28,485.43
+ORD-00596,2025-08-09,East,Furniture,Standing Desk,Consumer,In-Store,6,594.56,0.1,3210.62,1302.81
+ORD-01199,2025-08-09,Central,Technology,Wireless Mouse,Consumer,Partner,3,541.22,0.1,1461.29,557.43
+ORD-01260,2025-08-09,South,Technology,Laptop Stand,Consumer,In-Store,8,778.51,0.15,5293.87,2081.33
+ORD-00428,2025-08-10,West,Furniture,Desk Lamp,Consumer,Partner,3,542.71,0.1,1465.32,619.28
+ORD-00472,2025-08-10,West,Home & Lifestyle,Backpack,Consumer,Online,8,22.75,0.15,154.7,66.74
+ORD-00551,2025-08-10,South,Home & Lifestyle,Backpack,Consumer,In-Store,4,147.72,0.0,590.88,253.46
+ORD-00654,2025-08-11,East,Office Supplies,Desk Organizer,Consumer,Online,3,61.59,0.05,175.53,88.6
+ORD-01749,2025-08-11,West,Furniture,Standing Desk,Corporate,Online,4,524.12,0.15,1782.01,615.74
+ORD-00092,2025-08-11,West,Furniture,Desk Lamp,Corporate,Online,8,661.27,0.1,4761.14,1536.67
+ORD-00103,2025-08-11,East,Technology,Wireless Mouse,Consumer,Partner,2,417.67,0.1,751.81,295.57
+ORD-00291,2025-08-13,North,Office Supplies,Desk Organizer,Consumer,Partner,3,38.26,0.15,97.56,37.86
+ORD-01001,2025-08-13,West,Furniture,Bookshelf,Consumer,Online,2,871.86,0.05,1656.53,810.17
+ORD-01334,2025-08-13,South,Home & Lifestyle,Desk Plant,Corporate,Partner,4,9.16,0.0,36.64,16.5
+ORD-00837,2025-08-13,Central,Home & Lifestyle,Lunch Bag,Consumer,Online,4,33.9,0.0,135.6,53.05
+ORD-00336,2025-08-13,South,Technology,USB-C Hub,Small Business,Partner,8,707.13,0.15,4808.48,1362.37
+ORD-00227,2025-08-14,South,Office Supplies,Ballpoint Pens,Corporate,Partner,8,89.76,0.0,718.08,274.45
+ORD-01219,2025-08-14,East,Technology,Laptop Stand,Consumer,Online,1,67.46,0.0,67.46,34.39
+ORD-01574,2025-08-17,North,Office Supplies,Printer Paper,Small Business,In-Store,7,37.86,0.0,265.02,88.13
+ORD-00885,2025-08-17,Central,Technology,USB-C Hub,Corporate,Online,5,205.52,0.1,924.84,467.44
+ORD-01426,2025-08-18,West,Home & Lifestyle,Backpack,Consumer,Online,5,81.83,0.0,409.15,130.28
+ORD-00166,2025-08-18,West,Home & Lifestyle,Desk Plant,Consumer,Online,7,68.39,0.05,454.79,194.99
+ORD-01535,2025-08-19,Central,Furniture,Standing Desk,Corporate,In-Store,6,209.56,0.1,1131.62,301.22
+ORD-00514,2025-08-19,East,Home & Lifestyle,Water Bottle,Consumer,Online,2,130.72,0.15,222.22,51.87
+ORD-00741,2025-08-20,North,Furniture,Standing Desk,Consumer,Online,6,624.75,0.15,3186.22,1602.72
+ORD-00867,2025-08-22,North,Home & Lifestyle,Desk Plant,Consumer,Online,8,8.09,0.05,61.48,15.83
+ORD-00849,2025-08-22,East,Office Supplies,Notebook Set,Corporate,In-Store,2,35.93,0.0,71.86,16.3
+ORD-01025,2025-08-23,North,Technology,Monitor,Consumer,Online,8,196.52,0.0,1572.16,362.7
+ORD-01231,2025-08-23,East,Technology,USB-C Hub,Corporate,Online,2,456.96,0.05,868.22,257.41
+ORD-00149,2025-08-23,South,Home & Lifestyle,Travel Mug,Corporate,Online,5,63.9,0.0,319.5,156.77
+ORD-01264,2025-08-24,West,Office Supplies,Desk Organizer,Small Business,In-Store,1,24.17,0.1,21.75,9.84
+ORD-00028,2025-08-24,West,Home & Lifestyle,Water Bottle,Corporate,Online,6,133.7,0.1,721.98,352.48
+ORD-01587,2025-08-24,North,Furniture,Bookshelf,Corporate,In-Store,7,740.26,0.15,4404.55,2096.48
+ORD-00524,2025-08-25,South,Office Supplies,Sticky Notes,Consumer,Online,5,47.46,0.1,213.57,86.75
+ORD-00433,2025-08-26,West,Office Supplies,Sticky Notes,Consumer,Partner,6,53.96,0.0,323.76,111.79
+ORD-01603,2025-08-26,North,Home & Lifestyle,Lunch Bag,Corporate,Online,8,140.92,0.2,901.89,267.74
+ORD-00794,2025-08-26,West,Furniture,Office Chair,Consumer,Partner,1,77.82,0.15,66.15,17.04
+ORD-00605,2025-08-26,West,Home & Lifestyle,Backpack,Consumer,Online,8,35.78,0.1,257.62,67.26
+ORD-01040,2025-08-27,South,Technology,Laptop Stand,Corporate,Online,2,464.18,0.1,835.52,239.31
+ORD-00302,2025-08-27,West,Office Supplies,Desk Organizer,Consumer,In-Store,4,35.05,0.0,140.2,40.45
+ORD-00038,2025-08-27,South,Technology,Wireless Mouse,Consumer,In-Store,3,484.48,0.1,1308.1,326.03
+ORD-00553,2025-08-28,East,Home & Lifestyle,Water Bottle,Consumer,Partner,7,103.63,0.1,652.87,153.25
+ORD-00334,2025-08-29,North,Furniture,Bookshelf,Small Business,Online,5,745.1,0.0,3725.5,998.35
+ORD-00482,2025-08-29,South,Technology,Monitor,Consumer,In-Store,8,315.66,0.1,2272.75,999.49
+ORD-00545,2025-08-30,East,Technology,Laptop Stand,Consumer,In-Store,1,515.35,0.15,438.05,120.7
+ORD-00388,2025-08-30,East,Office Supplies,Printer Paper,Corporate,Partner,2,74.14,0.0,148.28,37.07
+ORD-00101,2025-08-31,Central,Technology,Monitor,Consumer,Online,2,279.41,0.1,502.94,168.3
+ORD-00090,2025-08-31,South,Home & Lifestyle,Travel Mug,Corporate,Online,2,72.52,0.0,145.04,52.87
+ORD-00084,2025-08-31,East,Office Supplies,Sticky Notes,Consumer,Online,6,21.04,0.1,113.62,37.29
+ORD-00582,2025-09-01,North,Technology,Keyboard,Consumer,Online,5,70.86,0.2,283.44,138.21
+ORD-00611,2025-09-01,West,Technology,Laptop Stand,Corporate,Online,2,802.59,0.15,1364.4,312.9
+ORD-01097,2025-09-02,East,Office Supplies,Printer Paper,Consumer,In-Store,5,6.15,0.15,26.14,12.04
+ORD-01650,2025-09-03,Central,Office Supplies,Ballpoint Pens,Consumer,Partner,7,23.13,0.1,145.72,34.39
+ORD-01080,2025-09-03,Central,Technology,Laptop Stand,Consumer,Online,2,611.85,0.1,1101.33,481.19
+ORD-00816,2025-09-03,West,Furniture,Desk Lamp,Consumer,Online,6,230.02,0.1,1242.11,614.64
+ORD-00589,2025-09-03,North,Home & Lifestyle,Lunch Bag,Small Business,In-Store,4,125.55,0.15,426.87,158.33
+ORD-01016,2025-09-04,South,Technology,Wireless Mouse,Consumer,Online,8,103.83,0.0,830.64,280.54
+ORD-00868,2025-09-04,West,Technology,Wireless Mouse,Corporate,Online,7,672.08,0.0,4704.56,1151.29
+ORD-00019,2025-09-05,South,Office Supplies,Ballpoint Pens,Consumer,Online,6,64.87,0.05,369.76,146.13
+ORD-01659,2025-09-05,East,Office Supplies,Sticky Notes,Corporate,Online,3,42.67,0.0,128.01,42.41
+ORD-01086,2025-09-05,South,Home & Lifestyle,Lunch Bag,Small Business,Online,3,131.0,0.0,393.0,168.15
+ORD-01125,2025-09-06,North,Office Supplies,Desk Organizer,Consumer,Partner,5,17.23,0.1,77.54,17.38
+ORD-01500,2025-09-06,Central,Office Supplies,Sticky Notes,Small Business,Online,6,70.1,0.0,420.6,110.57
+ORD-00963,2025-09-06,South,Home & Lifestyle,Desk Plant,Consumer,Online,3,29.75,0.05,84.79,27.38
+ORD-00513,2025-09-06,West,Home & Lifestyle,Desk Plant,Consumer,Online,2,46.04,0.1,82.87,23.52
+ORD-00459,2025-09-06,South,Furniture,Standing Desk,Consumer,Online,1,714.48,0.0,714.48,210.37
+ORD-00093,2025-09-07,North,Home & Lifestyle,Water Bottle,Consumer,In-Store,6,27.99,0.1,151.15,49.46
+ORD-01024,2025-09-07,Central,Office Supplies,Printer Paper,Corporate,Partner,5,89.69,0.2,358.76,100.34
+ORD-01126,2025-09-08,South,Office Supplies,Notebook Set,Small Business,Online,8,29.28,0.15,199.1,92.4
+ORD-00590,2025-09-08,East,Office Supplies,Ballpoint Pens,Consumer,Online,1,14.92,0.0,14.92,6.91
+ORD-01093,2025-09-08,West,Office Supplies,Desk Organizer,Small Business,Online,1,16.05,0.05,15.25,4.39
+ORD-01144,2025-09-09,South,Home & Lifestyle,Backpack,Consumer,Online,4,28.94,0.0,115.76,35.15
+ORD-01599,2025-09-09,West,Home & Lifestyle,Backpack,Small Business,Online,7,18.77,0.05,124.82,33.86
+ORD-00723,2025-09-09,West,Home & Lifestyle,Lunch Bag,Corporate,In-Store,2,81.27,0.05,154.41,40.83
+ORD-00865,2025-09-10,North,Technology,USB-C Hub,Consumer,Partner,5,66.28,0.0,331.4,146.56
+ORD-00361,2025-09-10,South,Technology,Wireless Mouse,Consumer,Partner,1,250.39,0.0,250.39,96.21
+ORD-00775,2025-09-10,East,Home & Lifestyle,Backpack,Consumer,In-Store,3,126.21,0.05,359.7,143.5
+ORD-01163,2025-09-11,Central,Office Supplies,Ballpoint Pens,Consumer,Online,4,35.63,0.0,142.52,40.31
+ORD-01657,2025-09-11,West,Technology,Laptop Stand,Small Business,Partner,2,598.63,0.0,1197.26,507.89
+ORD-00477,2025-09-11,West,Furniture,Filing Cabinet,Corporate,Online,2,668.02,0.05,1269.24,560.59
+ORD-00650,2025-09-12,West,Office Supplies,Desk Organizer,Consumer,In-Store,8,42.82,0.0,342.56,95.59
+ORD-00856,2025-09-12,South,Furniture,Office Chair,Small Business,In-Store,6,136.69,0.0,820.14,235.49
+ORD-01548,2025-09-12,East,Office Supplies,Ballpoint Pens,Corporate,In-Store,8,37.29,0.0,298.32,124.82
+ORD-01158,2025-09-13,Central,Office Supplies,Desk Organizer,Consumer,Online,5,71.78,0.0,358.9,150.86
+ORD-01007,2025-09-13,Central,Office Supplies,Printer Paper,Small Business,Online,7,37.43,0.0,262.01,75.49
+ORD-00297,2025-09-13,South,Technology,Wireless Mouse,Consumer,Online,4,102.34,0.0,409.36,206.93
+ORD-00780,2025-09-13,North,Office Supplies,Sticky Notes,Consumer,Online,3,73.86,0.05,210.5,82.43
+ORD-01150,2025-09-14,North,Office Supplies,Printer Paper,Consumer,Online,1,61.81,0.05,58.72,19.06
+ORD-01465,2025-09-14,Central,Furniture,Filing Cabinet,Consumer,Online,2,319.77,0.0,639.54,229.57
+ORD-00882,2025-09-14,West,Home & Lifestyle,Travel Mug,Consumer,In-Store,7,26.64,0.0,186.48,73.3
+ORD-00560,2025-09-14,South,Office Supplies,Sticky Notes,Consumer,In-Store,7,61.68,0.1,388.58,189.72
+ORD-01314,2025-09-15,Central,Office Supplies,Ballpoint Pens,Corporate,Partner,2,89.92,0.0,179.84,92.86
+ORD-01310,2025-09-15,South,Technology,USB-C Hub,Consumer,Partner,6,127.91,0.0,767.46,397.56
+ORD-00146,2025-09-15,West,Office Supplies,Sticky Notes,Consumer,In-Store,7,65.47,0.05,435.38,122.61
+ORD-01552,2025-09-15,North,Furniture,Bookshelf,Small Business,Online,1,276.88,0.0,276.88,73.66
+ORD-00835,2025-09-16,East,Home & Lifestyle,Desk Plant,Consumer,Online,8,137.13,0.0,1097.04,549.39
+ORD-01127,2025-09-16,West,Home & Lifestyle,Water Bottle,Consumer,In-Store,2,9.67,0.15,16.44,4.79
+ORD-01401,2025-09-16,South,Home & Lifestyle,Lunch Bag,Consumer,In-Store,7,148.97,0.0,1042.79,282.01
+ORD-00643,2025-09-16,East,Office Supplies,Desk Organizer,Corporate,Online,1,80.85,0.0,80.85,26.43
+ORD-00151,2025-09-17,North,Furniture,Desk Lamp,Consumer,Online,2,431.06,0.0,862.12,242.14
+ORD-01347,2025-09-17,East,Technology,Wireless Mouse,Corporate,In-Store,1,471.2,0.1,424.08,193.86
+ORD-00125,2025-09-17,West,Furniture,Desk Lamp,Consumer,In-Store,7,1035.39,0.1,6522.96,3300.19
+ORD-01560,2025-09-17,South,Office Supplies,Ballpoint Pens,Small Business,Online,5,76.33,0.15,324.4,157.61
+ORD-00232,2025-09-18,West,Office Supplies,Ballpoint Pens,Consumer,In-Store,8,71.96,0.05,546.9,215.26
+ORD-00610,2025-09-18,South,Furniture,Office Chair,Small Business,Online,7,455.53,0.0,3188.71,991.21
+ORD-01042,2025-09-18,North,Office Supplies,Desk Organizer,Small Business,Partner,3,46.45,0.0,139.35,31.61
+ORD-01292,2025-09-19,South,Furniture,Desk Lamp,Consumer,Partner,1,911.13,0.05,865.57,247.65
+ORD-00006,2025-09-19,North,Furniture,Standing Desk,Corporate,Online,5,853.91,0.05,4056.07,1301.65
+ORD-01706,2025-09-19,West,Technology,Laptop Stand,Consumer,Online,5,485.01,0.05,2303.8,736.3
+ORD-00037,2025-09-19,Central,Home & Lifestyle,Backpack,Corporate,Online,1,144.9,0.15,123.16,36.42
+ORD-01247,2025-09-20,North,Technology,Wireless Mouse,Consumer,Online,8,57.41,0.0,459.28,189.47
+ORD-01735,2025-09-21,South,Office Supplies,Notebook Set,Consumer,In-Store,6,25.45,0.15,129.79,65.97
+ORD-01419,2025-09-21,West,Office Supplies,Printer Paper,Consumer,Online,5,4.55,0.05,21.61,5.94
+ORD-00668,2025-09-21,West,Technology,Laptop Stand,Consumer,Online,8,846.48,0.0,6771.84,1988.11
+ORD-01486,2025-09-22,East,Furniture,Office Chair,Small Business,Online,4,771.31,0.0,3085.24,840.45
+ORD-01589,2025-09-22,Central,Technology,Laptop Stand,Consumer,Online,6,133.57,0.05,761.35,354.0
+ORD-01521,2025-09-23,West,Technology,Laptop Stand,Corporate,In-Store,3,772.18,0.05,2200.71,579.84
+ORD-00427,2025-09-23,West,Office Supplies,Notebook Set,Corporate,Partner,7,15.02,0.0,105.14,42.12
+ORD-01509,2025-09-23,East,Office Supplies,Notebook Set,Small Business,Online,8,4.5,0.05,34.2,13.35
+ORD-00829,2025-09-23,South,Technology,Wireless Mouse,Consumer,Partner,3,396.62,0.1,1070.87,246.46
+ORD-01280,2025-09-24,South,Home & Lifestyle,Backpack,Consumer,In-Store,7,157.54,0.1,992.5,514.44
+ORD-01734,2025-09-24,North,Furniture,Filing Cabinet,Consumer,Partner,6,1181.91,0.1,6382.31,2349.62
+ORD-01325,2025-09-25,East,Home & Lifestyle,Travel Mug,Consumer,Online,7,41.15,0.0,288.05,108.3
+ORD-01214,2025-09-25,Central,Furniture,Office Chair,Consumer,Online,6,688.89,0.15,3513.34,1631.94
+ORD-00504,2025-09-26,South,Office Supplies,Printer Paper,Corporate,In-Store,3,20.98,0.15,53.5,23.94
+ORD-00492,2025-09-26,West,Home & Lifestyle,Backpack,Corporate,Online,7,151.92,0.0,1063.44,552.77
+ORD-01023,2025-09-26,West,Office Supplies,Notebook Set,Corporate,Online,1,30.13,0.0,30.13,13.92
+ORD-00921,2025-09-29,North,Home & Lifestyle,Desk Plant,Consumer,Online,6,39.11,0.1,211.19,51.37
+ORD-01658,2025-09-30,East,Technology,Monitor,Consumer,Partner,3,649.76,0.0,1949.28,806.76
+ORD-01408,2025-10-01,West,Office Supplies,Sticky Notes,Small Business,In-Store,5,61.45,0.0,307.25,150.27
+ORD-00558,2025-10-01,North,Office Supplies,Printer Paper,Consumer,Online,2,58.64,0.0,117.28,47.74
+ORD-01245,2025-10-01,South,Office Supplies,Printer Paper,Corporate,Partner,5,30.29,0.05,143.88,34.31
+ORD-00396,2025-10-01,North,Office Supplies,Desk Organizer,Corporate,Partner,7,61.25,0.0,428.75,125.91
+ORD-00781,2025-10-03,East,Furniture,Standing Desk,Consumer,Online,1,237.72,0.15,202.06,77.75
+ORD-01201,2025-10-04,East,Furniture,Office Chair,Consumer,Online,8,790.38,0.0,6323.04,1445.31
+ORD-01716,2025-10-04,South,Office Supplies,Sticky Notes,Small Business,Online,6,28.73,0.0,172.38,66.27
+ORD-00812,2025-10-04,North,Office Supplies,Printer Paper,Corporate,In-Store,2,36.2,0.0,72.4,33.78
+ORD-01634,2025-10-05,East,Technology,Keyboard,Consumer,In-Store,3,545.84,0.0,1637.52,605.51
+ORD-01713,2025-10-05,South,Office Supplies,Sticky Notes,Corporate,In-Store,8,46.28,0.1,333.22,111.18
+ORD-01371,2025-10-05,West,Furniture,Bookshelf,Consumer,In-Store,7,301.33,0.1,1898.38,672.51
+ORD-01792,2025-10-06,South,Office Supplies,Sticky Notes,Consumer,Online,7,74.02,0.1,466.33,229.64
+ORD-00517,2025-10-06,East,Office Supplies,Desk Organizer,Corporate,In-Store,6,79.96,0.05,455.77,185.35
+ORD-01141,2025-10-06,South,Office Supplies,Sticky Notes,Small Business,Online,2,3.68,0.05,6.99,2.29
+ORD-00904,2025-10-08,East,Furniture,Bookshelf,Consumer,In-Store,7,614.14,0.0,4298.98,1283.27
+ORD-00375,2025-10-09,North,Technology,USB-C Hub,Consumer,Online,4,495.28,0.05,1882.06,682.33
+ORD-01004,2025-10-09,West,Technology,Monitor,Consumer,In-Store,8,48.5,0.1,349.2,88.03
+ORD-01375,2025-10-10,East,Home & Lifestyle,Lunch Bag,Consumer,Partner,8,118.34,0.0,946.72,373.56
+ORD-01324,2025-10-10,Central,Technology,Laptop Stand,Consumer,Online,4,500.91,0.0,2003.64,495.42
+ORD-01752,2025-10-10,West,Office Supplies,Desk Organizer,Corporate,Online,2,26.07,0.1,46.93,22.24
+ORD-00565,2025-10-11,West,Furniture,Desk Lamp,Corporate,In-Store,6,792.54,0.1,4279.72,1664.46
+ORD-00035,2025-10-11,East,Furniture,Bookshelf,Corporate,In-Store,1,568.36,0.15,483.11,168.28
+ORD-01606,2025-10-12,North,Technology,Wireless Mouse,Consumer,In-Store,3,116.71,0.0,350.13,113.61
+ORD-01692,2025-10-12,East,Home & Lifestyle,Backpack,Corporate,In-Store,2,85.59,0.15,145.5,61.35
+ORD-00358,2025-10-13,Central,Home & Lifestyle,Backpack,Consumer,Online,5,106.6,0.15,453.05,192.55
+ORD-00389,2025-10-13,Central,Office Supplies,Ballpoint Pens,Corporate,In-Store,4,23.86,0.0,95.44,29.7
+ORD-00362,2025-10-13,North,Office Supplies,Notebook Set,Small Business,Online,3,41.89,0.1,113.1,30.61
+ORD-01389,2025-10-13,Central,Technology,Laptop Stand,Corporate,Online,4,137.13,0.15,466.24,123.36
+ORD-00048,2025-10-14,South,Home & Lifestyle,Backpack,Consumer,Online,4,70.12,0.0,280.48,120.86
+ORD-00579,2025-10-15,West,Office Supplies,Desk Organizer,Consumer,Online,4,13.44,0.05,51.07,19.99
+ORD-00364,2025-10-15,South,Home & Lifestyle,Water Bottle,Small Business,Online,3,85.94,0.1,232.04,90.01
+ORD-01304,2025-10-16,Central,Technology,Wireless Mouse,Consumer,In-Store,8,474.86,0.05,3608.94,1801.66
+ORD-00304,2025-10-17,East,Furniture,Bookshelf,Corporate,Online,8,694.73,0.2,4446.27,1570.14
+ORD-01632,2025-10-17,Central,Furniture,Desk Lamp,Consumer,In-Store,2,375.21,0.05,712.9,358.19
+ORD-01384,2025-10-17,North,Furniture,Desk Lamp,Consumer,Online,1,984.99,0.1,886.49,432.62
+ORD-01557,2025-10-17,South,Furniture,Office Chair,Consumer,Online,1,488.01,0.05,463.61,129.49
+ORD-00828,2025-10-17,North,Home & Lifestyle,Desk Plant,Consumer,In-Store,1,83.42,0.0,83.42,38.9
+ORD-00095,2025-10-18,West,Home & Lifestyle,Desk Plant,Small Business,In-Store,4,41.82,0.1,150.55,42.34
+ORD-00740,2025-10-18,West,Furniture,Bookshelf,Consumer,In-Store,7,799.93,0.0,5599.51,2895.4
+ORD-01471,2025-10-18,South,Office Supplies,Notebook Set,Corporate,Online,3,23.52,0.2,56.45,16.79
+ORD-00179,2025-10-20,West,Furniture,Bookshelf,Small Business,Online,7,933.74,0.0,6536.18,2345.32
+ORD-01428,2025-10-21,South,Technology,Wireless Mouse,Small Business,Partner,1,670.9,0.1,603.81,167.36
+ORD-00220,2025-10-21,Central,Home & Lifestyle,Water Bottle,Consumer,Online,8,32.65,0.05,248.14,122.43
+ORD-01315,2025-10-21,South,Home & Lifestyle,Lunch Bag,Corporate,Online,5,116.27,0.0,581.35,285.35
+ORD-01037,2025-10-21,South,Office Supplies,Sticky Notes,Consumer,Partner,2,81.0,0.0,162.0,66.76
+ORD-00592,2025-10-21,West,Home & Lifestyle,Backpack,Corporate,Online,7,22.82,0.1,143.77,49.99
+ORD-01732,2025-10-22,West,Office Supplies,Sticky Notes,Corporate,Online,6,6.07,0.05,34.6,8.81
+ORD-01206,2025-10-22,West,Furniture,Standing Desk,Consumer,In-Store,2,692.9,0.15,1177.93,603.14
+ORD-00067,2025-10-23,South,Home & Lifestyle,Water Bottle,Corporate,Online,2,62.51,0.05,118.77,46.72
+ORD-00345,2025-10-23,North,Office Supplies,Notebook Set,Corporate,In-Store,7,57.83,0.0,404.81,119.91
+ORD-01287,2025-10-25,North,Home & Lifestyle,Water Bottle,Small Business,Partner,6,143.33,0.15,730.98,190.7
+ORD-01108,2025-10-25,East,Technology,USB-C Hub,Consumer,In-Store,2,806.13,0.15,1370.42,494.13
+ORD-01390,2025-10-26,North,Office Supplies,Printer Paper,Small Business,In-Store,6,19.81,0.15,101.03,38.67
+ORD-00202,2025-10-26,South,Office Supplies,Sticky Notes,Consumer,Online,2,86.73,0.05,164.79,70.58
+ORD-01154,2025-10-26,East,Home & Lifestyle,Backpack,Consumer,Online,8,59.7,0.0,477.6,160.72
+ORD-00843,2025-10-26,Central,Technology,Monitor,Consumer,In-Store,3,171.57,0.0,514.71,200.86
+ORD-01569,2025-10-26,North,Furniture,Bookshelf,Corporate,In-Store,8,406.5,0.05,3089.4,1560.85
+ORD-00840,2025-10-27,South,Furniture,Standing Desk,Consumer,In-Store,7,1159.01,0.1,7301.76,2860.4
+ORD-01708,2025-10-29,South,Technology,USB-C Hub,Consumer,In-Store,5,475.86,0.05,2260.34,592.47
+ORD-00943,2025-10-29,Central,Technology,Keyboard,Small Business,Online,7,672.26,0.0,4705.82,2269.83
+ORD-01507,2025-10-30,North,Office Supplies,Notebook Set,Corporate,Online,8,53.78,0.0,430.24,183.37
+ORD-00642,2025-10-31,Central,Technology,Laptop Stand,Consumer,Online,8,139.5,0.2,892.8,416.88
+ORD-01354,2025-10-31,Central,Furniture,Office Chair,Small Business,In-Store,2,897.46,0.0,1794.92,784.64
+ORD-00324,2025-10-31,Central,Furniture,Bookshelf,Small Business,Online,2,821.87,0.0,1643.74,437.49
+ORD-00529,2025-10-31,West,Furniture,Office Chair,Small Business,In-Store,3,983.64,0.15,2508.28,754.14
+ORD-01170,2025-11-01,West,Office Supplies,Notebook Set,Small Business,Online,3,15.76,0.0,47.28,21.51
+ORD-00153,2025-11-01,East,Office Supplies,Printer Paper,Consumer,Partner,1,48.42,0.0,48.42,22.72
+ORD-00804,2025-11-02,South,Furniture,Office Chair,Consumer,Online,1,884.32,0.15,751.67,328.14
+ORD-01103,2025-11-02,South,Home & Lifestyle,Backpack,Corporate,Online,5,150.36,0.0,751.8,264.8
+ORD-00669,2025-11-02,West,Office Supplies,Notebook Set,Consumer,In-Store,3,83.37,0.05,237.6,84.81
+ORD-01530,2025-11-02,Central,Furniture,Desk Lamp,Small Business,Online,2,623.39,0.1,1122.1,385.62
+ORD-01564,2025-11-02,East,Furniture,Desk Lamp,Consumer,In-Store,7,250.65,0.0,1754.55,819.48
+ORD-01081,2025-11-03,Central,Home & Lifestyle,Desk Plant,Corporate,Online,4,86.35,0.0,345.4,99.05
+ORD-01705,2025-11-03,North,Technology,Laptop Stand,Consumer,Partner,8,168.83,0.0,1350.64,614.16
+ORD-00969,2025-11-03,East,Office Supplies,Notebook Set,Consumer,Online,6,18.63,0.0,111.78,48.03
+ORD-00715,2025-11-03,North,Home & Lifestyle,Water Bottle,Consumer,Partner,2,8.26,0.1,14.87,6.29
+ORD-01006,2025-11-04,South,Office Supplies,Sticky Notes,Corporate,Online,8,16.67,0.15,113.36,36.11
+ORD-00733,2025-11-04,North,Furniture,Filing Cabinet,Corporate,Online,7,1192.17,0.0,8345.19,2347.5
+ORD-00530,2025-11-04,Central,Office Supplies,Desk Organizer,Consumer,Online,2,25.82,0.05,49.06,14.43
+ORD-00061,2025-11-05,South,Office Supplies,Sticky Notes,Corporate,Partner,1,77.56,0.05,73.68,37.82
+ORD-00527,2025-11-05,East,Technology,Keyboard,Corporate,Online,5,441.46,0.0,2207.3,802.38
+ORD-01679,2025-11-06,North,Technology,Laptop Stand,Consumer,Online,3,98.78,0.1,266.71,93.69
+ORD-01262,2025-11-06,Central,Technology,Monitor,Small Business,In-Store,2,822.06,0.05,1561.91,561.39
+ORD-01623,2025-11-06,North,Office Supplies,Printer Paper,Consumer,In-Store,3,81.97,0.1,221.32,105.46
+ORD-01067,2025-11-07,West,Furniture,Standing Desk,Consumer,Partner,8,490.75,0.0,3926.0,1257.54
+ORD-00264,2025-11-07,South,Technology,USB-C Hub,Consumer,Partner,7,725.35,0.0,5077.45,2164.07
+ORD-00452,2025-11-07,West,Home & Lifestyle,Backpack,Small Business,Online,6,46.09,0.15,235.06,66.65
+ORD-00577,2025-11-07,West,Office Supplies,Sticky Notes,Corporate,Online,5,15.6,0.2,62.4,27.38
+ORD-00586,2025-11-07,West,Technology,Laptop Stand,Consumer,Partner,6,728.63,0.0,4371.78,1836.73
+ORD-00024,2025-11-08,Central,Office Supplies,Desk Organizer,Consumer,Online,5,45.24,0.0,226.2,102.44
+ORD-00499,2025-11-08,West,Furniture,Desk Lamp,Consumer,Online,6,1172.92,0.05,6685.64,2978.83
+ORD-01182,2025-11-08,Central,Technology,Laptop Stand,Corporate,In-Store,3,525.2,0.1,1418.04,402.35
+ORD-00438,2025-11-09,Central,Furniture,Office Chair,Consumer,Partner,2,911.41,0.1,1640.54,692.12
+ORD-00862,2025-11-09,East,Technology,USB-C Hub,Consumer,Online,1,434.5,0.0,434.5,206.36
+ORD-00421,2025-11-09,South,Office Supplies,Printer Paper,Corporate,Online,5,7.8,0.0,39.0,11.44
+ORD-01273,2025-11-11,West,Office Supplies,Desk Organizer,Consumer,Online,4,55.52,0.15,188.77,72.34
+ORD-00722,2025-11-11,East,Office Supplies,Ballpoint Pens,Consumer,Online,2,88.97,0.0,177.94,75.56
+ORD-00693,2025-11-11,North,Home & Lifestyle,Water Bottle,Corporate,Online,5,119.84,0.1,539.28,163.86
+ORD-01751,2025-11-11,Central,Home & Lifestyle,Backpack,Consumer,Online,5,55.56,0.0,277.8,81.6
+ORD-01516,2025-11-11,Central,Technology,Monitor,Small Business,Online,8,160.77,0.0,1286.16,323.99
+ORD-01143,2025-11-11,West,Furniture,Standing Desk,Small Business,In-Store,6,402.83,0.15,2054.43,666.39
+ORD-01533,2025-11-12,South,Furniture,Office Chair,Corporate,Online,6,429.96,0.1,2321.78,1083.35
+ORD-00491,2025-11-13,North,Home & Lifestyle,Desk Plant,Small Business,Online,5,68.29,0.1,307.31,92.9
+ORD-00470,2025-11-13,North,Office Supplies,Printer Paper,Consumer,Online,7,22.65,0.05,150.62,42.14
+ORD-01443,2025-11-14,South,Furniture,Bookshelf,Corporate,Online,6,1187.47,0.0,7124.82,2317.15
+ORD-01766,2025-11-14,Central,Home & Lifestyle,Backpack,Consumer,Online,7,52.71,0.0,368.97,189.77
+ORD-00409,2025-11-14,North,Technology,USB-C Hub,Consumer,Online,7,602.0,0.0,4214.0,1614.76
+ORD-00680,2025-11-15,West,Home & Lifestyle,Desk Plant,Small Business,Partner,2,69.72,0.0,139.44,69.12
+ORD-00348,2025-11-15,North,Technology,Laptop Stand,Small Business,Online,4,711.47,0.0,2845.88,1302.16
+ORD-00754,2025-11-15,North,Technology,Laptop Stand,Consumer,Online,4,34.79,0.1,125.24,64.56
+ORD-00382,2025-11-15,East,Office Supplies,Notebook Set,Small Business,In-Store,5,39.44,0.15,167.62,77.35
+ORD-00764,2025-11-15,Central,Technology,Wireless Mouse,Corporate,In-Store,1,260.9,0.0,260.9,129.64
+ORD-01447,2025-11-16,South,Home & Lifestyle,Water Bottle,Consumer,In-Store,6,136.87,0.2,656.98,339.03
+ORD-00181,2025-11-16,North,Technology,USB-C Hub,Corporate,Online,6,373.28,0.05,2127.7,993.29
+ORD-00286,2025-11-16,North,Home & Lifestyle,Backpack,Consumer,In-Store,4,23.55,0.0,94.2,29.11
+ORD-00319,2025-11-17,West,Furniture,Office Chair,Consumer,Online,3,937.58,0.05,2672.1,1179.05
+ORD-01689,2025-11-17,South,Office Supplies,Notebook Set,Consumer,In-Store,2,44.8,0.05,85.12,38.61
+ORD-00936,2025-11-18,North,Technology,Wireless Mouse,Consumer,Online,6,260.43,0.1,1406.32,404.85
+ORD-01109,2025-11-18,North,Technology,Keyboard,Corporate,Online,1,734.04,0.2,587.23,175.66
+ORD-00081,2025-11-18,West,Home & Lifestyle,Lunch Bag,Consumer,In-Store,3,78.94,0.0,236.82,96.78
+ORD-01681,2025-11-20,Central,Technology,Laptop Stand,Corporate,In-Store,4,433.02,0.0,1732.08,662.07
+ORD-00926,2025-11-22,East,Technology,Wireless Mouse,Consumer,Online,5,826.45,0.05,3925.64,1520.46
+ORD-00694,2025-11-22,East,Office Supplies,Ballpoint Pens,Corporate,Online,1,8.05,0.0,8.05,2.03
+ORD-00949,2025-11-23,West,Office Supplies,Ballpoint Pens,Consumer,In-Store,3,57.96,0.0,173.88,57.99
+ORD-00383,2025-11-23,East,Office Supplies,Sticky Notes,Consumer,Online,7,45.74,0.0,320.18,120.53
+ORD-00640,2025-11-24,West,Office Supplies,Desk Organizer,Consumer,Online,6,28.7,0.1,154.98,43.74
+ORD-00763,2025-11-24,West,Home & Lifestyle,Travel Mug,Consumer,In-Store,7,119.97,0.0,839.79,385.67
+ORD-00571,2025-11-24,Central,Home & Lifestyle,Desk Plant,Consumer,Online,8,26.3,0.15,178.84,54.41
+ORD-00965,2025-11-24,North,Furniture,Filing Cabinet,Small Business,Online,4,43.2,0.0,172.8,50.08
+ORD-01727,2025-11-25,West,Furniture,Filing Cabinet,Consumer,In-Store,7,870.82,0.2,4876.59,2077.44
+ORD-01421,2025-11-25,Central,Technology,Keyboard,Corporate,Partner,7,160.69,0.0,1124.83,425.32
+ORD-01295,2025-11-26,West,Furniture,Office Chair,Consumer,In-Store,7,96.95,0.1,610.78,241.67
+ORD-00776,2025-11-26,North,Home & Lifestyle,Backpack,Small Business,Partner,5,24.36,0.1,109.62,33.43
+ORD-01269,2025-11-27,East,Office Supplies,Ballpoint Pens,Consumer,In-Store,3,71.77,0.0,215.31,99.58
+ORD-00340,2025-11-27,North,Technology,Wireless Mouse,Consumer,Online,4,277.62,0.05,1054.96,387.66
+ORD-00671,2025-11-27,Central,Office Supplies,Notebook Set,Small Business,Online,2,27.26,0.15,46.34,12.45
+ORD-00293,2025-11-28,East,Home & Lifestyle,Lunch Bag,Consumer,In-Store,6,114.92,0.15,586.09,258.63
+ORD-01440,2025-11-29,West,Technology,Monitor,Small Business,Online,5,368.27,0.15,1565.15,714.57
+ORD-00448,2025-11-29,South,Office Supplies,Printer Paper,Consumer,Online,7,48.81,0.1,307.5,157.78
+ORD-01784,2025-11-29,North,Furniture,Standing Desk,Consumer,In-Store,6,318.52,0.0,1911.12,526.52
+ORD-00274,2025-12-01,North,Furniture,Desk Lamp,Consumer,Online,7,755.08,0.0,5285.56,1919.44
+ORD-01054,2025-12-01,North,Home & Lifestyle,Desk Plant,Consumer,In-Store,6,70.72,0.0,424.32,117.19
+ORD-00684,2025-12-01,North,Technology,Monitor,Consumer,In-Store,3,259.2,0.0,777.6,329.97
+ORD-01083,2025-12-01,West,Home & Lifestyle,Lunch Bag,Small Business,Online,3,28.11,0.05,80.11,30.34
+ORD-00195,2025-12-02,East,Furniture,Filing Cabinet,Consumer,In-Store,3,596.84,0.0,1790.52,828.84
+ORD-01376,2025-12-02,East,Technology,Monitor,Consumer,In-Store,7,663.48,0.15,3947.71,1225.73
+ORD-01448,2025-12-02,Central,Home & Lifestyle,Backpack,Consumer,Online,1,20.74,0.0,20.74,7.76
+ORD-00515,2025-12-02,West,Technology,USB-C Hub,Consumer,Online,1,164.34,0.05,156.12,43.89
+ORD-00451,2025-12-02,Central,Home & Lifestyle,Water Bottle,Small Business,In-Store,6,151.21,0.0,907.26,225.38
+ORD-00683,2025-12-02,West,Office Supplies,Desk Organizer,Corporate,Online,1,86.33,0.1,77.7,27.09
+ORD-00649,2025-12-03,South,Office Supplies,Notebook Set,Consumer,Online,2,20.42,0.15,34.71,11.3
+ORD-00751,2025-12-03,North,Technology,Wireless Mouse,Corporate,In-Store,3,813.96,0.0,2441.88,728.5
+ORD-01700,2025-12-03,North,Home & Lifestyle,Lunch Bag,Consumer,Online,7,136.76,0.0,957.32,328.41
+ORD-01223,2025-12-03,West,Office Supplies,Sticky Notes,Consumer,In-Store,2,60.68,0.0,121.36,36.79
+ORD-00200,2025-12-04,South,Technology,Keyboard,Consumer,In-Store,1,433.19,0.2,346.55,173.84
+ORD-01377,2025-12-04,East,Office Supplies,Ballpoint Pens,Consumer,Online,4,52.2,0.05,198.36,48.21
+ORD-00999,2025-12-04,South,Technology,USB-C Hub,Consumer,Online,3,328.68,0.1,887.44,335.57
+ORD-00503,2025-12-04,East,Home & Lifestyle,Water Bottle,Consumer,In-Store,1,103.93,0.1,93.54,29.64
+ORD-00853,2025-12-05,West,Home & Lifestyle,Travel Mug,Consumer,Partner,1,62.78,0.1,56.5,19.67
+ORD-01210,2025-12-05,East,Technology,Keyboard,Consumer,In-Store,5,316.27,0.0,1581.35,495.07
+ORD-00337,2025-12-05,South,Technology,Laptop Stand,Corporate,Online,7,368.05,0.05,2447.53,680.02
+ORD-01369,2025-12-05,North,Furniture,Bookshelf,Corporate,In-Store,6,610.2,0.0,3661.2,1308.1
+ORD-01243,2025-12-05,South,Furniture,Filing Cabinet,Consumer,Online,8,301.72,0.05,2293.07,660.56
+ORD-00609,2025-12-07,East,Technology,Wireless Mouse,Corporate,Partner,8,834.5,0.1,6008.4,2431.26
+ORD-00466,2025-12-07,West,Office Supplies,Ballpoint Pens,Consumer,Online,8,23.5,0.0,188.0,43.71
+ORD-00797,2025-12-08,North,Technology,Keyboard,Corporate,Online,4,32.68,0.05,124.18,59.49
+ORD-01567,2025-12-08,South,Home & Lifestyle,Lunch Bag,Consumer,In-Store,7,34.51,0.1,217.41,59.03
+ORD-00064,2025-12-08,West,Technology,Laptop Stand,Corporate,Online,1,673.41,0.0,673.41,274.12
+ORD-00861,2025-12-08,East,Office Supplies,Notebook Set,Small Business,In-Store,2,16.32,0.0,32.64,15.42
+ORD-00208,2025-12-09,West,Office Supplies,Ballpoint Pens,Corporate,In-Store,4,39.23,0.1,141.23,53.75
+ORD-01226,2025-12-09,East,Office Supplies,Ballpoint Pens,Small Business,In-Store,7,66.02,0.0,462.14,137.48
+ORD-00417,2025-12-09,South,Furniture,Bookshelf,Consumer,Online,7,496.94,0.0,3478.58,1739.73
+ORD-00355,2025-12-09,North,Technology,Wireless Mouse,Consumer,In-Store,8,588.81,0.15,4003.91,1859.1
+ORD-01233,2025-12-10,West,Home & Lifestyle,Water Bottle,Small Business,Partner,6,58.88,0.05,335.62,160.71
+ORD-00046,2025-12-10,West,Technology,Laptop Stand,Consumer,Partner,2,72.52,0.15,123.28,34.38
+ORD-00404,2025-12-11,South,Technology,Monitor,Consumer,In-Store,1,403.98,0.05,383.78,140.98
+ORD-00959,2025-12-11,North,Technology,Wireless Mouse,Consumer,Online,7,389.36,0.2,2180.42,759.44
+ORD-00947,2025-12-12,Central,Office Supplies,Ballpoint Pens,Small Business,Online,1,74.25,0.0,74.25,22.93
+ORD-00441,2025-12-12,East,Technology,Keyboard,Consumer,Online,5,486.48,0.0,2432.4,703.64
+ORD-00325,2025-12-13,South,Technology,Laptop Stand,Corporate,Online,8,408.88,0.1,2943.94,1446.72
+ORD-01797,2025-12-14,South,Home & Lifestyle,Travel Mug,Consumer,In-Store,4,35.85,0.0,143.4,69.86
+ORD-00012,2025-12-14,South,Home & Lifestyle,Backpack,Corporate,In-Store,5,111.99,0.0,559.95,229.21
+ORD-01649,2025-12-14,North,Office Supplies,Printer Paper,Consumer,In-Store,1,26.08,0.05,24.78,10.57
+ORD-01250,2025-12-15,West,Technology,Keyboard,Consumer,In-Store,1,792.3,0.15,673.46,169.33
+ORD-01475,2025-12-15,Central,Office Supplies,Ballpoint Pens,Consumer,Online,3,37.6,0.0,112.8,55.65
+ORD-01746,2025-12-16,North,Home & Lifestyle,Travel Mug,Corporate,In-Store,4,86.51,0.0,346.04,79.97
+ORD-00594,2025-12-17,Central,Home & Lifestyle,Desk Plant,Small Business,Online,1,104.87,0.1,94.38,30.52
+ORD-00914,2025-12-17,North,Technology,Wireless Mouse,Consumer,In-Store,2,228.24,0.1,410.83,118.61
+ORD-01381,2025-12-17,Central,Office Supplies,Sticky Notes,Consumer,In-Store,8,62.32,0.05,473.63,244.8
+ORD-00894,2025-12-17,North,Furniture,Desk Lamp,Small Business,Partner,2,1079.75,0.0,2159.5,544.12
+ORD-00851,2025-12-17,Central,Furniture,Desk Lamp,Corporate,Online,3,323.55,0.05,922.12,477.91
+ORD-01198,2025-12-18,East,Office Supplies,Ballpoint Pens,Consumer,In-Store,2,62.37,0.05,118.5,32.01
+ORD-01676,2025-12-19,West,Furniture,Bookshelf,Consumer,Online,6,699.77,0.15,3568.83,899.38
+ORD-00141,2025-12-19,South,Technology,Laptop Stand,Small Business,In-Store,5,380.28,0.15,1616.19,777.06
+ORD-01707,2025-12-19,Central,Furniture,Office Chair,Corporate,Online,2,1177.3,0.0,2354.6,768.16
+ORD-01393,2025-12-20,West,Furniture,Filing Cabinet,Corporate,Partner,8,702.13,0.05,5336.19,2500.26
+ORD-01457,2025-12-20,East,Office Supplies,Printer Paper,Consumer,Online,8,48.86,0.0,390.88,183.31
+ORD-01203,2025-12-20,North,Home & Lifestyle,Backpack,Consumer,In-Store,8,72.03,0.1,518.62,178.11
+ORD-01570,2025-12-20,South,Office Supplies,Printer Paper,Consumer,Online,7,84.3,0.1,531.09,203.91
+ORD-01228,2025-12-20,East,Office Supplies,Printer Paper,Corporate,Online,5,9.44,0.0,47.2,22.96
+ORD-00555,2025-12-20,East,Office Supplies,Printer Paper,Consumer,Online,7,15.71,0.0,109.97,44.1
+ORD-01246,2025-12-21,South,Home & Lifestyle,Desk Plant,Consumer,Online,6,127.4,0.05,726.18,199.4
+ORD-00772,2025-12-22,North,Furniture,Standing Desk,Consumer,Online,4,899.64,0.0,3598.56,1006.23
+ORD-01747,2025-12-23,West,Furniture,Filing Cabinet,Consumer,Online,4,608.76,0.2,1948.03,540.57
+ORD-01082,2025-12-24,North,Office Supplies,Sticky Notes,Consumer,In-Store,5,22.62,0.1,101.79,43.06
+ORD-00265,2025-12-24,Central,Technology,USB-C Hub,Consumer,Partner,5,143.46,0.0,717.3,231.92
+ORD-01088,2025-12-24,East,Furniture,Standing Desk,Corporate,Partner,2,999.63,0.1,1799.33,781.23
+ORD-01620,2025-12-25,North,Technology,Laptop Stand,Consumer,Partner,1,664.99,0.0,664.99,262.32
+ORD-00347,2025-12-25,South,Furniture,Bookshelf,Consumer,In-Store,8,494.57,0.05,3758.73,1095.96
+ORD-00356,2025-12-26,East,Home & Lifestyle,Backpack,Corporate,Partner,2,55.21,0.05,104.9,36.61
+ORD-00145,2025-12-26,North,Technology,Laptop Stand,Consumer,Online,6,59.47,0.05,338.98,152.88
+ORD-01626,2025-12-26,East,Technology,Monitor,Consumer,Partner,2,586.12,0.05,1113.63,389.84
+ORD-01056,2025-12-28,Central,Home & Lifestyle,Water Bottle,Corporate,Online,1,34.3,0.1,30.87,9.81
+ORD-01559,2025-12-28,East,Office Supplies,Desk Organizer,Consumer,Online,5,73.01,0.0,365.05,93.49
+ORD-01117,2025-12-28,South,Office Supplies,Desk Organizer,Corporate,Partner,3,85.03,0.2,204.07,84.11
+ORD-01422,2025-12-28,Central,Technology,Keyboard,Small Business,In-Store,3,174.26,0.05,496.64,143.45
+ORD-00511,2025-12-28,South,Home & Lifestyle,Water Bottle,Small Business,Online,8,97.86,0.1,704.59,177.36
+ORD-00161,2025-12-29,Central,Home & Lifestyle,Backpack,Small Business,Online,8,57.46,0.2,367.74,123.92
+ORD-00691,2025-12-29,North,Technology,Laptop Stand,Consumer,In-Store,4,390.65,0.0,1562.6,785.1
+ORD-00810,2025-12-29,North,Office Supplies,Printer Paper,Small Business,In-Store,1,69.79,0.1,62.81,25.66
+ORD-01346,2025-12-30,West,Technology,Monitor,Consumer,Online,1,715.21,0.1,643.69,302.34
+ORD-00401,2025-12-30,West,Technology,Wireless Mouse,Consumer,Partner,2,571.08,0.0,1142.16,479.64
+ORD-01169,2025-12-30,South,Technology,Wireless Mouse,Corporate,Online,3,760.8,0.0,2282.4,1109.02
+ORD-00820,2025-12-31,East,Home & Lifestyle,Lunch Bag,Consumer,In-Store,2,142.41,0.0,284.82,102.83
+ORD-01336,2025-12-31,North,Home & Lifestyle,Desk Plant,Small Business,Online,3,149.55,0.1,403.78,161.87

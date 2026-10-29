@@ -1,0 +1,13 @@
+Column,Description,Format
+Order_ID,Unique synthetic order identifier,Text
+Order_Date,Date of order,YYYY-MM-DD
+Region,Sales region,Category
+Category,Product category,Category
+Product,Product name,Text
+Segment,Customer segment,Category
+Sales_Channel,Order channel,Category
+Quantity,Units in the order record,Integer
+Unit_Price,Unit price before discount,USD
+Discount,"Discount fraction, e.g. 0.10 = 10%",Decimal
+Sales,Quantity × unit price × (1 − discount),USD
+Profit,Simulated profit after estimated product cost,USD
